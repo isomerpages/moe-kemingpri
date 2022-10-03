@@ -2,6 +2,7 @@ collections:
   kmps:
     output: true
     order:
+      - Announcements.md
       - Highlights/Highlights.md
       - Highlights/.keep
       - Quick Links.md
