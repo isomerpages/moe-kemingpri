@@ -79,3 +79,38 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;">Parent volunteers known as the Sparkle Mums provided support in learning.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/psg12.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg13.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">A talk on 'The Intentional Parent' was conducted for parents.</p>
+<p><strong>LOVE@Keming Family Day [Living Our Values Explicitly]</strong></p>
+<ul>
+<li>Provide a platform to celebrate and showcase Keming's talents and achievements</li>
+<li>Fostered bonding between the home and the school</li>
+<li>Collaborated with School Advisory Committee (SAC), Alumni, Parent Support Group (PSG), Parents and the Community Partners to enrich and enhance the quality of learning experiences</li>
+</ul>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/psg14.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg15.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/psg16.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg17.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/psg18.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg19.jpeg"></td>
+</tr>
+<tr>
+<td colspan = "2" ><img style="width: 50%;" src="/images/psg20.jpeg"></td>
+</tr>
+</tbody>
+</table>
