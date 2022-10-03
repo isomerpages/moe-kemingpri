@@ -24,3 +24,26 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Art Competition: Family Matters!</strong></p>
+<img style="width: 50%;" src="/images/kc8.jpeg">
+<p style="text-align: center;"><strong>WorkShops</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/kc9.jpeg">Talk on Resilience Workshop</td>
+<td style="width: 50%; text-align: center;"><img src="/images/kc10.jpeg">Digital Maker Workshop</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Trails</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/kc11.jpeg">Science Trail</td>
+<td style="width: 50%; text-align: center;"><img src="/images/kc12.jpeg">Art Trail</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><img style="width: 50%;"  src="/images/kc13.jpeg">Heritage Trail</td>
+</tr>
+</tbody>
+</table>
