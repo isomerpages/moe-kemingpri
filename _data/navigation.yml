@@ -1,8 +1,7 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/our-story
+    sublinks:
+      - title: Our Story
+        url: /about-us/our-story
