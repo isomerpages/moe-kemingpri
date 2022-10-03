@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Beliefs and Philosophy.md
       - School Values.md
       - School Song.md
       - Student’s Pledge.md
