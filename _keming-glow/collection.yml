@@ -2,6 +2,7 @@ collections:
   keming-glow:
     output: true
     order:
+      - Keming Celebrates!.md
       - Our Student Leaders.md
       - Our Students’ Voices.md
       - e–Newsletter.md
