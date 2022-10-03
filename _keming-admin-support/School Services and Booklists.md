@@ -56,3 +56,39 @@ description: ""
 <hr />
 <h4><strong>Booklists 2022</strong></h4>
 <p><a href="/files/KMPS%202022%20P1.pdf" target="_blank" rel="noopener"><strong>Primary 1 Booklist</strong></a><br /><a href="/files/KMPS%202022%20P2.pdf" target="_blank" rel="noopener"><strong>Primary 2 Booklist</strong></a><br /><a href="/files/KMPS%202022%20P3.pdf" target="_blank" rel="noopener"><strong>Primary 3 Booklist</strong></a><br /><a href="/files/KMPS%202022%20P4.pdf" target="_blank" rel="noopener"><strong>Primary 4 Booklist</strong></a><br /><a href="/files/KMPS%202022%20P5.pdf" target="_blank" rel="noopener"><strong>Primary 5 Booklist</strong></a><br /><a href="/files/KMPS%202022%20P5FDN.pdf" target="_blank" rel="noopener"><strong>Primary 5 Foundation Booklist</strong></a><br /><a href="/files/KMPS%202022%20P6.pdf" target="_blank" rel="noopener"><strong>Primary 6 Booklist</strong></a><br /><a href="/files/KMPS%202022%20P6FDN.pdf" target="_blank" rel="noopener"><strong>Primary 6 Foundation Booklist</strong></a><br /><a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener"><strong>List of Approved Dictionaries for PSLE</strong></a><br /><a href="/files/Guidelines%20on%20the%20use%20of%20Calculators%20for%202021%20Exam%20memo%20to%20schools.pdf" target="_blank" rel="noopener"><strong>List of Approved Calculators for PSLE</strong></a></p>
+<hr />
+<h4><strong>School-Based Student Care Centre in Keming Primary School</strong></h4>
+<p>The School-based Student Care Centre (SCC) is operated by Knowledge Park Educare Pte Ltd.</p>
+<p>Email:&nbsp;<a href="mailto:kemingscc@knowledgepark.com.sg" target=""><strong>kemingscc@knowledgepark.com.sg</strong></a></p>
+<p>Telephone:&nbsp;<strong>9656-8414</strong></p>
+<p>In Knowledge Park Systemic Learning Framework, we strongly advocate the partnership between the School, the Parents and the Centre to provide a safe, caring, positive and stimulated learning environment for the students.</p>
+<p>We offer a unique holistic development programme to meet the needs of the students in the Student Care Centre. Our programme includes:-</p>
+<ul>
+<li>Homework Supervision</li>
+<li>GEMS Character Development</li>
+<li>GEMS Enrichment Programme</li>
+<li>Outdoor Activities</li>
+</ul>
+<p><strong>Centre Opening Hours (Monday to Friday)</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="180px">
+<div>School Term</div>
+<div>School Holiday</div>
+</td>
+<td>
+<div>: 1.30 p.m. to 7 p.m.</div>
+<div>: 7.30 a.m. to 7 p.m.</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Student Care Fees<br /></strong>School Term: $290 per month<br /><em>Student Care Fee Assistance (SCFA) by CDC is available for students in need of financial assistance. Terms and conditions apply.</em></p>
+<p><strong>Student Care Centre Manager<br /></strong>Ms Tiffany Ng</p>
+<p><strong>Venue for collection and submission of registration form</strong></p>
+<ul>
+<li>Student Care Centre</li>
+<li>online registration&nbsp;<a href="http://www.knowledgepark.com.sg/kemingscc" target="_blank" rel="noopener">www.knowledgepark.com.sg/kemingscc</a></li>
+</ul>
+<p><strong>SCC Application for Primary One Students in 2022<br /></strong>Click here for online registration:&nbsp;<a href="https://knowledgepark.com.sg/kemingscc" target="_blank" rel="noopener"><strong>https://knowledgepark.com.sg/kemingscc</strong></a></p>
