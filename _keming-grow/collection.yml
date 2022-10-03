@@ -2,6 +2,7 @@ collections:
   keming-grow:
     output: true
     order:
+      - Our Co Curricular Activities/Our Co–Curricular Activities (CCAs).md
       - Our Co Curricular Activities/.keep
       - Our Uniqueness (LLP).md
       - INSPIRE (ALP).md
