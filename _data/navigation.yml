@@ -21,3 +21,24 @@ links:
         url: /about-us/school-song
       - title: Student’s Pledge
         url: /about-us/student-s-pledge
+  - title: Keming Family
+    url: /keming-family/our-school-leaders
+    sublinks:
+      - title: Our School Leaders
+        url: /keming-family/our-school-leaders
+      - title: Our Staff
+        url: /keming-family/our-staff
+      - title: Our School Advisory Committee
+        url: /keming-family/our-school-advisory-committee
+      - title: Our Alumni Association
+        url: /keming-family/our-alumni-association
+      - title: Our Parent Support Group
+        url: /keming-family/our-parent-support-group
+      - title: Our Parents
+        url: /keming-family/our-parents
+      - title: Our Junior Alumni
+        url: /keming-family/our-junior-alumni
+      - title: Our Voices
+        url: /keming-family/our-voices
+      - title: Our Partners
+        url: /keming-family/our-partners/community-partners
