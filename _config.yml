@@ -2,11 +2,11 @@ title: Keming Primary School
 url: https://kemingpri.moe.edu.sg
 favicon: /images/logo1.jpg
 colors:
-  primary-color: "#31f6fe"
+  primary-color: "#ff0034"
   secondary-color: "#006daf"
   media-colors:
     - title: media-color-one
-      color: "#ff0034"
+      color: "#31f6fe"
     - title: media-color-two
       color: "#a67e64"
     - title: media-color-three
