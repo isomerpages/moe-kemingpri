@@ -47,3 +47,11 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Partners/Community</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="2"><img style="width: 50%;"  src="/images/kc14.jpeg">Bukit Batok Neighbourhood Police Centre</td>
+</tr>
+</tbody>
+</table>
