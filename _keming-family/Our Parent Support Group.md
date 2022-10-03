@@ -3,3 +3,41 @@ title: Our Parent Support Group
 permalink: /keming-family/our-parent-support-group/
 description: ""
 ---
+<p><a href="/files/PSG%20Online%20Guide.pdf" target="_blank" rel="noopener">PSG Online Guide</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaSJQ8XSatc" title="PSG Members" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h4><strong>Programmes / Activities that Parent Volunteers&nbsp;could Offer their Services in:</strong></h4>
+<p><strong>Regular Basis (Academic)</strong></p>
+<ol>
+<li>Reading Programme *English / Chinese / Malay / Tamil</li>
+<li>Library Duty</li>
+</ol>
+<p><strong>Regular Basis (Non-academic)</strong></p>
+<ol start="3">
+<li>Swimming Lessons</li>
+<li>Road Safety / Traffic Control (Weekdays, from 7 a.m. to 7.30 a.m.)</li>
+<li>Main / Back Gate Duty ( Weekdays, half an hour before or after school)</li>
+<li>Recess Duty : Canteen / First -Aid Corner / Playground / Field</li>
+</ol>
+<p>(Weekdays, from 9.15 a.m. to 10.45a.m.)</p>
+<p><strong>Event-Based</strong></p>
+<ol start="7">
+<li>Facilitators for Learning Journey</li>
+<li>Life Skills Programme</li>
+<li>NAPFA Test</li>
+<li>Exam Duties: Time-Keeper for Oral Examination / Monitor student movement</li>
+<li>LOVE @ Keming Family Day</li>
+<li>NE Events Eg: Total Defence Day, Racial Harmony Day, International Friendship Day.</li>
+<li>Mid-Autumn Festival</li>
+<li>Sports / Games Day</li>
+<li>Teachers' Day Concert</li>
+<li>Conduct Workshops / Sharing / Seminars Eg. Career talk, motivational talk, craft work,etc</li>
+<li>Coach students for competitions</li>
+<li>Assist in preparing students on the day of competitions for CCAs such as Wushu, Chinese Orchestra, Chinese Dance and International Dance ( e.g. setting up of equipment, helping children with their makeup etc)</li>
+</ol>
+<p><strong>To register as a Parent Volunteer in Keming Primary School</strong></p>
+<p>Activities could be carried out either face-to-face or online, depending on the nature of the request by the school and at the same time adhering to the guidelines specified in the Safe Management Measures (SMM) document.</p>
+<ol>
+<li><strong>Current Parents with Children in the School</strong> &ndash; Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office.<br /><a href="/files/Parents%20Volunteer%20Form%20%20Child%20In%20School_2022.pdf">Parents Volunteer Form Child In School_2022.pdf</a></li>
+</ol>
+<p><strong>For any enquiries, you can contact Mdm Zainab at 68962054.</strong></p>
+<h4><strong>PSG Photo Gallery</strong></h4>
