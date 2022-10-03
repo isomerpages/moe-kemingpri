@@ -2,6 +2,7 @@ collections:
   kmps:
     output: true
     order:
+      - Highlights/Highlights.md
       - Highlights/.keep
       - Quick Links.md
       - Calendar.md
