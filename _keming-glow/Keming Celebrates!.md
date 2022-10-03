@@ -55,3 +55,16 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Performances</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/kc15.jpeg">Wushu</td>
+<td style="width: 50%; text-align: center;"><img src="/images/kc16.jpeg">Chinese Orchestra</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/kc17.jpeg">International Dance</td>
+<td style="width: 50%; text-align: center;"><img src="/images/kc18.jpeg">Indian Dance</td>
+</tr>
+</tbody>
+</table>
