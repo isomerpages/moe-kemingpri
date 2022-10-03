@@ -2,5 +2,6 @@ collections:
   keming-admin-support:
     output: true
     order:
+      - Forms and Guides.md
       - Feedback and Queries.md
       - FAQs.md
