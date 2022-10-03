@@ -11,3 +11,14 @@ description: ""
 <li>Sports excellence for talented student-athletes to excel in sports to enhance school and national (representing the country) pride.</li>
 </ul>
 <p><strong>APPROACH<br /></strong>The school adopts the 3E Approach to deliver a 6-year programme for students to Experience, Engage and Excel in sports. This helps them to bond with each other as a class through interaction and play as well as develop values and attitudes for character education. Students can choose to play the sports at a recreational or competitive level and also create an opportunity for staff, parents and other stakeholders to experience and support the vibrant sporting culture and environment in sports. P1 to P3 students experience our vibrant sporting culture through Wushu and other sports during PE lessons and Games Day; while P4 to P6 experience it through the various Sports CCA, PE lessons and Sports Days.</p>
+<img src="/images/llp1.png">
+<p><strong>LLP Character Development through Sports</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><strong><img src="/images/llp2.jpg">Primary 1 Wushu</strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong><img src="/images/llp3.jpg">Primary 2 Wushu</strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong><img src="/images/llp4.jpg">Primary 3 Wushu</strong></td>
+</tr>
+</tbody>
+</table>
