@@ -1,4 +1,5 @@
 collections:
   keming-grow:
     output: true
-    order: []
+    order:
+      - School Rules & Exam Matters.md
