@@ -1,4 +1,5 @@
 collections:
   kmps:
     output: true
-    order: []
+    order:
+      - Calendar.md
