@@ -2,6 +2,7 @@ collections:
   keming-grow:
     output: true
     order:
+      - Our Uniqueness (LLP).md
       - INSPIRE (ALP).md
       - Sexuality Education.md
       - School Rules & Exam Matters.md
