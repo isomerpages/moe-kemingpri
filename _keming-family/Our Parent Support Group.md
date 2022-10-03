@@ -41,3 +41,41 @@ description: ""
 </ol>
 <p><strong>For any enquiries, you can contact Mdm Zainab at 68962054.</strong></p>
 <h4><strong>PSG Photo Gallery</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/psg1.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg2.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/psg3.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg4.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">A series of talks on Good Enough Parenting was conducted for parents.</p>
+<p><strong>Talks Conducted for Parents of P1 Students for the First 3 Days</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/psg5.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg6.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/psg7.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg8.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<p>After the talks, the parents had the opportunity to interact with the Principal and the Parent Support Group.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/psg9.jpeg"></td>
+<td style="width: 50%;"><img src="/images/psg10.jpeg"></td>
+</tr>
+<tr>
+<td colspan = "2" ><img style="width: 50%;" src="/images/psg11.jpeg"></td>
+</tr>
+</tbody>
+</table>
