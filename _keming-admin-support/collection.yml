@@ -2,6 +2,7 @@ collections:
   keming-admin-support:
     output: true
     order:
+      - School Services and Booklists.md
       - Primary 1 Registration.md
       - Forms and Guides.md
       - Feedback and Queries.md
