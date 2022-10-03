@@ -55,3 +55,14 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Master Scientist (P5 Guided Inquiry)</strong></h4>
+<p>Primary 5 students were tasked to design a prototype that could save endangered animals. They identified the threats faced by the endangered animals. Using the Engineering Design Process, the students work in teams to brainstorm ideas and design their own unique prototype to counter the threat.</p>
+<p>To enrich the students&rsquo; learning experiences, the school partnered with external agencies. The experts from S.E.A. Aquarium engaged our students in an hour long zoom session. Students were thrilled to go on a virtual tour of the Aquarium and to interact with the keepers who cared for the animals. During the interactive session, the keepers spoke about a specific sea creature and the threats the animal faced in the wild.&nbsp;</p>
+<p>To make learning authentic, students were informed about conservation efforts done in the school. Students were encouraged to visit the turtle enclosure in the school garden to understand the constraints and vulnerability of animal habitats. Students were then tasked to reflect on their role in the conservation of biodiversity. Through these activities, students could better appreciate nature and understand the efforts in sustaining conservation.</p>
+<img src="/images/alp14.png"><br>
+<img src="/images/alp15.png">
+<h4><strong>D.I.S.C.O.V.E.R Programme</strong></h4>
+<p style="text-align: center;">(<strong>D</strong>eveloping<strong>&nbsp;I</strong>nquirers of&nbsp;<strong>S</strong>cien<strong>C</strong>e, Inn<strong>OV</strong>ators of&nbsp;<strong>E</strong>xperimental&nbsp;<strong>R</strong>esearch in Keming Primary School)</p>
+<p>D.I.S.C.O.V.E.R. programme provides an opportunity for students to gain a deeper understanding of how Science and Technology can shape their intellectual and cultural environment. Students are equipped with skills to be reflective, ethical citizens and critical thinkers while engaging in environment-related issues.</p>
+<p>This programme provides an authentic learning experience which focusses on the impact of pollution in our natural environment. Under the guidance of experts, two scientists from A*STAR will mentor the Primary 5 students to study about the environmental issues that Singapore faces. Due to the current safe management measures, learning for the students took place online this year. Students collaborated well with their team members online and they came up with creative ways to gather data.</p>
+<img src="/images/alp16.png">
