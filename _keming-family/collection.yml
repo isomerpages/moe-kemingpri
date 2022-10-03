@@ -2,4 +2,5 @@ collections:
   keming-family:
     output: true
     order:
+      - Our Partners/Other Key Partners.md
       - Our Partners/.keep
