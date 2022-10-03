@@ -2,6 +2,7 @@ collections:
   keming-family:
     output: true
     order:
+      - Our Parents.md
       - Our Junior Alumni.md
       - Our Voices.md
       - Our Partners/Community Partners.md
