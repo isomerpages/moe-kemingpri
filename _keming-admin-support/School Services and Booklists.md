@@ -9,6 +9,7 @@ description: ""
 <p><strong>JK59 PTE LTD</strong></p>
 <p>17 Lorong Kilat, #01-10 Kilat Court, Singapore 598139<br />Tel: 6465 5959 Fax: 6466 5959<br />Email:&nbsp;<a href="mailto:transport@jk59.com">transport@jk59.com</a></p>
 <p>Public transport is available along Bukit Batok East Ave 3, Bukit Batok East Ave 6 and Bukit Batok Street 21.</p>
+<hr />
 <h4><strong>School Uniform</strong></h4>
 <p>The school uniform supplier is:</p>
 <p><strong>JEEP SING FASHION<br /></strong>(Head Office/ Factory)<br />4012 Ang Mo Kio Ave 10<br />#01-09 TECHplace 1<br />Singapore 569628<br />Tel:+65 6456 3198 / +65 3163 6074</p>
@@ -24,3 +25,34 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr />
+<h4><strong>School Dental Clinic</strong></h4>
+<p>For your child&rsquo;s dental treatment, the school dental clinic is available in the school premises.</p>
+<p><u>The opening hours are as follows:</u></p>
+<table border="0">
+<tbody>
+<tr>
+<td width="180px">
+<div><strong>Monday-Thursday:</strong></div>
+<div><strong>Friday:</strong></div>
+</td>
+<td>
+<div>8.00 a.m. to 5.30 p.m.</div>
+<div>8.00 a.m. to 5.00 p.m.</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>(Lunch Hours: 1 p.m. to 2 p.m.)</strong></p>
+<p><strong>Tel: 9114 9841</strong></p>
+<p>For&nbsp;<strong><u>Urgent Cases</u></strong>&nbsp;when clinic is closed,<br />please call the following:</p>
+<p>Health Promotion Board<br />School Dental Centre, Level 4<br />3, Second Hospital Ave S (168937)<br />Tel: 64353782</p>
+<hr />
+<h4><strong>School Bookshop</strong></h4>
+<p>Our school Bookshop is operated by:</p>
+<p><strong>Pacific Bookstores Pte Ltd</strong></p>
+<p>Blk 733 #03-01, Ayer Rajar Industrial Estate,<br />Ayer Rajah Crescent,<br />Singapore 139952<br /><strong>Tel:</strong>&nbsp;6464 0111<br /><strong>Fax:</strong>&nbsp;6464 0110<br /><strong>Email:</strong>&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a></p>
+<p>Sales of textbooks online via the URL -&nbsp;<strong><a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">http://www.pacificbookstores.com</a></strong></p>
+<hr />
+<h4><strong>Booklists 2022</strong></h4>
+<p><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P1.pdf" target="_blank" rel="noopener"><strong>Primary 1 Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P2.pdf" target="_blank" rel="noopener"><strong>Primary 2 Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P3.pdf" target="_blank" rel="noopener"><strong>Primary 3 Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P4.pdf" target="_blank" rel="noopener"><strong>Primary 4 Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P5.pdf" target="_blank" rel="noopener"><strong>Primary 5 Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P5FDN.pdf" target="_blank" rel="noopener"><strong>Primary 5 Foundation Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P6.pdf" target="_blank" rel="noopener"><strong>Primary 6 Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/KMPS%202022%20P6FDN.pdf" target="_blank" rel="noopener"><strong>Primary 6 Foundation Booklist</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202022/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener"><strong>List of Approved Dictionaries for PSLE</strong></a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Admin%20Support/School%20Services%20and%20Booklists/Booklists%202021/Guidelines%20on%20the%20use%20of%20Calculators%20for%202021%20Exam%20memo%20to%20schools.pdf" target="_blank" rel="noopener"><strong>List of Approved Calculators for PSLE</strong></a></p>
