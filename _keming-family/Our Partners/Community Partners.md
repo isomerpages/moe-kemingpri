@@ -18,8 +18,8 @@ third_nav_title: Our Partners
 <td style="width: 50%;"><img src="/images/cp3.jpeg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/cp4.jpeg"></td>
-<td style="width: 50%;"><img src="/images/cp5.jpeg"></td>
+<td style="width: 50%;"><img style="width: 80%;" src="/images/cp4.jpeg"></td>
+<td style="width: 50%;"><img style="width: 80%;" src="/images/cp5.jpeg"></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img src="/images/cp6.jpeg"></td>
