@@ -33,3 +33,25 @@ description: ""
 <h4><strong>Junior Scientist (P3 Guided inquiry)</strong></h4>
 <p>P3 students created structures using building elements from Strawbees. During the training sessions, they were taught to apply simple principles of movement to build mechanisms that were required to construct a mobile.</p>
 <p>Strawbees allows students to be innovative through hands-on exploration as they construct their ingenious design. Students gain a better understanding of mechanisms with their inventions.</p>
+<img src="/images/alp7.png"><br>
+<img src="/images/alp8.png">
+<p style="text-align: center;">Construction of prototype</p>
+<img src="/images/alp9.png">
+<h4><strong>Apprentice Scientist (P4 Guided inquiry)</strong></h4>
+<p>Students learnt the importance of producing sufficient food to be self-sustainable and in turn, contributing to food security in Singapore. The hydroponics project enable students to experience harvesting vegetables such as water spinach and kangkong, taking note of the ideal conditions for plant growth.</p>
+<img src="/images/alp10.png">
+<p>A rewarding experience to grow plants from seeds.</p>
+<img src="/images/alp11.png">
+<p><strong>To investigate the growth of the vegetables under different light conditions.</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 70%;"><img src="/images/alp12.png"></td>
+<td style="width: 30%;">Students grew the vegetables in grow-boxes. This activity reinforced the scientific concept learnt on how overcrowding can affect plant growth.</td>
+</tr>
+<tr>
+<td style="width: 70%;"><img src="/images/alp13.png"></td>
+<td style="width: 30%;">After 4 to 5 weeks, the vegetables were harvested and packed into bags. Students recorded the weight of their harvests.&nbsp; The edible harvest was consumed while the spoils were used as soil compost.</td>
+</tr>
+</tbody>
+</table>
