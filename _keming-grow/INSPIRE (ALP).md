@@ -23,3 +23,13 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Primary 1 (E.X.P.L.O.R.E.)</strong></h4>
+<p>Primary 1 students were introduced to the basics of block programming and they were guided step-by-step to recognize the different blocks in the makecode platform.&nbsp;</p>
+<p>They gained a better understanding of the different applications of Micro:bit such as automated watering system, remote control, music devices and many more.</p>
+<img src="/images/alp5.png">
+<h4><strong>Primary 2 (E.X.P.L.O.R.E.)</strong></h4>
+<p>In Primary 2, students were given a chance to deepen their knowledge of what they had learnt earlier. They did the coding in the makecode platform and assembled their own light detector. Using the light sensor application in the Micro:bit, they were able to check the brightness of the room and used it to turn off the lights when not needed in order to conserve energy.<br />Students were given the opportunity to explore and test their codes. They collaborated with one another and helped each other out when they faced challenges.</p>
+<img src="/images/alp6.png">
+<h4><strong>Junior Scientist (P3 Guided inquiry)</strong></h4>
+<p>P3 students created structures using building elements from Strawbees. During the training sessions, they were taught to apply simple principles of movement to build mechanisms that were required to construct a mobile.</p>
+<p>Strawbees allows students to be innovative through hands-on exploration as they construct their ingenious design. Students gain a better understanding of mechanisms with their inventions.</p>
