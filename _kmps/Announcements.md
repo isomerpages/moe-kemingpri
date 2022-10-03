@@ -14,7 +14,7 @@ description: ""
 <td style="width: 305.578px;">
 <p><strong>Link:</strong>&nbsp;<u><a href="https://youtu.be/ZzdjXPV_xWM">https://youtu.be/ZzdjXPV_xWM</a></u></p>
 <p><strong>QR code:</strong></p>
-<p>&nbsp;</p>
+<img style="width: 40%;" src="/images/qr.png" align = "left" />
 </td>
 </tr>
 </tbody>
