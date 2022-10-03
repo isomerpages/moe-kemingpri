@@ -1,4 +1,5 @@
 collections:
   keming-glow:
     output: true
-    order: []
+    order:
+      - e–Newsletter.md
