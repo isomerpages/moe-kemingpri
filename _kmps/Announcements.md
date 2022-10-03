@@ -21,6 +21,6 @@ description: ""
 </table>
 <p>Thank you.</p>
 <hr>
-<p>Dear Parents<br />Resumption of CCAs in 2022. Click the link below<br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/003_2022_Resumption%20of%20CCAs%20in%202022.pdf">Resumption of CCAs in 2022.</a><br />Thank You</p>
+<p>Dear Parents<br />Resumption of CCAs in 2022. Click the link below<br /><a href="/files/003_2022_Resumption%20of%20CCAs%20in%202022.pdf">Resumption of CCAs in 2022.</a><br />Thank You</p>
 <hr>
-<p>Dear Parents<br />Information on Sexuality Education for School 2022. Click the link below.<br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/Letter%20to%20Parents%20on%20MOE%20SEd%20in%20Schools%202022.pdf">Letter to Parents on MOE SEd in Schools 2022</a><br /><a href="https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/Info%20on%20MOE%20SEd%20Pri%20for%20School%20Website%202022.pdf">Info on MOE SEd Pri for School 2022</a><br />Thank you.</p>
+<p>Dear Parents<br />Information on Sexuality Education for School 2022. Click the link below.<br /><a href="/files/Letter%20to%20Parents%20on%20MOE%20SEd%20in%20Schools%202022.pdf">Letter to Parents on MOE SEd in Schools 2022</a><br /><a href="/files/Info%20on%20MOE%20SEd%20Pri%20for%20School%20Website%202022.pdf">Info on MOE SEd Pri for School 2022</a><br />Thank you.</p>
