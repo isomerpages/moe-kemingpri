@@ -27,3 +27,17 @@ third_nav_title: Our Co Curriculum
 </tr>
 </tbody>
 </table>
+<h4><strong>Art</strong></h4>
+<p>The Art Department focuses on the process of creating Art. Our teachers follow the Seeing-Expressing-Appreciating approach to encourage our students to appreciate Art not only by looking at the end product but also by thinking through how they created their art pieces and how they feel upon completion. We adopt Artful Thinking strategies such as See-Think-Wonder and Step Inside to develop active processing and reflection in the creation process.</p>
+<p>Our students are introduced to the basic skills of drawing and colouring as well as blending techniques in crayons and painting in the lower primary. They will get to know works by famous artists like Vincent Van Goh and Andy Warhol and have a hand in creating artworks in these famous artists&rsquo; style e.g. Pop Art.</p>
+<p>Upper Primary students will have the opportunity to explore varied visual art forms at a higher level from photography to still life drawing. Students will continue to learn about artists and their works like Georgia O&rsquo;Keefe and Paul Cezanne.</p>
+<p>In their 6 years in Keming, students will have the opportunity to visit art works at a museum as part of their Arts Enrichment &amp; Excursion experience and opportunities to display their art works during art exhibitions.</p>
+<img style="width: 100%;" src="/images/aes4.jpg" /><br>
+<img style="width: 100%;" src="/images/aes5.jpg" />
+<h4><strong>Music</strong></h4>
+<p>The Music Department follows the new Music syllabus closely and injects elements of fun into lessons by introducing movement as well as dance. Students will be exposed to various music genres and musical instruments individually and in groups.</p>
+<p>At the lower levels, students will learn fundamental music skills like solfege and develop both their aural and vocal domains.</p>
+<p>From Primary 3 to 5, all students will hone their music skills further by engaging in at least 2 musical instruments, namely, the recorder and xylophone. They will also have the opportunity to participate in music enrichment programmes which encourage ensemble playing.</p>
+<p>In 2016, all our Primary 6 students went through a 10-week course in jazz/hip hop dance with an external vendor. All the classes then showcased their newly-honed dance skills during their year-end Primary 6 Graduation Concert.</p>
+<img style="width: 80%;" src="/images/aes6.jpeg" />
+<p style="text-align: center;"><em>Music Lesson</em></p>
