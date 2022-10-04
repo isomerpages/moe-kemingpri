@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Citizenship Education and Project Work Committee.md
       - Character and Citizenship Development.md
