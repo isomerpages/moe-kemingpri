@@ -98,9 +98,32 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">1990s to 2010</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh17.jpg"><div><strong>School Visit</strong></div>
+<div>Taiwan Tungshing Elementary School Visit taken in 2000</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh18.png"><div><strong>Musical in 2003</strong></div>
+<div>Our Kemingnites performing in the Musical</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh19.jpg"><div><strong>Our Learning Environment</strong></div>
+<div>These were some of the photographs taken of our learning environment in 2005, during our 70th anniversary, they were our Heritage Park, Orchid Shed and Ecogarden</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh20.jpg"><div><strong>Staff Photo 2007</strong></div>
+<div>Staff photo taken in 2007 with our former principal, Mr. Michel Saw</div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
