@@ -128,7 +128,77 @@ description: ""
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">2010 to Present</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri1.jpg"><div><strong>PRIME Upgrading</strong></div>
+<div>Completion of PRIME with new teaching blocks and facilities was completed in 2013.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri2.jpg"><div><strong>PERI Upgrading</strong></div>
+<div>Completion of the PERI upgrading with our new Indoor Sports Hall (ISH) was completed in 2014.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri3.jpg"><div><strong>P6 Malacca Trip 2014</strong></div>
+<div>Photo taken in 2014 on our P6 learning journey to Malacca</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri4.jpg"><div><strong>Staff Photo 2014</strong></div>
+<div>Staff photo taken in 2014 with our former principal, Ms. Chew Tock Lee</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri5.jpg"><div><strong>80th Anniversary Logo</strong></div>
+<div>This is our 80th anniversary logo designed to commemorate the event.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri6.png"><div><strong>80th Anniversary Book Cover</strong></div>
+<div>This is our 80th anniversary book cover designed to commemorate the event.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri7.jpg"><div><strong>School Advisory Committee (SAC) Photo</strong></div>
+<div>Our SAC members with our former principal, Ms. Chew Tock Lee</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri8.jpg"><div><strong>Outreach to Community</strong></div>
+<div>Our former Principal, Ms Chew Tock Lee spent time with the seniors from St Luke&rsquo;s Eldercare@Bukit Batok during Grandparents Day.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri9.png"><div><strong>Keming Primary turns 85!</strong></div>
+<div>The theme of the launch is &lsquo;Celebrating with LOVE&rsquo;. LOVE stands for Living Our Values Explicitly, in the form of service to the community.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri10.jpg"><div><strong>Unveiling of the Acts of LOVE feature wall</strong></div>
+<div>Our School Leaders, former principals and staff, special guests from the School Advisory Committee, Alumni and Parent Support Group at our Acts of LOVE feature wall.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri11.jpg"><div><strong>Launch of 85th Anniversary</strong></div>
+<div>Our Kemingnites and staff were united as one as we rejoiced with our special 55 Clap Keming Cheer, as the launch took place.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri12.png"><div><strong>85th Anniversary Keychain</strong></div>
+<div>This is our 85th anniversary keychain designed to commemorate the event.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/heri13.jpg"><div><strong>Outreach to Community</strong></div>
+<div>School leaders and Guest of Honour with seniors from Bukit Batok Active Aging Club</div>
+</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Our Acts of Love (2020 - 2021)</label>
