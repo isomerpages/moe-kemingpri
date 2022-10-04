@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Student Well–Being Committee.md
       - Citizenship Education and Project Work Committee.md
       - Character and Citizenship Development.md
