@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Highlights/P6 EXHALERATION.md
       - Highlights/Highlights.md
       - Highlights/.keep
       - Quick Links.md
