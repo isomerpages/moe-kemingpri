@@ -27,7 +27,40 @@ description: ""
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh6.jpg"><div><strong>Our School Population</strong></div>
+<div>19th batch of Keok Ming Public School students taken in 1957</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh7.jpg"><div><strong>Our Staff Photo</strong></div>
+<div>Staff photo taken in 1958</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh8.jpg"><div><strong>Our Class Photo</strong></div>
+<div>A class shot posing in our old school uniform at the outdoor basketball court</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh9.png"><div><strong>Official Opening</strong></div>
+<div>The then Prime Minister, the late Mr Lee Kuan Yew, helped to relocate the school to North Buona Vista and officially opened it on 10 December 1966.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh10.png"><div><strong>Singing of National Anthem</strong></div>
+<div>Singing of national anthem and recital of pledge after relocation</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh11.jpg"><div><strong>Fundraising Campaign</strong></div>
+<div>A large scale public fundraising campaign was organised in 1977 with both staff and community coming together to raise funds for the disadvantaged students and their families.</div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
