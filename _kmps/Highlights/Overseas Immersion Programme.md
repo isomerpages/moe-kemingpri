@@ -16,3 +16,18 @@ third_nav_title: Highlights
 </tr>
 </tbody>
 </table>
+<p>Hosting of Kairos Gracia (Indonesia) in Keming Pri: Kemingnites received small gifts and compliments from Kairos Gracia students for being great hosts to them over the four days</p>
+<img style="width: 80%;" src="/images/oip4.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_Joining in the Weaving Fun!</p>
+<img style="width: 80%;" src="/images/oip5.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_Joining in the Weaving Fun!</p>
+<img style="width: 80%;" src="/images/oip6.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_Joining in the Weaving Fun!</p>
+<img style="width: 80%;" src="/images/oip7.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_Our Sporting Kemingnites joining in the Finale Dance</p>
+<img style="width: 80%;" src="/images/oip8.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_Exchange of Souvenirs with our hosting school</p>
+<img style="width: 80%;" src="/images/oip9.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_group photo taken with our overseas hosts</p>
+<img style="width: 80%;" src="/images/oip10.jpg">
+<p>Overseas Learning Journey to Sarawak SJK Chung Hua No. 5_group photo taken with our overseas hosts after the performance.</p>
