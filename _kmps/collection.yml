@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Highlights/Festival Celebrations.md
       - Highlights/Overseas Immersion Programme.md
       - Highlights/Reading Picnic.md
       - Highlights/LOVE@Keming.md
