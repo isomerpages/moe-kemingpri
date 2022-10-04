@@ -63,9 +63,39 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">1980s</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh12.jpg"><div><strong>Attainment of full government status</strong></div>
+<div>Our school attained full government status<br />and was renamed as Keok Ming Primary School in 1982.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh13.jpg"><div><strong>Our move to Bukit Batok</strong></div>
+<div>Our school moved to Bukit Batok in 1987 with a change in name to Keming Primary School.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh14.jpg"><div><strong>Our Sports Day event in the past</strong></div>
+<div>Photo of our Sports Day event taken in the 1980s</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh15.jpg"><div><strong>Official Opening</strong></div>
+<div>A photo of our official opening ceremony taken in 1989</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh16.png"><div><strong>New School Badge</strong></div>
+<div>The three red circles represent the sun;<br />The two blue stripes represent a book and the sea from which rose the sun; symbolic of students&rsquo; courage to forge ahead towards a bright future.<br />Red represents passion and courage;<br />Blue represents peace, humility and compassion;<br />Concentric circles symbolise a child embraced by the arms of parents, teachers and the community.</div>
+</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
