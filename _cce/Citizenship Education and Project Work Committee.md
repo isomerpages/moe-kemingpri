@@ -24,5 +24,45 @@ description: ""
 <p>3. Social Studies and National Education<br />The various commemorative days such as Total Defence Day, International Friendship Day, Racial Harmony Day and National Day, and the National Education programmes such as learning journeys serve to instil in pupils a sense of belonging and commitment to the school, nation and world.</p>
 <p>Furthermore, the Social Studies curriculum aspires towards the educative growth of learners as informed, concerned and participative citizens by the end of the full course of Social Studies education in our Primary Schools.</p>
 <p>Lastly, in line with our school&rsquo;s vision of &lsquo;Enriched Citizen&rsquo;, we go forth committed to nurturing every pupil to realise his/her potential and to make a difference to society.</p>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 10%;">&nbsp;</td>
+<td style="width: 30%; text-align: center;"><strong>National Education Core Events</strong></td>
+<td style="width: 60%; text-align: center;"><strong>Background</strong></td>
+</tr>
+<tr>
+<td style="width: 10%;">1</td>
+<td style="width: 30%;">
+<div>Total Defence Day</div>
+<div>(Term 1)</div>
+</td>
+<td style="width: 60%;">Total Defence Day is commemorated annually on 15 February to mark Singapore&rsquo;s fall to the Japanese in 1942. Total Defence Day serves to remind our pupils that Singapore is defensible and is worth defending, and that we ourselves must defend Singapore.</td>
+</tr>
+<tr>
+<td style="width: 10%;">2</td>
+<td style="width: 30%;">
+<div>International Friendship Day</div>
+<div>(Term 2)</div>
+</td>
+<td style="width: 60%;">International Friendship Day is a day dedicated to the understanding of Singapore&rsquo;s relations with neighbouring countries and beyond. It aims to nurture in our pupils the spirit of friendship and collaboration among different people.</td>
+</tr>
+<tr>
+<td style="width: 10%;">3</td>
+<td style="width: 30%;">
+<div>Racial Harmony Day</div>
+<div>(Term 3)</div>
+</td>
+<td style="width: 60%;">Racial Harmony Day is commemorated on 21 July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division had cost us dearly and that racial harmony should never be taken for granted. It is a day for schools to reflect on, and to celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritage.</td>
+</tr>
+<tr>
+<td style="width: 10%;">4</td>
+<td style="width: 30%;">
+<div>National Day</div>
+<div>(Term 3)</div>
+</td>
+<td style="width: 60%;">National Day marks our emergence as an independent country in the community of nations. Since 1998, the National Day Ceremony was introduced in schools to enhance the significance of National Day Celebrations. This ceremony aims to bring to the pupils a greater sense of the historical importance and solemnity of National Day.</td>
+</tr>
+</tbody>
+</table>
 <img style="width: 70%;" src="/images/cepw2.png" />
