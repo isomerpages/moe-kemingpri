@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>Key Milestones 1935 &ndash; Present</strong></h4>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Simple</label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">1930s - 1940s</label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -25,7 +25,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">1950s - 1970s</label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
