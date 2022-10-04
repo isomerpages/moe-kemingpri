@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Highlights/LOVE@Keming.md
       - Highlights/School Exchanges – Dulwich College (Junior) & Taipei Nangang
         Elementary.md
       - Highlights/Singapore Together Pack.md
