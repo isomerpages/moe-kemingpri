@@ -114,7 +114,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
-<img src="/images/oh19.jpg"><div><strong>Our Learning Environment</strong></div>
+<img style="width: 65%;" src="/images/oh19.jpg"><div><strong>Our Learning Environment</strong></div>
 <div>These were some of the photographs taken of our learning environment in 2005, during our 70th anniversary, they were our Heritage Park, Orchid Shed and Ecogarden</div>
 </td>
 <td style="width: 50%; text-align: center;">
