@@ -126,14 +126,37 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">2010 to Present</label>
 <div>
 <p>This is a simple one line item</p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Simple</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Our Acts of Love (2020 - 2021)</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh21.png"><div><strong>85th Anniversary Acts of Love</strong></div>
+<div>The student leaders engaged the residents in Bukit Batok Care Home in the craft making for Lunar New Year.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh22.png"><div><strong>85th Anniversary Acts of Love</strong></div>
+<div>The Primary Three students wrote Lunar New Year greetings with messages of hopes, prosperity, good luck and good health to some residents in Bukit Batok.</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh23.png"><div><strong>85th Anniversary Acts of Love</strong></div>
+<div>Our Heart of Gratitude card messages written by Kemingnites were put together by the Art Club members and presented to the frontliners of Bukit Batok.</div>
+</td>
+<td style="width: 50%; text-align: center;">
+<img src="/images/oh24.png"><div><strong>85th Anniversary Acts of Love</strong></div>
+<div>The warm, happy smiles on the faces of the senior citizens when they viewed the e-performances and received the contributions from the Keming family.</div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
