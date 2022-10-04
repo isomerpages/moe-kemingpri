@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Highlights/ARTS 4 U.md
       - Highlights/P6 EXHALERATION.md
       - Highlights/Highlights.md
       - Highlights/.keep
