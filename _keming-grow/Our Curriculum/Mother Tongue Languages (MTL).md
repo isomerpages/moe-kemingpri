@@ -89,3 +89,28 @@ third_nav_title: Our Curriculum
 <img style="width: 70%;" src="/images/mtl28.png" />
 <p style="text-align: center;">P1 TL Show &amp; Tell</p>
 <img style="width: 100%;" src="/images/mtl30.png" />
+<p style="text-align: center;">P1 TL Kolam Decoration</p>
+<img style="width: 100%;" src="/images/mtl31.png" />
+<p style="text-align: center;">P2 TL Scenario Description</p>
+<img style="width: 70%;" src="/images/mtl32.png" />
+<p style="text-align: center;">P2 TL Thoranam Making</p>
+<img style="width: 100%;" src="/images/mtl33.png" />
+<p style="text-align: center;">P3 TL Role Play</p>
+<img style="width: 80%;" src="/images/mtl34.png" />
+<p style="text-align: center;">P3 TL Flower Tying</p>
+<img style="width: 80%;" src="/images/mtl35.png" />
+<p style="text-align: center;">P3 TL Reader&rsquo;s Theatre</p>
+<img style="width: 100%;" src="/images/mtl36.png" />
+<p style="text-align: center;">P4 TL Story Telling</p>
+<img style="width: 70%;" src="/images/mtl37.png" />
+<p style="text-align: center;">P4 Kolam Decoration</p>
+<img style="width: 70%;" src="/images/mtl38.png" />
+<p style="text-align: center;">P4 Learning Journey to the Heritage Centre</p>
+<img style="width: 90%;" src="/images/mtl39.png" />
+<p style="text-align: center;">P5 TL Oratorical</p>
+<img style="width: 100%;" src="/images/mtl40.png" />
+<p style="text-align: center;">P5 TL Hena Drawing</p>
+<img style="width: 70%;" src="/images/mtl41.png" />
+<p style="text-align: center;">P6 TL Language Quiz</p>
+<img style="width: 90%;" src="/images/mtl42.png" />
+<p style="text-align: center;">P6 TL Indian Traditional Games</p>
