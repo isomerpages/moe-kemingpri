@@ -54,3 +54,14 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>2021 Competitions:</strong></p>
+<p><strong>National Cub Scout Mind Quiz winners</strong>:<br />Tan Zheng Yi Adrian, Primary 4 Di (Gold)<br />Lau Qi Hen Tristin, Primary 5 Em (Silver)<br />Venice Toh Yee Hee, Primary 5 Em (Silver)</p>
+<p><strong>2021 Activities:</strong></p>
+<p><strong>Unit Meetings<br /></strong>We kicked off the year by having roasted marshmallows at the end of our Unit Meeting. The teachers and the Cubs had a whale of time bonding and building our camaraderie.</p>
+<img style="width: 65%;" src="/images/sco4.png">
+<p><strong>World Water Day Learning Journey</strong><br />Tuatara Cub Scouts were able to extend their learning of World Water Day after its commemoration at the start of Term 2. The Cubs were fortunate to go on a learning trail to Waterway Watch Society on 24 March 2021</p>
+<img style="width: 75%;" src="/images/sco5.png">
+<p style="text-align: center;">Look at the trash!</p>
+<img style="width: 65%;" src="/images/sco6.png">
+<p style="text-align: center;">Debriefing after trash collection</p>
+<img style="width: 60%;" src="/images/sco7.png">
