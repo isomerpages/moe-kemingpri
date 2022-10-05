@@ -26,3 +26,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>Keming Amazing Flying Competition</h4>
+<p>Our Science Club students displayed a growth mind-set as they modified their planes till it was ready for flight. All of the students managed to successfully launch the paper planes, they were full of smiles when the session ended, and this competition indeed ended the term on a high note for all!</p>
+<img src="/images/sc5.png">
+<h4>Singapore Youth Science Fair</h4>
+<img src="/images/sc6.jpg"><br>
+<img src="/images/sc7.jpg">
