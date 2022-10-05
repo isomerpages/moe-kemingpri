@@ -2,4 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - The International Chess Club.md
       - Young Inventors Club (YIC).md
