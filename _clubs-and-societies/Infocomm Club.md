@@ -19,9 +19,7 @@ description: ""
 <p style="text-align: center;">Collaboration with The New Media Club from Millennia Institute</p>
 <img style="width: 60%;" src="/images/info2.jpg">
 <p style="text-align: center;">ACE team awarded the Gold Award for 4th National Coding Competition 2018</p>
-Institute</p>
 <img style="width: 60%;" src="/images/info3.jpg">
 <p style="text-align: center;">Alpha Beta team awarded the Silver Award for 4th National Coding Competition 2018</p>
-Institute</p>
 <img style="width: 60%;" src="/images/info4.jpg">
 <p style="text-align: center;"><strong>National Photography Festival 2018 Award Presentation:<br /></strong>4 People's Choice Award (Facebook) &amp; Group Special Mention Award</p>
