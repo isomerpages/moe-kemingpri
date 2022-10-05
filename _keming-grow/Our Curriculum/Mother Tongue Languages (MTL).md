@@ -71,3 +71,21 @@ third_nav_title: Our Curriculum
 <p style="text-align: center;">Students learning Chinese Animal Chess</p>
 <p><strong>Mother Tongue Language Fortnight Activities 2019</strong></p>
 <img style="width: 90%;" src="/images/mtl20.png" />
+<p style="text-align: center;">Traditional Games at Recess</p>
+<img style="width: 100%;" src="/images/mtl21.png" />
+<p style="text-align: center;">CL Story Telling</p>
+<img style="width: 80%;" src="/images/mtl22.png" />
+<p style="text-align: center;">P1 CL Word Search activity</p>
+<img style="width: 50%;" src="/images/mtl23.png" />
+<p style="text-align: center;">P3 CL Reader&rsquo;s Theatre</p>
+<img style="width: 100%;" src="/images/mtl24.png" />
+<p style="text-align: center;">P6 Clay Modelling</p>
+<img style="width: 70%;" src="/images/mtl25.png" />
+<p style="text-align: center;">P1 ML Spelling Bee</p>
+<img style="width: 75%;" src="/images/mtl26.png" />
+<p style="text-align: center;">P2 ML Role-Play</p>
+<img style="width: 100%;" src="/images/mtl27.png" />
+<p style="text-align: center;">P5 ML Journalism Workshop</p>
+<img style="width: 70%;" src="/images/mtl28.png" />
+<p style="text-align: center;">P1 TL Show &amp; Tell</p>
+<img style="width: 100%;" src="/images/mtl30.png" />
