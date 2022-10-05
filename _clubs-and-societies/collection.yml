@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - ECO Club.md
       - Infocomm Club.md
       - Science Club.md
       - Debate Club.md
