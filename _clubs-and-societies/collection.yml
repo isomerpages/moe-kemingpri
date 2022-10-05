@@ -2,5 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Debate Club.md
       - The International Chess Club.md
       - Young Inventors Club (YIC).md
