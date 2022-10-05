@@ -12,3 +12,14 @@ description: ""
 <p><strong>Wednesdays</strong>, 2 p.m. - 4 p.m.</p>
 <h4>Venue</h4>
 <p>School Library/Computer Lab</p>
+<table class="ives_tab_kosong ive_eobj_center">
+<tbody>
+<tr>
+<td rowspan="2"><img src="/images/de1.jpg"></td>
+<td><img src="/images/de2.jpg"></td>
+</tr>
+<tr>
+<td><img src="/images/de3.jpg"></td>
+</tr>
+</tbody>
+</table>
