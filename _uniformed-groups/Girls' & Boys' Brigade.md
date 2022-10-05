@@ -29,3 +29,12 @@ description: ""
 </ul>
 <h4>Achievements</h4>
 <p>BB - Achievement Badage 2018 - <strong>Gold Award<br /></strong>BB - Achievement Badage 2018 -&nbsp;<strong>Best Boy Award<br /></strong>BB - J M Fraser Award for Excellence 2017 -&nbsp;<strong>Bronze Honour Roll<br /></strong>GB - Low Guat Tin Challenge 2017 -&nbsp;<strong>Silver&nbsp;</strong>(2 Teams)<br />GB - Low Guat Tin Challenge 2017 -&nbsp;<strong>Gold</strong>&nbsp;(2 Teams)</p>
+<img src="/images/bb1.jpg">
+<p style="text-align: center;">Our Junior Leader, Melody Iva Tay presenting the Girls&rsquo; Brigade Bronze Award to our Principal, Ms Chew.</p>
+<img src="/images/bb2.jpg"><br>
+<img src="/images/bb3.jpg"><br>
+<img src="/images/bb4.jpg"><br>
+<img src="/images/bb5.jpg"><br>
+<img src="/images/bb6.jpg"><br>
+<img src="/images/bb7.jpg"><br>
+<img src="/images/bb8.jpg">
