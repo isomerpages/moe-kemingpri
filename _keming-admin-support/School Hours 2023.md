@@ -3,7 +3,6 @@ title: School Hours 2023
 permalink: /keming-admin-support/school-hours-2023/
 description: ""
 ---
-
 <table>
 <tbody>
 <tr>
@@ -29,7 +28,7 @@ description: ""
 <th style="text-align: center;">Recess</th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Primary 3 and 5</strong></td>
+<td style="text-align: center;"><strong>Primary 4 and 6</strong></td>
 <td style="text-align: center;">9.00 am to 9.30 am</td>
 </tr>
 <tr>
@@ -41,10 +40,10 @@ description: ""
 <td style="text-align: center;">10.00 am to 10.30 am</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Primary 4 and 6</strong></td>
+<td style="text-align: center;"><strong>Primary 3 and 5</strong></td>
 <td style="text-align: center;">10.30 am to 11.00 am</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Gate Opening Hours 2022</strong></h4>
-<p>Please refer to the respective gates for the opening hours 2022.&nbsp;</p>
+<h4><strong>Gate Opening Hours 2023</strong></h4>
+<p>Please refer to the respective gates for the opening hours 2023.</p>
