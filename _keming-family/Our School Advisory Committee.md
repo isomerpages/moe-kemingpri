@@ -12,7 +12,7 @@ description: ""
 <td style="text-align: center;"><strong>DESIGNATION</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Mrs Anastasia Liew, BBM</strong></td>
+<td style="text-align: center;"><strong>Mr Pang Choon Chew</strong></td>
 <td style="text-align: center;"><strong>Chairman</strong></td>
 </tr>
 <tr>
@@ -20,12 +20,8 @@ description: ""
 <td style="text-align: center;"><strong>Vice-Chairman</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Mr Pang Choon Chew</strong></td>
-<td style="text-align: center;"><strong>Treasurer</strong></td>
-</tr>
-<tr>
 <td style="text-align: center;"><strong>Mr Ong Chee Ping</strong></td>
-<td style="text-align: center;"><strong>Member</strong></td>
+<td style="text-align: center;"><strong>Treasurer</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Ms Boey Lin Fong</strong></td>
