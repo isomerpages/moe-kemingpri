@@ -25,7 +25,7 @@ description: ""
 <p><strong>4. How can I enrol my child in the Student Care Centre?<br /></strong>Parents may register online at&nbsp;<a href="http://www.knowledgepark.com.sg/kemingscc">www.knowledgepark.com.sg/kemingscc</a></p>
 <p>As the number of vacancies in the Student Care Centre is limited, priority of admission will be given to Singaporean students who qualify for the MOE Financial Assistance Scheme (FAS),&nbsp;i.e. Gross household income of S$2,750 or below or per capita income of $690 or below.</p>
 <p>The remaining vacancies will be opened to all students from Keming Primary School. As the number of vacancies is limited, parents are encouraged to consider other options at the same time while waiting for the results to be announced.</p>
-<p><strong>5. What is the fee for the Student Care?<br /></strong>The student fee for 2020 is $290 per month.</p>
+<p><strong>5. What is the fee for the Student Care?<br /></strong>The student fee for 2023 is $290 per month.</p>
 <p>Other fees include</p>
 <ul>
 <li>Deposit: $290</li>
