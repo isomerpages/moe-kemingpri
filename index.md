@@ -20,5 +20,5 @@ sections:
         - title: Calendar
           description: ""
           url: /kmps/calendar
-      background: /images/Vison.gif
+      background: /images/Vison (1).gif
 ---
