@@ -5,6 +5,15 @@ description: ""
 ---
 **Dear parents,**
 
+Letter regarding&nbsp;MOE Sexuality Education in Schools can be downloaded&nbsp;[here](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/MOE%20Sexuality%20Education%20in%20Schools.pdf).
+<br>
+And if you wish to opt out the form can be downloaded&nbsp;[here](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/Parents%20Opt-Out%20Form.pdf).
+
+Thank you.
+<hr>
+
+**Dear parents,**
+
 The letters below are for students starting school in 2023.  
 [Starting School in 2023.](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/099_Starting%20School%20in%202023_vetted.pdf)
 
@@ -57,7 +66,7 @@ Click&nbsp;[go.gov.sg/oyea2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/o
 <td style="width: 305.578px;">
 <p><strong>Link:</strong>&nbsp;<u><a href="https://youtu.be/ZzdjXPV_xWM">https://youtu.be/ZzdjXPV_xWM</a></u></p>
 <p><strong>QR code:</strong></p>
-<img style="width: 40%;" src="/images/qr.png" align="left">
+<img align="left" src="/images/qr.png" style="width: 40%;">
 </td>
 </tr>
 </tbody>
