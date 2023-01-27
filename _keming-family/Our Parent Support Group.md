@@ -37,8 +37,19 @@ description: ""
 <p><strong>To register as a Parent Volunteer in Keming Primary School</strong></p>
 <p>Activities could be carried out either face-to-face or online, depending on the nature of the request by the school and at the same time adhering to the guidelines specified in the Safe Management Measures (SMM) document.</p>
 <ol>
-<li><strong>Current Parents with Children in the School</strong> &ndash; Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office.<br /><a href="/files/Parents%20Volunteer%20Form%20%20Child%20In%20School_2022.pdf">Parents Volunteer Form Child In School_2022.pdf</a></li>
+	1.   **Parents who wish to register their child under Phase 2B in the year 2025 for 2026 P1 intake** 
+<br>
+Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office. Registration for this category will be opened until 31 March 2023.
+
+[Parent Volunteer Registration Form 2023](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Family/Our%20PSG/PV%20Registration%20Form%202023.pdf)
+
+2.    **Current Parents with Children in the School**
+
+Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office.
+
+[Parent Volunteer Registration Form for Current Student](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Keming%20Family/Our%20PSG/Parents%20Volunteer%20Form%20%20Child%20In%20School_2021.pdf)
 </ol>
+
 <p><strong>For any enquiries, you can contact Mdm Zainab at 68962054.</strong></p>
 <h4><strong>PSG Photo Gallery</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
