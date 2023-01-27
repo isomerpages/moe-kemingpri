@@ -3,7 +3,7 @@ title: Our Parent Support Group
 permalink: /keming-family/our-parent-support-group/
 description: ""
 ---
-<p><a href="/files/PSG%20Online%20Guide.pdf" target="_blank" rel="noopener">PSG Online Guide</a></p>
+<p><a href="/files/PSG/PSG%20Online%20Guide.pdf" target="_blank" rel="noopener">PSG Online Guide</a></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KaSJQ8XSatc" title="PSG Members" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h4><strong>Programmes / Activities that Parent Volunteers&nbsp;could Offer their Services in:</strong></h4>
 <p><strong>Regular Basis (Academic)</strong></p>
