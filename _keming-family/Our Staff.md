@@ -85,7 +85,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>;HOD Mother Tongue Languages</p>
+        <p>HOD Mother Tongue Languages</p>
       </td>
       <td>
         <p>Mdm Karen Kwan Siang Hoon</p>
