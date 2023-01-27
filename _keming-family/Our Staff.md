@@ -85,7 +85,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>&gt;HOD Mother Tongue Languages</p>
+        <p>;HOD Mother Tongue Languages</p>
       </td>
       <td>
         <p>Mdm Karen Kwan Siang Hoon</p>
@@ -206,7 +206,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>LH Mathematics &gt;</p>
+        <p>LH Mathematics</p>
       </td>
       <td>
         <p>Mdm Nur Hanis Binte Mohamad Rafi</p>
@@ -217,7 +217,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>LH Science &gt;</p>
+        <p>LH Science</p>
       </td>
       <td>
         <p>Mdm Dione Aw Ruo Ning</p>
@@ -531,7 +531,7 @@ description: ""
         <p>Ms Annabel Lim Wan Xuan</p>
       </td>
       <td>
-        <p>annabel_lim@moe.edu.sgfont-family: &gt;</p>
+        <p>annabel_lim@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
@@ -767,7 +767,7 @@ description: ""
         <p>Ms Pan Shixuan</p>
       </td>
       <td>
-        <p>pan_shixuan@moe.edu.sgfont-family: &gt;</p>
+        <p>pan_shixuan@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
@@ -1666,7 +1666,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>&gt;CL&lt; &gt;</p>
+        <p>CL</p>
       </td>
       <td>
         <p>Mr Leng Zhu Yang</p>
@@ -1735,8 +1735,7 @@ description: ""
         <p>TL</p>
       </td>
       <td>
-        <p>Mrs Santhi Chandrasaharan</p>
-        <p>(Mrs Chandra)</p>
+        <p>Mrs Santhi Chandrasaharan<br>(Mrs Chandra)</p>
       </td>
       <td>
         <p>santhi_chandrasaharan@moe.edu.sg</p>
@@ -1822,7 +1821,7 @@ description: ""
       <td>
         <p>Designation</p>
       </td>
-      <td width="288">
+      <td>
         <p>Name</p>
       </td>
       <td>
