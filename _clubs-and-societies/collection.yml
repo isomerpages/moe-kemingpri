@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Art Club.md
-      - ECO Club.md
       - Infocomm Club.md
       - Science Club.md
       - The International Chess Club.md
