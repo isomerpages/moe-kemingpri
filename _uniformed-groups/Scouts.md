@@ -9,11 +9,10 @@ description: ""
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Gejendran s/o V Krishnan<br /></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
 <p><strong>Ms Archana<br /></strong>(archana_loganathan@moe.edu.sg)</p>
-<p><strong>Mdm Wang Tan<br /></strong>(wang_tan@moe.edu.sg)</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. - 4 p.m.</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
-<p>PO room 5 and 6</p>
+<p>Teaching Lab</p>
 <p><strong>2020 Achievements:</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
