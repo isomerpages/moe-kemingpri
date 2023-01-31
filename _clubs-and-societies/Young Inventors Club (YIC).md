@@ -11,12 +11,12 @@ description: ""
 </ul>
 <p>The Club introduces students to Design Thinking strategies, develops their skills in problem-solving, critical thinking and project presentations and challenges them to create solutions that are beneficial and related to the users who will be using their inventions. Learning journeys are also organized to expand students&rsquo; horizon in the field of designing.</p>
 <h4>Teachers-In-Charge</h4>
-<p><strong>Mr Michael Sim<br /></strong>(michael_sim_moh_ngiat@moe.edu.sg)</p>
 <p><strong>Mdm Serene See<br /></strong>(see_ser_rin_serene@moe.edu.sg)</p>
+<p><strong>Mrs Susan Zhao<br /></strong>(zhao_shuang@moe.edu.sg)</p>
 <p><strong>Mrs Lynda Ang<br /></strong>(ang_hock_hwa_ray@moe.edu.sg)</p>
 <p><strong>Mdm Ameline Sng<br /></strong>(sng_shi_han_ameline@moe.edu.sg)</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. - 4 p.m</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m</p>
 <h4>Venue</h4>
 <p>Makerspace Room</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
