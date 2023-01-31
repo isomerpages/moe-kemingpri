@@ -8,9 +8,9 @@ description: ""
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Norafidah<br /></strong>(norafidah_adon@moe.edu.sg)</p>
 <p><strong>Mdm Siti Hawa<br /></strong>(siti_hawa_samon@moe.edu.sg)</p>
-<p><strong>Mdm Susan Zhao<br /></strong>(zhao_shuang@moe.edu.sg)</p>
+
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. &ndash; 4 p.m.</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. &ndash; 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Art Studio 1 &amp; 2</p>
 <h4>External Involvements</h4>
