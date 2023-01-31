@@ -10,7 +10,7 @@ description: ""
 <p><strong>Mrs Qu-Ng Li Hui<br /></strong>(ng_li_hui@moe.edu.sg)</p>
 <p><strong>Ms Eng Ying Tian<br /></strong>(eng_ying_tian@moe.edu.sg)</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. - 4 p.m.</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Computer Lab 2</p>
 <h4>Achievements</h4>
