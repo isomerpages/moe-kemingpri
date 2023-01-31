@@ -9,11 +9,10 @@ description: ""
 <p><strong><u>Girls&rsquo; Brigade<br /></u></strong><strong>Mrs Pauline Tan<br /></strong>(chia_hui@moe.edu.sg)</p>
 <p><strong>Ms Joanne Leong<br /></strong>(leong_jia_ying_joanne@moe.edu.sg)</p>
 <p><strong><u>Boys&rsquo; Brigade<br /></u></strong><strong>Mr Richard Lim<br /></strong>(richard_lim_heng_lee@moe.edu.sg)</p>
-<p><strong>Mrs Wong Wai Ling<br /></strong>(wong_wai_ling@moe.edu.sg)</p>
 <h4><strong>Day &amp; Time</strong></h4>
-<p><strong>Wednesdays</strong>, 2 pm - 4 pm</p>
+<p><strong>Wednesdays</strong>, 2:15 pm - 4:15 pm</p>
 <h4>Venue</h4>
-<p>Boys' Brigade - MPR<br />Girls' Brigade - MPR</p>
+<p>Fibo Room</p>
 <h4>Activities</h4>
 <p><strong>Boys&rsquo; Brigade</strong></p>
 <ul>
