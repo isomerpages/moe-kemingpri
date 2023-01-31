@@ -7,9 +7,9 @@ description: ""
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Lim Huey Ling<br /></strong>(lim_huey_ling@moe.edu.sg)</p>
 <p><strong>Mrs Lynn Chong<br /></strong>(soh_bee_ling@moe.edu.sg)</p>
-<p><strong>Ms Hairani<br /></strong>(hairani_amin@moe.edu.sg)</p>
+<p><strong>Mdm Lim Seo Ling<br /></strong>(lim_seo_ling@moe.edu.sg)</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesday</strong>, 2 p.m - 4 p.m.</p>
+<p><strong>Wednesday</strong>, 2:15 p.m - 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Computer Lab 1</p>
 <h4>Achievements</h4>
