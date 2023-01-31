@@ -13,7 +13,7 @@ description: ""
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Teaching Lab</p>
-<p><strong>2020 Achievements:</strong></p>
+<p><h4><strong>2020 Achievements:</strong></h4></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
