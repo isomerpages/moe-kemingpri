@@ -1,0 +1,19 @@
+collections:
+  keming-grow:
+    output: true
+    order:
+      - Our Curriculum/.keep
+      - Our Curriculum/English.md
+      - Our Curriculum/Mathematics.md
+      - Our Curriculum/Science.md
+      - Our Curriculum/Mother Tongue Languages (MTL).md
+      - Our Co Curriculum/.keep
+      - Our Co Curriculum/Aesthetics.md
+      - Our Co Curriculum/Character and Citizenship Development.md
+      - Our Co Curriculum/ICT.md
+      - Our Co Curriculum/Physical Education & Health Education.md
+      - Our Co–Curricular Activities (CCAs).md
+      - Our Uniqueness (LLP).md
+      - INSPIRE (ALP).md
+      - Sexuality Education.md
+      - School Rules & Exam Matters.md

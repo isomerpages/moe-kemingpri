@@ -1,0 +1,8 @@
+collections:
+  sports-and-games:
+    output: true
+    order:
+      - Badminton.md
+      - Floorball.md
+      - Football.md
+      - Wushu.md

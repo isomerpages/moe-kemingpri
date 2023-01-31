@@ -1,15 +1,89 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo1.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/our-story
+    sublinks:
+      - title: Our Story
+        url: /about-us/our-story
+      - title: Pioneer Principals of School
+        url: /about-us/pioneer-principals-of-the-school
+      - title: Our Principal
+        url: /about-us/our-principal
+      - title: Our Heritage
+        url: /about-us/our-heritage
+      - title: Mission and Vision
+        url: /about-us/mission-and-vision
+      - title: School Beliefs and Philosophy
+        url: /about-us/school-beliefs-and-philosophy
+      - title: School Values
+        url: /about-us/school-values
+      - title: School Song
+        url: /about-us/school-song
+      - title: Student’s Pledge
+        url: /about-us/student-s-pledge
+  - title: Keming Family
+    url: /keming-family/our-school-leaders
+    sublinks:
+      - title: Our School Leaders
+        url: /keming-family/our-school-leaders
+      - title: Our Staff
+        url: /keming-family/our-staff
+      - title: Our School Advisory Committee
+        url: /keming-family/our-school-advisory-committee
+      - title: Our Alumni Association
+        url: /keming-family/our-alumni-association
+      - title: Our Parent Support Group
+        url: /keming-family/our-parent-support-group
+      - title: Our Parents
+        url: /keming-family/our-parents
+      - title: Our Junior Alumni
+        url: /keming-family/our-junior-alumni
+      - title: Our Voices
+        url: /keming-family/our-voices
+      - title: Our Partners
+        url: /keming-family/our-partners/community-partners
+  - title: Keming Grow
+    url: /keming-grow/our-curriculum/english
+    sublinks:
+      - title: Our Curriculum
+        url: /keming-grow/our-curriculum/english
+      - title: Our Co-Curriculum
+        url: /keming-grow/our-co-curriculum/aesthetics
+      - title: Our Co-Curricular Activities
+        url: /keming-grow/our-co-curricular-activities-ccas
+      - title: Our Uniqueness (LLP)
+        url: /keming-grow/our-uniqueness-llp
+      - title: I.N.S.P.I.R.E. (ALP)
+        url: /keming-grow/i-n-s-p-i-r-e-alp
+      - title: Sexuality Education
+        url: /keming-grow/sexuality-education
+      - title: School Rules & Exam Matters
+        url: /keming-grow/school-rules-n-exam-matters
+  - title: Keming Glow
+    url: /keming-glow/keming-celebrates
+    sublinks:
+      - title: Keming Celebrates!
+        url: /keming-glow/keming-celebrates
+      - title: Our Student Leaders
+        url: /keming-glow/our-student-leaders
+      - title: Our Students’ Voices
+        url: /keming-glow/our-students-voices
+      - title: e-Newsletter
+        url: /keming-glow/e-newsletter
+  - title: Keming Admin Support
+    url: /keming-admin-support/our-contact-and-location
+    sublinks:
+      - title: Our Contact and Location
+        url: /keming-admin-support/our-contact-and-location
+      - title: School Hours 2022
+        url: /keming-admin-support/school-hours-2022
+      - title: School Services and Booklists
+        url: /keming-admin-support/school-services-and-booklists
+      - title: Primary 1 Registration
+        url: /keming-admin-support/primary-1-registration
+      - title: Forms and Guides
+        url: /keming-admin-support/forms-and-guides
+      - title: Feedback and Queries
+        url: /keming-admin-support/feedback-and-queries
+      - title: FAQs
+        url: /keming-admin-support/faqs

@@ -1,0 +1,16 @@
+collections:
+  keming-family:
+    output: true
+    order:
+      - Our School Leaders.md
+      - Our Staff.md
+      - Our School Advisory Committee.md
+      - Our Alumni Association.md
+      - Our Parent Support Group.md
+      - Our Parents.md
+      - Our Junior Alumni.md
+      - Our Voices.md
+      - Our Partners/Community Partners.md
+      - Our Partners/Partners with Schools.md
+      - Our Partners/Other Key Partners.md
+      - Our Partners/.keep

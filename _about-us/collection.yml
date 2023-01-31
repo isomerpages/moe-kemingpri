@@ -1,0 +1,13 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Story.md
+      - Pioneer Principals of the School.md
+      - Our Principal.md
+      - Our Heritage.md
+      - Mission and Vision.md
+      - School Beliefs and Philosophy.md
+      - School Values.md
+      - School Song.md
+      - Student’s Pledge.md

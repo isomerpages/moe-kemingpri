@@ -1,0 +1,7 @@
+collections:
+  performing-arts:
+    output: true
+    order:
+      - Chinese Orchestra.md
+      - Chinese Dance.md
+      - International Dance.md

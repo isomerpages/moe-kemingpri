@@ -1,0 +1,8 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Character and Citizenship Development.md
+      - Character and Citizenship Education (CCE) & Values in Action (VIA).md
+      - Student Well–Being Committee.md
+      - Citizenship Education and Project Work Committee.md

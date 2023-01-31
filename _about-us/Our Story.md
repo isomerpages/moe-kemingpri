@@ -1,0 +1,15 @@
+---
+title: Our Story
+permalink: /about-us/our-story/
+description: ""
+---
+<img style="width: 80%;" src="/images/story1.jpg" />
+<p><strong>KEMING PRIMARY SCHOOL</strong>&nbsp;is a school with humble beginnings.</p>
+<p>Established in 1935, it was funded with money from public-spirited and philanthropic pioneers who believed in overcoming all odds to bring education to the villagers. They believed that education was the best way to improve the livelihood of the villagers. In line with the belief, the Chinese medium school was named Keok Ming Public School. In Chinese,&nbsp;<strong>Keok (克)</strong>&nbsp;means to overcome difficulties and&nbsp;<strong>Ming (明)</strong>&nbsp;means brightness. When put together, the name Keok Ming signifies one&rsquo;s ability to overcome adversities for a promising future.</p>
+<p>True to its name, the school demonstrated its fighting spirit by overcoming many challenges, especially in its initial years of inception. Back then, the school did not have a building and, with its initial batch of 20 students, innovatively shared a wayang stage with the wayang performers. Later, with the arrival of the WWII and the Japanese invasion, lessons had to stop and they resumed only in August 1945.</p>
+<p>In 1957, after recognising the contribution of the school towards educating the children, the Government made it a government-aided school, supporting it with funds and grants.</p>
+<p>As the school grew, it shifted to Chip Bee Gardens. In 1962, the school faced another crisis &ndash; it was given notice to relocate as the owner wanted back the land. Fortunately, with the assistance of the then Prime Minister, Mr Lee Kuan Yew, the school was relocated to Buona Vista by the Ministry of Education. Mr Lee Kuan Yew officially opened the school at its new premises on 10 December 1966.</p>
+<p>In 1974, to meet the increasing needs of a growing school, hawkers in the Holland Road area organised fundraising for the school. In 1977, the school embarked on its first public fundraising campaign. The camaraderie and family spirit of the community came across strongly during the campaign. Many people and private organisations contributed to the fundraising. Even the teachers came forward spontaneously to donate $1 each into a central fund for the needy to help pay for the school fees and other expenses every month. In addition, the students from the well-to-do families donated their used textbooks when they graduated as a way to support education.</p>
+<p>After attaining full government status in 1982, the school was renamed Keok Ming Primary School and, in 1983, converted to an English medium school. In 1987, the school was relocated to Bukit Batok and became known as Keming Primary School ever since.</p>
+<p>Today, Keming continues to stand firm in our belief to work together with the community to offer the best possible education to our students to develop them to their full potential so that they will &ldquo;Grow and Glow&rdquo; to become good and useful citizens who will make positive contributions to society.</p>
+<img style="width: 60%;" src="/images/story2.png" />

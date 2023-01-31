@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Keming Primary School
+description: An Isomer site of the Singapore Government
+image: /images/logo1.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /kmps/announcements
+        - title: Highlights
+          description: ""
+          url: /kmps/highlights
+        - title: Quick Links
+          description: ""
+          url: /kmps/quick-links
+        - title: Calendar
+          description: ""
+          url: /kmps/calendar
+      background: /images/Vison (3).gif
 ---
-
