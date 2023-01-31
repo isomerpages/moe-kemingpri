@@ -8,15 +8,15 @@ description: ""
 <p><em>&ldquo;If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music. ... I get most joy in life out of music.&rdquo;- Albert Einstein</em></p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Hu Ling Mei<br /></strong>(hu_lingmei@moe.edu.sg)</p>
-<p><strong>Ms Haslina Bte Hassan<br /></strong>(haslina_hassan@moe.edu.sg)</p>
+<p><strong>Ms Hairani Binte Amin<br /></strong>(hairani_amin@moe.edu.sg)</p>
 <p><strong>Ms Cecilia See<br /></strong>(see_yan_hui_cecilia@moe.edu.sg)</p>
-<p><strong>Mdm Koh Lai Ling<br /></strong>(koh_lai_ling@moe.edu.sg)</p>
-<p><strong>Ms Pan Shi Xuan<br /></strong>(pan_shi_xuan@moe.edu.sg)</p>
 <p><strong>Ms Hung Yi Ting<br /></strong>(hung_yi_ting@moe.edu.sg)</p>
+<p><strong>Mdm Wang Tan<br /></strong>(wang_tan@moe.edu.sg)</p>
+
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. &ndash; 4 p.m.<br /><strong>Fridays</strong>, 2 p.m. &ndash; 4 p.m.&nbsp;(for school competition teams only)</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.
 <h4>Venue</h4>
-<p>Band Room / Modular CL Room 1 &amp; 2</p>
+<p>Band Room, 5Dia, 5Ja, 5On,5Op, 6Pe, CL Modular Rooms</p>
 <h4>Achievements</h4>
 <p>SYF 2018: Accomplishment</p>
 <img src="/images/co1.jpeg"><br>
