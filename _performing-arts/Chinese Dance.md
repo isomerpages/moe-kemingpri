@@ -8,10 +8,9 @@ description: ""
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mdm Zhang Yuping<br /></strong>(zhang_yuping@moe.edu.sg)</p>
 <p><strong>Mrs Neo-Goh Hui Chin<br /></strong>(goh_hui_chin@moe.edu.sg)</p>
-<p><strong>Ms Subatra<br /></strong>(subatra_ramachandra@moe.edu.sg)</p>
 <p><strong>Mdm Ning Kun<br /></strong>(ning_kun@moe.edu.sg)</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. - 4 p.m.<br /><strong>Fridays</strong>, 2 p.m. - 4 p.m.&nbsp;(for school competition teams only)</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.<br /></p>
 <h4>Venue</h4>
 <p>PAL Room / Dance Studio</p>
 <h4>Achievements</h4>
