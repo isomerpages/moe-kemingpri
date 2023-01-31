@@ -12,9 +12,9 @@ description: ""
 <p><strong>Ms Annabel Lim<br /></strong>(annabel_lim_wan_xuan@moe.edu.sg)</p>
 <p><strong>Mrs Wong Ting Ting<br /></strong>(zhang_ting_ting@moe.edu.sg)</p>
 <h4>Venue</h4>
-<p>Music Room 1</p>
+<p>Music Room 1 & 2</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. - 4 p.m.<br /><strong>Fridays,&nbsp;</strong>2pm - 4pm (for school competition teams only)</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.<br /><strong></p>
 <h4>Achievements</h4>
 <p>2018 SYF Accomplishment (Ocean)</p>
 <img style="width: 70%;" src="/images/id.jpeg" />
