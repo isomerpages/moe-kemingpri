@@ -12,7 +12,7 @@ description: ""
 <p><strong>Mdm Shamsidah Wati Bte Lamaoen<br /></strong>(shamsidah_wati_lamaoen@moe.edu.sg)</p>
 <p><strong>Mdm Wong Wai Ling<br /></strong>(wong_wai_ling@moe.edu.sg)</p>
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 3:15 p.m. &ndash; 5:15 p.m. (School Team &amp; Recreational Team)<br /><strong>Fridays</strong>, 2:15 p.m. &ndash; 4:15 p.m.(For school competition teams only)</p>
+<p><strong>Wednesdays</strong>, 3:15 p.m. &ndash; 5:15 p.m. (School Team &amp; Recreational Team)<br /><strong>Fridays</strong>, 2:15 p.m. &ndash; 5:15 p.m.(For school competition teams only)</p>
 <h4>Venue</h4>
 <p>School Hall</p>
 <h4>Achievements</h4>
