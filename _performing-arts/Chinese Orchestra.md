@@ -14,7 +14,7 @@ description: ""
 <p><strong>Mdm Wang Tan<br /></strong>(wang_tan@moe.edu.sg)</p>
 
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:45 p.m.
 <h4>Venue</h4>
 <p>Band Room, 5Dia, 5Ja, 5On,5Op, 6Pe, CL Modular Rooms</p>
 <h4>Achievements</h4>
