@@ -18,7 +18,7 @@ description: ""
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m</p>
 <h4>Venue</h4>
-<p>Makerspace Room</p>
+<p>PO Room 13</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
