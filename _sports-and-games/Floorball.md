@@ -11,8 +11,10 @@ description: ""
 <p><strong>Ms Chua Qiuyi<br /></strong>(chua_qiu_yi@moe.edu.sg)</p>
 <p><strong>Mr Tan Chin Poh<br /></strong>(tan_chin_poh@moe.edu.sg)</p>
 <p><strong>Mdm Jiang Huahua<br /></strong>(jiang_huahua@moe.edu.sg)</p>
+<p><strong>Mr A'Qashah Bin Ahmad Al'Badowe<br /></strong>(ahmad_aqashah_ahmad_albadowe@moe.edu.sg)</p>
+<p><strong>Mdm Ng Kia Yen Michelle<br /></strong>(ng_kia_yen_michelle@moe.edu.sg)</p>
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. &ndash; 4 p.m.<br /><strong>Monday &amp; Fridays</strong>, 2 p.m. &ndash; 4 p.m.&nbsp;(for school competition teams only)</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. &ndash; 5:15 p.m.<br /><strong>Fridays</strong>, 2:15 p.m. &ndash; 5:15 p.m.&nbsp;(for school competition teams only)</p>
 <h4>Venue</h4>
 <p>Indoor Sports Hall</p>
 <h4>Achievements</h4>

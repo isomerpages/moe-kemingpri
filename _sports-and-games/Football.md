@@ -5,11 +5,10 @@ description: ""
 ---
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mdm Florence Tan<br /></strong>(tan_fong_ting_florence@moe.edu.sg)</p>
-<p><strong>Ms Nur Ramizah<br /></strong>(nur_ramizah_ramli@moe.edu.sg)</p>
-<p><strong>Mr Pravin Rehunathan<br /></strong>(Rehunathan pravin_rehunathan@moe.edu.sg)</p>
-<p><strong>Mr A'qashah<br /></strong>(aqashah_ahmad_albadowe@kmps.edu.sg)</p>
+<p><strong>Ms Haslina Bte Hassan<br /></strong>(haslina_hassan@moe.edu.sg)</p>
+<p><strong>Mr Pravin Rehunathan<br /></strong>(Rehunathan_pravin_rehunathan@moe.edu.sg)</p>
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2 p.m. &ndash; 4 p.m.</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. &ndash; 5:15 p.m.</p>
 <h4>Venue</h4>
 <p>Field</p>
 <h4>Photos</h4>

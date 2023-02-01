@@ -13,7 +13,7 @@ description: ""
 <p><strong>Mr Yong Seng Kiak<br /></strong>(yong_seng_kiak@moe.edu.sg)</p>
 <p><strong>Mrs Chandra<br /></strong>(santhi_chandrasaharan@moe.edu.sg)</p>
 <h4>Days &amp; Time</h4>
-<p><strong>Mondays,</strong>&nbsp;2 p.m. &ndash; 4 p.m.&nbsp;(for school competition teams only)<br /><strong>Wednesdays,</strong>&nbsp;2 p.m. &ndash; 4 p.m.</p>
+<p><strong>Mondays,</strong>&nbsp;2 p.m. &ndash; 5:30 p.m.&nbsp;(for school competition teams only)<br /><strong>Wednesdays,</strong>&nbsp;2:15 p.m. &ndash; 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>School Hall</p>
 <h4>Achievements</h4>
