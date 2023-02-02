@@ -60,13 +60,13 @@ Nomination for PAT 2023 and OYEA 2023 are now open and
 
 will close on&nbsp;**Wednesday, 11 January 2023**.
 
-Click&nbsp;[go.gov.sg/pat2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/pat2023)&nbsp;to nominate your teacher for the PAT now!
+Click&nbsp;[go.gov.sg/pat2023](go.gov.sg/pat2023)&nbsp;to nominate your teacher for the PAT now!
 
 &nbsp;![PAT.jpg](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/PAT.jpg)
 
   
 
-Click&nbsp;[go.gov.sg/oyea2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/oyea2023)&nbsp;to nominate your teacher for OYEA now!
+Click&nbsp;[go.gov.sg/oyea2023](go.gov.sg/oyea2023)&nbsp;to nominate your teacher for OYEA now!
 
 ![oyea.jpg](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/oyea.jpg)
 <hr>
