@@ -14,7 +14,7 @@ description: ""
 <h4>Venue</h4>
 <p>Music Room 1 & 2</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.<strong></p>
+<strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.<strong>
 <h4>Achievements</h4>
 <p>2018 SYF Accomplishment (Ocean)</p>
 <img style="width: 70%;" src="/images/id.jpeg" />
