@@ -10,7 +10,7 @@ description: ""
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mrs Rajan<br /></strong>(pl_nachammai@moe.edu.sg)</p>
 <p><strong>Ms Annabel Lim<br /></strong>(annabel_lim_wan_xuan@moe.edu.sg)</p>
-<p><strong>Mrs Wong Ting Ting<br /></strong>(zhang_ting_ting@moe.edu.sg)</p>
+<p><strong>Mrs Zhang Ting Ting<br /></strong>(zhang_ting_ting@moe.edu.sg)</p>
 <h4>Venue</h4>
 <p>Music Room 1 & 2</p>
 <h4>Day &amp; Time</h4>

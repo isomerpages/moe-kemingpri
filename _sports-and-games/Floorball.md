@@ -9,7 +9,6 @@ description: ""
 <p><strong>Mrs Jennifer Lau<br /></strong>(conceicao_jennifer_valerie@moe.edu.sg)</p>
 <p><strong>Mrs Angie Gill<br /></strong>(chan_yin_kuan@moe.edu.sg)</p>
 <p><strong>Ms Chua Qiuyi<br /></strong>(chua_qiu_yi@moe.edu.sg)</p>
-<p><strong>Mr Tan Chin Poh<br /></strong>(tan_chin_poh@moe.edu.sg)</p>
 <p><strong>Mdm Jiang Huahua<br /></strong>(jiang_huahua@moe.edu.sg)</p>
 <p><strong>Mr A'Qashah Bin Ahmad Al'Badowe<br /></strong>(ahmad_aqashah_ahmad_albadowe@moe.edu.sg)</p>
 <p><strong>Mdm Ng Kia Yen Michelle<br /></strong>(ng_kia_yen_michelle@moe.edu.sg)</p>
