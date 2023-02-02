@@ -237,6 +237,17 @@ description: ""
         <p>mohammad_moiz_malik@moe.edu.sg</p>
       </td>
     </tr>
+		<tr>
+			<td>
+        <p>LH ICT & MRL</p>
+      </td>
+		<td>
+        <p>Mr Michael Sim Moh Ngiat</p>
+      </td>
+      <td>
+        <p>michael_sim_moh_ngiat@moe.edu.sg</p>
+      </td>
+			</tr>
     <tr>
       <td>
         <p>SH CCD</p>
