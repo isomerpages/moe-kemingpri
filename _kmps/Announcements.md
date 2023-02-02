@@ -81,7 +81,7 @@ Click&nbsp;[go.gov.sg/oyea2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/o
 <td style="width: 305.578px;">
 <p><strong>Link:</strong>&nbsp;<u><a href="https://youtu.be/ZzdjXPV_xWM">https://youtu.be/ZzdjXPV_xWM</a></u></p>
 <p><strong>QR code:</strong></p>
-<img align="left" src="/images/qr.png" style="width: 40%;">
+<img style="width: 40%;" src="/images/qr.png" align="left">
 </td>
 </tr>
 </tbody>
