@@ -3,11 +3,26 @@ title: Announcements
 permalink: /kmps/announcements/
 description: ""
 ---
+Dear Parents,
+
+**Nominate your inspiring English teacher today!**<br>
+Click&nbsp;[HERE](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information)&nbsp;to print the&nbsp;form or collect a form from the&nbsp;school General Office.
+
+  
+
+**Nominate your Inspiring Tamil teacher today!**&nbsp;<br>
+Form in Tamil:&nbsp;[https://go.gov.sg/mitt-2023-form-tl](https://go.gov.sg/mitt-2023-form-tl)<br>
+Form in English:&nbsp;[https://go.gov.sg/mitt-2023-form-el](https://go.gov.sg/mitt-2023-form-el)  
+
+Click&nbsp;[HERE](https://www.moe.gov.sg/news/press-releases/20230126-open-for-nominations-most-inspiring-tamil-teachers-award-2023)&nbsp;for more information on MITT.
+
+Thank you.
+<hr>
 **Dear parents,**
 
-Letter regarding&nbsp;MOE Sexuality Education in Schools can be downloaded&nbsp;[here](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/MOE%20Sexuality%20Education%20in%20Schools.pdf).
+Letter regarding&nbsp;MOE Sexuality Education in Schools can be downloaded&nbsp;[here](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/MOE%20Sexuality%20Education%20in%20Schools.pdf).
 <br>
-And if you wish to opt out the form can be downloaded&nbsp;[here](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/Parents%20Opt-Out%20Form.pdf).
+And if you wish to opt out the form can be downloaded&nbsp;[here](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/Parents%20Opt-Out%20Form.pdf).
 
 Thank you.
 <hr>
@@ -66,7 +81,7 @@ Click&nbsp;[go.gov.sg/oyea2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/o
 <td style="width: 305.578px;">
 <p><strong>Link:</strong>&nbsp;<u><a href="https://youtu.be/ZzdjXPV_xWM">https://youtu.be/ZzdjXPV_xWM</a></u></p>
 <p><strong>QR code:</strong></p>
-<img style="width: 40%;" src="/images/qr.png" align="left">
+<img align="left" src="/images/qr.png" style="width: 40%;">
 </td>
 </tr>
 </tbody>
