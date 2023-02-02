@@ -3,11 +3,26 @@ title: Announcements
 permalink: /kmps/announcements/
 description: ""
 ---
+Dear Parents,
+
+**Nominate your inspiring English teacher today!**<br>
+Click&nbsp;[HERE](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information)&nbsp;to print the&nbsp;form or collect a form from the&nbsp;school General Office.
+
+  
+
+**Nominate your Inspiring Tamil teacher today!**&nbsp;<br>
+Form in Tamil:&nbsp;[https://go.gov.sg/mitt-2023-form-tl](https://go.gov.sg/mitt-2023-form-tl)<br>
+Form in English:&nbsp;[https://go.gov.sg/mitt-2023-form-el](https://go.gov.sg/mitt-2023-form-el)  
+
+Click&nbsp;[HERE](https://www.moe.gov.sg/news/press-releases/20230126-open-for-nominations-most-inspiring-tamil-teachers-award-2023)&nbsp;for more information on MITT.
+
+Thank you.
+<hr>
 **Dear parents,**
 
-Letter regarding&nbsp;MOE Sexuality Education in Schools can be downloaded&nbsp;[here](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/MOE%20Sexuality%20Education%20in%20Schools.pdf).
+Letter regarding&nbsp;MOE Sexuality Education in Schools can be downloaded&nbsp;[here](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/MOE%20Sexuality%20Education%20in%20Schools.pdf).
 <br>
-And if you wish to opt out the form can be downloaded&nbsp;[here](https://kemingpri.moe.edu.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/Parents%20Opt-Out%20Form.pdf).
+And if you wish to opt out the form can be downloaded&nbsp;[here](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/MOE%20Sexuality%20Education%20in%20Schools/Parents%20Opt-Out%20Form.pdf).
 
 Thank you.
 <hr>
@@ -45,13 +60,13 @@ Nomination for PAT 2023 and OYEA 2023 are now open and
 
 will close on&nbsp;**Wednesday, 11 January 2023**.
 
-Click&nbsp;[go.gov.sg/pat2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/pat2023)&nbsp;to nominate your teacher for the PAT now!
+Click&nbsp;[go.gov.sg/pat2023](go.gov.sg/pat2023)&nbsp;to nominate your teacher for the PAT now!
 
 &nbsp;![PAT.jpg](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/PAT.jpg)
 
   
 
-Click&nbsp;[go.gov.sg/oyea2023](file:///C:/Users/S8715428I/Downloads/go.gov.sg/oyea2023)&nbsp;to nominate your teacher for OYEA now!
+Click&nbsp;[go.gov.sg/oyea2023](go.gov.sg/oyea2023)&nbsp;to nominate your teacher for OYEA now!
 
 ![oyea.jpg](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/oyea.jpg)
 <hr>

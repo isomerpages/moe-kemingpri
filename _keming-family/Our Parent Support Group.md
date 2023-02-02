@@ -38,17 +38,16 @@ description: ""
 <p>Activities could be carried out either face-to-face or online, depending on the nature of the request by the school and at the same time adhering to the guidelines specified in the Safe Management Measures (SMM) document.</p>
 <ol>
 
-1.   **Parents who wish to register their child under Phase 2B in the year 2025 for 2026 P1 intake** 
-		
+
+1.   <strong>Parents who wish to register their child under Phase 2B in the year 2025 for 2026 P1 intake</strong><br> 
 Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office. Registration for this category will be opened until 31 March 2023.
-
-[Parent Volunteer Registration Form 2023](/files/PSG/PV%20Registration%20Form%202023%20(1).pdf)
-		
-2.    **Current Parents with Children in the School**
-
+<br><a href="/files/PSG/PV%20Registration%20Form%202023%20(1).pdf" target="_blank" rel="noopener">Parent Volunteer Registration Form 2023</a>
+		<br>
+	
+2.    <strong>Current Parents with Children in the School</strong><br>
 Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office.
-
-[Parent Volunteer Registration Form for Current Student](/files/PSG/Parents%20Volunteer%20Form%20%20Child%20In%20School_2021%20(1).pdf)
+	<br><a href="/files/PSG/Parents%20Volunteer%20Form%20%20Child%20In%20School_2021%20(1).pdf" target="_blank" rel="noopener">Parent Volunteer Registration Form for Current Student</a>
+	
 </ol>
 
 <p><strong>For any enquiries, you can contact Mdm Zainab at 68962054.</strong></p>
