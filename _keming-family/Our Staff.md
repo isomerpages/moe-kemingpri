@@ -239,7 +239,7 @@ description: ""
     </tr>
 		<tr>
 			<td>
-        <p>LH ICT & MRL</p>
+        <p>LH ICT</p>
       </td>
 		<td>
         <p>Mr Michael Sim Moh Ngiat</p>
