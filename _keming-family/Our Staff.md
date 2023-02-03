@@ -96,7 +96,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>HOD ICT & MRL</p>
+        <p>HOD ICT & School Library</p>
       </td>
       <td>
         <p>Mdm Radin Anita Abu Bakar</p>
