@@ -31,7 +31,7 @@ description: ""
 </ol>
 </ol>
 <ol start="6">
-<li><strong>NEU PC Plus Programme</strong></li>
+<li><strong>NEU PC Plus Programme</strong></li>(https://www.imda.gov.sg/neupc)
 </ol>
 <ol type="a">
 <li>PC Bundle for MOE-FAS Recipients </li>
