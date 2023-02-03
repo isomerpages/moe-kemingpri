@@ -20,7 +20,7 @@ description: ""
 </tbody>
 </table>
 <p>Co-Curricular Activities (CCAs), supplementary classes and remedial classes are held outside the normal school hours on weekdays.</p>
-<h4><strong>Recess Time 2022</strong></h4>
+<h4><strong>Recess Time 2023</strong></h4>
 <table>
 <tbody>
 <tr>
