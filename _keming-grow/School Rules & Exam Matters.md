@@ -101,9 +101,4 @@ description: ""
 <li>Students who do not have a valid Medical Certificate would be given zero mark for that subject.</li>
 <li>The school will ensure that students who are hospitalised or are suffering from any infectious disease (e.g. chickenpox) be fairly assessed.</li>
 </ol>
-<h4><strong>CA and SA Exams</strong></h4>
-<ol>
-<li>Continual Assessment (CA) is the means by which teachers assess a student&rsquo;s performance in a subject. This may be in the form of a bite-sized assessment task, a topical test or a written exam paper.</li>
-<li>Semestral Assessment (SA) refers to the Mid-Year Examination (SA1) and End-of-Year Examination (SA2) held at the end of each semester.</li>
-</ol>
-<p>Please refer to Student Handbook for details.</p>
+
