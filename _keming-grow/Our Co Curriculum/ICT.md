@@ -52,7 +52,7 @@ third_nav_title: Our Co Curriculum
 <p>The rationale for having e-learning days is to allow our students to be familiar with the process of using our e-learning portal to prepare for a Home-based Learning scenario where students are required to stay and learn at home should there be a need for school closure in times of an emergency/pandemic.</p>
 <p><strong><u>Student Learning Space (SLS)</u></strong></p>
 <p>As part of its commitment to nurturing future-ready learners, MOE had announced that all students in Singapore schools will be supported in their learning by SLS, an online learning platform that contains curriculum-aligned resources and learning tools.</p>
-<p>Please Click&nbsp;<a href="/files/Student%20Learning%20Space.pdf" target="_blank" rel="noopener">Here</a>&nbsp;For More Details on SLS</p>
+
 <p><strong>4. CYBER WELLNESS</strong></p>
 <p>Our Cyber wellness framework, the S.T.A.R. approach, guides our students to be responsible digital users and protect themselves in cyberspace.</p>
 <img src="/images/ict3.png">
