@@ -13,7 +13,7 @@ sections:
           url: /kmps/announcements
         - title: Highlights
           description: ""
-          url: /kmps/highlights
+          url: /kmps/Highlights/Primary6CommunicationSkillsWorkshop/
         - title: Quick Links
           description: ""
           url: /kmps/quick-links
