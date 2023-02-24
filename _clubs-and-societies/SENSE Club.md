@@ -38,7 +38,9 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
 
 
 **ENVIRONMENTAL ACTIVITIES**
+
 ![](/images/env1.jpg)
+
 <table>
   <tbody>
     <tr>
@@ -51,7 +53,9 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
 	</tbody>
 </table>
 
+
 ![](/images/env2.jpg)
+
 <table>
   <tbody>
     <tr>
