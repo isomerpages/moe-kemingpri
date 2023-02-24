@@ -1178,7 +1178,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>5Pe[Op]</p>
+        <p>5Di/Pe</p>
       </td>
       <td>
         <p>Mdm Cheum Foong Yee (Mrs Loo)</p>
@@ -1348,7 +1348,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>6Pe[Op]</p>
+        <p>6Di/6Pe</p>
       </td>
       <td>
         <p>Ms Hing Mui Hong</p>
@@ -1359,7 +1359,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>6Pe[Op]</p>
+        <p>6Di/6Pe</p>
       </td>
       <td>
         <p>Mdm Tan Siow Ching</p>
