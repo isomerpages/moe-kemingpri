@@ -31,4 +31,18 @@ How can milk be changed into plastic? <br>
 Milk contains molecules of a protein called casein. When vinegar is added to milk, the pH of the milk changes. The pH change causes the casein molecules to unfold and re-organise into long chains, curdling the milk. The curds can then be kneaded and moulded into a material similar in look and feel to plastic. 
 ![](/images/milk.jpg)
 
-**VALUES IN ACTION (VIA) @ Feiyue Active Ageing Centre** 
+**VALUES IN ACTION (VIA) @ Feiyue Active Ageing Centre**
+![Guiding a group of active seniors to upcycle plastic containers to plant vegetables from seeds.](/images/ageing%20center.jpg)
+Guiding a group of active seniors to upcycle plastic containers to plant vegetables from seeds
+
+
+
+**ENVIRONMENTAL ACTIVITIES**
+![](/images/env1.jpg)
+|Upcycling plastic bottles | Upcycling straws to make<br> flowers for Mother’s Day| 
+| -------- | -------- | 
+
+![](/images/env2.jpg)
+|Biodiversity Day display - upcycling egg carton trays and cardboard to spread the message of saving endangered sea animals | Earth Day display - upcycling to turn trash into gems to spread knowledge on the different types of plastics that are recyclable| 
+| -------- | -------- | 
+
