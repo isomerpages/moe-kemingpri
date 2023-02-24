@@ -49,7 +49,7 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
         <p>Upcycling straws to make<br> flowers for Mother’s Day</p>
       </td>
 	</tbody>
-	</table>
+</table>
 
 ![](/images/env2.jpg)
 <table>
@@ -62,4 +62,4 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
         <p>Earth Day display - upcycling to turn trash into gems to spread knowledge on the different types of plastics that are recyclable</p>
       </td>
 	</tbody>
-	</table>
+</table>
