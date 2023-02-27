@@ -41,22 +41,9 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
 
 ![](/images/env1.jpg)
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <p>Upcycling plastic bottles </p>
-      </td>
-      <td>
-        <p>Upcycling straws to make<br> flowers for Mother’s Day</p>
-      </td>
-	</tbody>
-</table>
-<br>
 
-| |  | |
+| Upcycling plastic bottles | Upcycling straws to make<br> flowers for Mother’s Day  |  |
 | -------- | -------- | -------- |
-
 
 
 ![](/images/env2.jpg)
