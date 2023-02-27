@@ -42,22 +42,12 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
 ![](/images/env1.jpg)
 
 
-| Upcycling plastic bottles | Upcycling straws to make<br> flowers for Mother’s Day  |  |
+| Upcycling plastic bottles | Upcycling straws to make<br> flowers for Mother’s Day  ||
 | -------- | -------- | -------- |
 
 
 ![](/images/env2.jpg)
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <p>Biodiversity Day display - upcycling egg carton trays and cardboard to spread the message of saving endangered sea animals </p>
-      </td>
-      <td>
-        <p>Earth Day display - upcycling to turn trash into gems to spread knowledge on the different types of plastics that are recyclable</p>
-      </td>
-	</tbody>
-</table>
 
-| |  | |
+
+| Biodiversity Day display - upcycling egg carton trays and cardboard to spread the message of saving endangered sea animals  | Earth Day display - upcycling to turn trash into gems to spread knowledge on the different types of plastics that are recyclable ||
 | -------- | -------- | -------- |
