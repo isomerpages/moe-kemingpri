@@ -71,3 +71,6 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
       </td>
 	</tbody>
 </table>
+
+| |  | |
+| -------- | -------- | -------- |
