@@ -6,7 +6,7 @@ description: ""
 **S.EN.S.E Club** is a merger of our Eco Club and Science Club and the acronym **S.EN.S.E** represents: Science, Environment, Sustainability, and Eco-Friendly.
 <br>
 <br>
-The **S.EN.S.E Club** aims to increase Kemingnites’ awareness on current issues related to the environment. Students will use scientific knowledge and approaches to investigate, test and find solutions to issues of concern to them. They will also participate in varied activities and platforms to become Green Ambassadors and learn to take concrete actions that contribute to sustainable living in their own ways.</p>
+The **S.EN.S.E Club** aims to increase Kemingnites’ awareness on current issues related to the environment. Students will use scientific knowledge and approaches to investigate, test and find solutions to issues of concern to them. They will also participate in varied activities and platforms to become Green Ambassadors and learn to take concrete actions that contribute to sustainable living in their own ways.
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Lim Huey Ling<br /></strong>(lim_huey_ling@moe.edu.sg)</p>
 <p><strong>Mrs Lynn Chong<br /></strong>(soh_bee_ling@moe.edu.sg)</p>
@@ -44,10 +44,12 @@ Guiding a group of active seniors to upcycle plastic containers to plant vegetab
 
 | Upcycling plastic bottles | Upcycling straws to make<br> flowers for Mother’s Day  |
 | -------- | -------- |
+| | | 
 
+<br>
 
 ![](/images/env2.jpg)
 
-
 | Biodiversity Day display - upcycling egg carton trays and cardboard to spread the message of saving endangered sea animals  | Earth Day display - upcycling to turn trash into gems to spread knowledge on the different types of plastics that are recyclable |
 | -------- | -------- |
+|||
