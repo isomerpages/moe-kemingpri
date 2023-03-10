@@ -18,6 +18,7 @@ description: ""
 <td style="width: 20%; text-align: center;"><img src="/images/ql8.jpeg"><a href="https://softschools.com/math/data_analysis/pictograph/make_your_own_pictograph/" target="_blank" rel="noopener">Pictograph</a></td>
 <td style="width: 20%; text-align: center;"><img src="/images/ql9.jpeg"><a href="https://www.arcademics.com/" target="_blank" rel="noopener">Arcademics</a></td>
 <td style="width: 20%; text-align: center;"><img src="/images/ql10.jpeg"><a href="https://www.multiplication.com/games/all-games" target="_blank" rel="noopener">Multiplication</a></td>
+<td style="width: 20%; text-align: center;"><img src="/images/office365.jpg"><a href="/files/Office%20365%20ProPlus%20Student%20guide.pdf" target="_blank" rel="noopener">Office 365 Guide</a></td>
 <td style="width: 20%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
