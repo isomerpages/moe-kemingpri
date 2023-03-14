@@ -23,7 +23,14 @@ The finale was a meaningful concert with songs and performances as well as quizz
 <p>After a 2-year hiatus, staff, alumni and the Parent Support Group reunited and had lohei and lunch together!</p>
 <p><strong>Chinese New Year Celebrations</strong></p>
 <img style="width: 95%;" src="/images/TvS.jpg" />
-<p style="text-align: center;">CNY Concert – Quizzes – Students vs Teacher! </p>
+<p style="text-align: center;">CNY Concert – Quizzes – Students vs Teacher! </p><br>
+<img style="width: 95%;" src="/images/CO.jpg" />
+<p style="text-align: center;">CNY Concert – Chinese Orchestra performance.</p><br>
+<img style="width: 95%;" src="/images/P4cny.jpg" />
+<p style="text-align: center;">P4 CNY Craftwork – Making of CNY card with 3D Orange origami. </p><br>
+<img style="width: 90%;" src="/images/P2cny.jpg" />
+<p style="text-align: center;">P2 CNY Craftwork – Making CNY Card decorated with ang bao!</p>
+<BR>
 <p><strong>Hari Raya Puasa Celebrations</strong></p>
 <img style="width: 100%;" src="/images/mtl9.png" />
 <p><strong>Mid-Autumn Festival Celebration</strong></p>
