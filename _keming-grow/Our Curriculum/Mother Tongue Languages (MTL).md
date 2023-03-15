@@ -33,7 +33,13 @@ The finale was a meaningful concert with songs and performances as well as quizz
 <img style="width: 90%;" src="/images/P5cny.jpg" />
 <p style="text-align: center;">P5 Craftwork – CNY Couplets for the house!</p><br>
 <img style="width: 90%;" src="/images/recesscny.jpg" />
-<p style="text-align: center;">Recess activity – Chinese Calligraphy</p>
+<p style="text-align: center;">Recess activity – Chinese Calligraphy</p><br>
+<img style="width: 90%;" src="/images/recesscny1.jpg" />
+<p style="text-align: center;">Recess activity – Rabbit origami  </p><br>
+<img style="width: 90%;" src="/images/recesscny2.jpg" />
+<p style="text-align: center;">Recess activity – CNY quizzes  </p><br>
+<img style="width: 90%;" src="/images/recesscny3.jpg" />
+<p style="text-align: center;">Recess activity – CNY Traditional paper cutting of “chun“ “春“!</p>
 <BR>
 <p><strong>Hari Raya Puasa Celebrations</strong></p>
 <img style="width: 100%;" src="/images/mtl9.png" />
