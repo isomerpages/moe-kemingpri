@@ -17,25 +17,30 @@ third_nav_title: Our Curriculum
 <p>Students are provided with developmental opportunities to learn emerging 21st CC skills (cross-cultural skills) over 6 years through explicit teaching during Cultural Sharing lessons and Festival Celebrations (Head), reflections (Heart) and hands-on activities in class and during recesses (Hands).</p>
 <p><strong>Festivals Celebrations<br /></strong>Festivals are an expressive way to celebrate glorious heritage, culture and traditions. Festivals serve the same purpose of bringing happiness to our lives, and strengthen our sense of community. They play an important role to add structure to our social lives, and connect people of different races and culture to appreciate the beauty of our own culture and cross-culture.&nbsp;We believe that it is important to keep festive celebrations alive in school and at home to bring the students closer to one another&rsquo;s traditions and cultural beliefs.</p>
 <p>Festival celebration is an important part of MTL department&rsquo;s Cultural Learning Model where students are exposed to the different cultures and appreciate them through the experiences during the celebrations and hands-on activities. The four main festivals that we celebrate in school are Chinese New Year, Hari Raya Puasa, Mid-Autumn and Deepavali.</p>
-<p>In view of the Safe Management Measures (SMM), our cultural celebrations continue in class as well as online via SLS. Students acquired new knowledge through the content shared, and from hands-on experiences, games, presentations, online performances and art &amp; craft work.&nbsp;</p>
-<p>Hari Raya Aidilfitri festive celebrations was unprecedented with the FHBL in full-swing this year. It was conducted online as family bonding activities, which consisted of the e-concert and the craft-making activities.</p>
+<p>This year, Kemingnites hopped into the CNY festive spirit through a myriad of activities such as Chinese calligraphy, paper cutting, rabbit origami and cultural sharing by teachers.
+The finale was a meaningful concert with songs and performances as well as quizzes that allowed students to gain an insight into the CNY traditions.
+</p>
+<p>After a 2-year hiatus, staff, alumni and the Parent Support Group reunited and had lohei and lunch together!</p>
 <p><strong>Chinese New Year Celebrations</strong></p>
-<img style="width: 80%;" src="/images/mtl1.png" />
-<p style="text-align: center;">Chinese New Year Concert</p>
-<img style="width: 100%;" src="/images/mtl2.png" />
-<p style="text-align: center;">Recess Activities- Interactive Board Zodiac Games</p>
-<img style="width: 90%;" src="/images/mtl3.png" />
-<p style="text-align: center;">Recess Activities- Calligraphy</p>
-<img style="width: 80%;" src="/images/mtl4.png" />
-<p style="text-align: center;">Recess Activities - Socrative Quizzes</p>
-<img style="width: 100%;" src="/images/mtl5.png" />
-<p style="text-align: center;">Recess Activities - Library</p>
-<img style="width: 100%;" src="/images/mtl6.png" />
-<p style="text-align: center;">Classroom Activities - P1 &amp; P2 Chinese Characters &amp; Zodiac colouring and design</p>
-<img style="width: 100%;" src="/images/mtl7.png" />
-<p style="text-align: center;">Classroom activities - P3 &amp; P4 CNY Well-wishes writing</p>
-<img style="width: 70%;" src="/images/mtl8.png" />
-<p style="text-align: center;">Classroom activities - P5 &amp; P6 Zodiac cutting and design</p>
+<img style="width: 95%;" src="/images/TvS.jpg" />
+<p style="text-align: center;">CNY Concert – Quizzes – Students vs Teacher! </p><br>
+<img style="width: 95%;" src="/images/CO.jpg" />
+<p style="text-align: center;">CNY Concert – Chinese Orchestra performance.</p><br>
+<img style="width: 95%;" src="/images/P4cny.jpg" />
+<p style="text-align: center;">P4 CNY Craftwork – Making of CNY card with 3D Orange origami. </p><br>
+<img style="width: 90%;" src="/images/P2cny.jpg" />
+<p style="text-align: center;">P2 CNY Craftwork – Making CNY Card decorated with ang bao!</p><br>
+<img style="width: 90%;" src="/images/P5cny.jpg" />
+<p style="text-align: center;">P5 Craftwork – CNY Couplets for the house!</p><br>
+<img style="width: 90%;" src="/images/recesscny.jpg" />
+<p style="text-align: center;">Recess activity – Chinese Calligraphy</p><br>
+<img style="width: 90%;" src="/images/recesscny1.jpg" />
+<p style="text-align: center;">Recess activity – Rabbit origami  </p><br>
+<img style="width: 90%;" src="/images/recesscny2.jpg" />
+<p style="text-align: center;">Recess activity – CNY quizzes  </p><br>
+<img style="width: 90%;" src="/images/recesscny3.jpg" />
+<p style="text-align: center;">Recess activity – CNY Traditional paper cutting of “chun“ “春“!</p>
+<BR>
 <p><strong>Hari Raya Puasa Celebrations</strong></p>
 <img style="width: 100%;" src="/images/mtl9.png" />
 <p><strong>Mid-Autumn Festival Celebration</strong></p>
