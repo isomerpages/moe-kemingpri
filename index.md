@@ -13,7 +13,7 @@ sections:
           url: /kmps/announcements
         - title: Highlights
           description: ""
-          url: /kmps/Highlights/TDD2023/
+          url: /kmps/highlights/farewell/
         - title: Quick Links
           description: ""
           url: /kmps/quick-links
