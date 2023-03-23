@@ -11,7 +11,7 @@ description: ""
 <td style="width: 20%; text-align: center;"><img src="/images/ql2.jpeg"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">SLS</a></td>
 <td style="width: 20%; text-align: center;"><u></u><img src="/images/ql3.jpeg"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">MTL</a></td>
 <td style="width: 20%; text-align: center;"><img src="/images/ql5.jpg"><a href="https://kemingprimaryschool.padlet.org/auth/login" target="_blank" rel="noopener">Padlet</a></td>
-<td style="width: 20%; text-align: center;"><img src="/images/ql6.jpg"><a href="https://go.gov.sg/kemingnitesconfident" target="_blank" rel="noopener">Confident</a></td>
+<td style="width: 20%; text-align: center;"><img src="/images/ql6.jpg"><a href="https://sites.google.com/moe.edu.sg/kemingnitesconfident/" target="_blank" rel="noopener">Student Portal</a></td>
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;"><img src="/images/ql7.jpeg"><a href="https://www.brainpop.com/" target="_blank" rel="noopener">BrainPop</a></td>

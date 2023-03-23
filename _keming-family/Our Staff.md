@@ -19,7 +19,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>Administration Manager&nbsp;</p>
+        <p>Administration Manager</p>
       </td>
       <td>
         <p>Ms Liyiana Abdullah Lau</p>

@@ -26,21 +26,21 @@ third_nav_title: Our Co Curriculum
 </tr>
 <tr>
 <td style="text-align: center;" width="76">Primary 1</td>
-<td style="text-align: center;" width="212">Basic Operations<br />Word Document (Level 1)</td>
+<td style="text-align: center;" width="212">Microsoft Word</td>
 <td style="text-align: center;" width="81">Primary 4</td>
-<td style="text-align: center;" width="188">Advanced Search Tools<br />Powerpoint (Level 2)</td>
+<td style="text-align: center;" width="188">Google Doc</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="76">Primary 2</td>
-<td style="text-align: center;" width="212">Word Document ( Level 2)</td>
+<td style="text-align: center;" width="212">Microsoft PowerPoint</td>
 <td style="text-align: center;" width="81">Primary 5</td>
-<td style="text-align: center;" width="188">Google Docs</td>
+<td style="text-align: center;" width="188">Google Slides</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="76">Primary 3</td>
-<td style="text-align: center;" width="212">Search Tools and Data Collection<br />Powerpoint (Level 1)</td>
+<td style="text-align: center;" width="212">Microsoft Excel</td>
 <td style="text-align: center;" width="81">Primary 6</td>
-<td style="text-align: center;" width="188">Communication Tools</td>
+<td style="text-align: center;" width="188">Video Editing Tools</td>
 </tr>
 </tbody>
 </table>
@@ -54,11 +54,13 @@ third_nav_title: Our Co Curriculum
 <p>As part of its commitment to nurturing future-ready learners, MOE had announced that all students in Singapore schools will be supported in their learning by SLS, an online learning platform that contains curriculum-aligned resources and learning tools.</p>
 
 <p><strong>4. CYBER WELLNESS</strong></p>
-<p>Our Cyber wellness framework, the S.T.A.R. approach, guides our students to be responsible digital users and protect themselves in cyberspace.</p>
+<p>Our cyber wellness framework, the S.T.A.R. approach, guides our students to be responsible digital users and protect themselves in cyberspace. </p>
 <img src="/images/ict3.png">
 <p>Cyber wellness Programmes aim to develop a child&rsquo;s instinct to protect himself/herself and empower him/her to take responsibility for his/her own well-being in cyberspace.</p>
 <p>Platforms used to educate students on Cyber wellness:</p>
 <p>a) Lessons infused in FTGP</p>
-<p>b) Tech Week during recesses</p>
+<p>b) KMPS Tech Week</p>
 <p>c) Infocomm Club</p>
+
+
 <p>d) Baseline standards</p>
