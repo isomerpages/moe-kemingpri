@@ -4,7 +4,8 @@ permalink: /keming-grow/our-co-curricular-activities-ccas/clubs-n-societies/scie
 description: ""
 ---
 
-![](/images/Sense%20logo.jpg)
+<img style="width: 50%" src="/images/Sense%20logo.jpg" />
+
 **S.EN.S.E Club** is a merger of our Eco Club and Science Club and the acronym **S.EN.S.E** represents: Science, Environment, Sustainability, and Eco-Friendly.
 <br>
 <br>
