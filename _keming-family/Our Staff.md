@@ -1437,7 +1437,18 @@ description: ""
       </td>
       <td>
         <p>Jonathan_Lock@moe.edu.sg</p>
+			</td>
+    </tr>
+		<tr>
+      <td>
+        <p>Music</p>
       </td>
+      <td>
+        <p>Ms Ke Wei Jie Rachelle </p>
+      </td>
+      <td>
+        <p>ke_wei_jie_rachelle@moe.edu.sg</p>
+			</td>
     </tr>
   </tbody>
 </table>
