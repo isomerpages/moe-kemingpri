@@ -1437,7 +1437,18 @@ description: ""
       </td>
       <td>
         <p>Jonathan_Lock@moe.edu.sg</p>
+			</td>
+    </tr>
+		<tr>
+      <td>
+        <p>Music</p>
       </td>
+      <td>
+        <p>Ms Ke Wei Jie Rachelle </p>
+      </td>
+      <td>
+        <p>ke_wei_jie_rachelle@moe.edu.sg</p>
+			</td>
     </tr>
   </tbody>
 </table>
@@ -1761,6 +1772,17 @@ description: ""
       </td>
       <td>
         <p>archana_loganathan@moe.edu.sg</p>
+      </td>
+    </tr>
+		    <tr>
+      <td>
+        <p>TL</p>
+      </td>
+      <td>
+        <p>Mrs Thangavel Jamunarani</p>
+      </td>
+      <td>
+        <p>thangavel_jamunarani@moe.edu.sg</p>
       </td>
     </tr>
   </tbody>
