@@ -13,7 +13,7 @@ sections:
           url: /kmps/announcements
         - title: Highlights
           description: ""
-          url: /kmps/highlights/farewell/
+          url: /kmps/highlights/theatre-experience/
         - title: Quick Links
           description: ""
           url: /kmps/quick-links
