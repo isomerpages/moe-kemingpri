@@ -4,7 +4,7 @@ permalink: /keming-family/our-parent-support-group/
 description: ""
 ---
 <p><a href="/files/PSG/PSG%20Online%20Guide.pdf" target="_blank" rel="noopener">PSG Online Guide</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaSJQ8XSatc" title="PSG Members" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaSJQ8XSatc" title="PSG Members" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <h4><strong>Programmes / Activities that Parent Volunteers&nbsp;could Offer their Services in:</strong></h4>
 <p><strong>Regular Basis (Academic)</strong></p>
 <ol>
@@ -37,14 +37,9 @@ description: ""
 <p><strong>To register as a Parent Volunteer in Keming Primary School</strong></p>
 <p>Activities could be carried out either face-to-face or online, depending on the nature of the request by the school and at the same time adhering to the guidelines specified in the Safe Management Measures (SMM) document.</p>
 <ol>
-
-
-1.   <strong>Parents who wish to register their child under Phase 2B in the year 2025 for 2026 P1 intake</strong><br> 
-Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office. Registration for this category will be opened until 31 March 2023.
-<br><a href="/files/PSG/PV%20Registration%20Form%202023%20(1).pdf" target="_blank" rel="noopener">Parent Volunteer Registration Form 2023</a>
 		<br>
 	
-2.    <strong>Current Parents with Children in the School</strong><br>
+1.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Current Parents with Children in the School</strong><br>
 Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office.
 	<br><a href="/files/PSG/Parents%20Volunteer%20Form%20%20Child%20In%20School_2021%20(1).pdf" target="_blank" rel="noopener">Parent Volunteer Registration Form for Current Student</a>
 	
@@ -86,7 +81,7 @@ Click on the following link to download the form and submit the completed form t
 <td style="width: 50%;"><img src="/images/psg10.jpeg"></td>
 </tr>
 <tr>
-<td colspan = "2" ><img style="width: 50%;" src="/images/psg11.jpeg"></td>
+<td colspan="2"><img style="width: 50%;" src="/images/psg11.jpeg"></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +116,7 @@ Click on the following link to download the form and submit the completed form t
 <td style="width: 50%;"><img src="/images/psg19.jpeg"></td>
 </tr>
 <tr>
-<td colspan = "2" ><img style="width: 50%;" src="/images/psg20.jpeg"></td>
+<td colspan="2"><img style="width: 50%;" src="/images/psg20.jpeg"></td>
 </tr>
 </tbody>
 </table>
