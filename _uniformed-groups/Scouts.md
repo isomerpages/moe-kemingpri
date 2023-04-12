@@ -43,10 +43,10 @@ description: ""
 <p class=""><strong class=""><span class="" lang="EN-SG">Messengers of Peace Award</span></strong><span class="" lang="EN-SG">:</span></p>
 <p class=""><span class="" lang="EN-SG">The Messengers of Peace is an international initiative which aims to highlight how Scouts make the world a better place by supporting scouts' community service and encouraging Scouts to share their actions with others to help build a global network of service.&nbsp; Congratulations to the following students who have satisfied the requirement for this prestigious award:</span></p>
 <ul>
-<li><span class="" lang="EN-SG">Keshwini Gejendran (Primary 6 Am)</span></li>
-<li><span class="" lang="EN-SG">Teo Junwei Jonathan (Primary 5 Am)</span></li>
-<li><span class="" lang="EN-SG">Anna Lok En Bei (Primary 4 Ja)</span></li>
-<li><span class="" lang="EN-SG">Xu Lexin (Primary 4 Ja)</span></li>
+<li><span class="" lang="EN-SG">Keshwini Gejendran </span></li>
+<li><span class="" lang="EN-SG">Teo Junwei Jonathan </span></li>
+<li><span class="" lang="EN-SG">Anna Lok En Bei </span></li>
+<li><span class="" lang="EN-SG">Xu Lexin </span></li>
 </ul>
 </td>
 <td style="width: 25%;"><img src="/images/sco3.jpg"></td>
