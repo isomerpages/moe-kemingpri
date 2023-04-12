@@ -3,17 +3,17 @@ title: Scouts
 permalink: /keming-grow/our-co-curricular-activities-ccas/uniformed-groups/scouts/
 description: ""
 ---
-<p>Scouting was first introduced in our school in 1991. Our Cub Scouts are trained to adopt the principles of good citizenship through the Scout method. It is learning by doing with active participation with other members such as working in a small group, known as &lsquo;Six&rsquo;, to develop leadership and teamwork skills to be a responsible Scouter.</p>
-<p><u>The Mission of Scouting:</u><br />The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law. To help build a better world where people are self-fulfilled as individuals and play a constructive role in society.</p>
-<p><u>The Vision of Scouting:</u><br />Better Scouting for more young People</p>
+<p>Scouting was first introduced in our school in 1991. Our Cub Scouts are trained to adopt the principles of good citizenship through the Scout method. It is learning by doing with active participation with other members such as working in a small group, known as ‘Six’, to develop leadership and teamwork skills to be a responsible Scouter.</p>
+<p><u>The Mission of Scouting:</u><br>The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law. To help build a better world where people are self-fulfilled as individuals and play a constructive role in society.</p>
+<p><u>The Vision of Scouting:</u><br>Better Scouting for more young People</p>
 <h4>Teachers-In-Charge</h4>
-<p><strong>Mr Gejendran s/o V Krishnan<br /></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
-<p><strong>Ms Archana<br /></strong>(archana_loganathan@moe.edu.sg)</p>
+<p><strong>Mr Gejendran s/o V Krishnan<br></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
+<p><strong>Ms Archana<br></strong>(archana_loganathan@moe.edu.sg)</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Teaching Lab</p>
-<p><h4><strong>2020 Achievements:</strong></h4></p>
+<p></p><h4><strong>2020 Achievements:</strong></h4><p></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -53,12 +53,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>2021 Competitions:</strong></p>
-<p><strong>National Cub Scout Mind Quiz winners</strong>:<br />Tan Zheng Yi Adrian, Primary 4 Di (Gold)<br />Lau Qi Hen Tristin, Primary 5 Em (Silver)<br />Venice Toh Yee Hee, Primary 5 Em (Silver)</p>
+
 <p><strong>2021 Activities:</strong></p>
-<p><strong>Unit Meetings<br /></strong>We kicked off the year by having roasted marshmallows at the end of our Unit Meeting. The teachers and the Cubs had a whale of time bonding and building our camaraderie.</p>
+<p><strong>Unit Meetings<br></strong>We kicked off the year by having roasted marshmallows at the end of our Unit Meeting. The teachers and the Cubs had a whale of time bonding and building our camaraderie.</p>
 <img style="width: 65%;" src="/images/sco4.png">
-<p><strong>World Water Day Learning Journey</strong><br />Tuatara Cub Scouts were able to extend their learning of World Water Day after its commemoration at the start of Term 2. The Cubs were fortunate to go on a learning trail to Waterway Watch Society on 24 March 2021</p>
+<p><strong>World Water Day Learning Journey</strong><br>Tuatara Cub Scouts were able to extend their learning of World Water Day after its commemoration at the start of Term 2. The Cubs were fortunate to go on a learning trail to Waterway Watch Society on 24 March 2021</p>
 <img style="width: 75%;" src="/images/sco5.png">
 <p style="text-align: center;">Look at the trash!</p>
 <img style="width: 65%;" src="/images/sco6.png">
