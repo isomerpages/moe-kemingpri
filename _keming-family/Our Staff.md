@@ -96,7 +96,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>HOD ICT & School Library</p>
+        <p>HOD ICT &amp; School Library</p>
       </td>
       <td>
         <p>Mdm Radin Anita Abu Bakar</p>
@@ -107,7 +107,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>HOD Physical Education, CCA & Aesthetics</p>
+        <p>HOD Physical Education, CCA &amp; Aesthetics</p>
       </td>
       <td>
         <p>Ms Lim Siew Chin</p>
@@ -118,7 +118,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>HOD Character & Citizenship Development</p>
+        <p>HOD Character &amp; Citizenship Development</p>
       </td>
       <td>
         <p>Mdm Chng Boon Lee</p>
@@ -180,17 +180,6 @@ description: ""
       </td>
       <td>
         <p>ng_hui_san_a@moe.edu.sg</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>School Staff Developer</p>
-      </td>
-      <td>
-        <p>Ms Tan Swee Lian</p>
-      </td>
-      <td>
-        <p>tan_swee_lian@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
@@ -261,7 +250,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>SH VIA & Environment</p>
+        <p>SH VIA &amp; Environment</p>
       </td>
       <td>
         <p>Mdm Tracey-Anne Sim Ching Hien</p>
@@ -1397,24 +1386,35 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>EL/MA</p>
+        <p>EL/SC</p>
       </td>
       <td>
-        <p>Ms Goh Chong Bin Janice</p>
+        <p>Ms Chua Lin Lin</p>
       </td>
       <td>
-        <p>goh_chong_bin_janice@moe.edu.sg</p>
+        <p>Chua_lin_lin_A@moe.edu.sg</p>
+      </td>
+    </tr>
+		<tr>
+      <td>
+        <p>EL</p>
+      </td>
+      <td>
+        <p>Ms Sheila Lim</p>
+      </td>
+      <td>
+        <p>Sheila_lim@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
       <td>
-        <p>MA</p>
+        <p>MA/SC</p>
       </td>
       <td>
-        <p>Mdm Khoo Hua Phang Janice</p>
+        <p>Ms Julie Quah</p>
       </td>
       <td>
-        <p>khoo_hua_phang_janice@moe.edu.sg</p>
+        <p>Ting_choon_lin@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
