@@ -1702,10 +1702,10 @@ description: ""
         <p>ML</p>
       </td>
       <td>
-        <p>Mdm Farhana Bte Kamarulzaman</p>
+        <p>Mdm Nurfarhana Bte Kamarulzaman</p>
       </td>
       <td>
-        <p>farhana_kamarulzaman@kmps.edu.sg</p>
+        <p>nurfarhana_kamarulzaman@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
