@@ -353,6 +353,17 @@ description: ""
         <p>wong_wee_cheng@moe.edu.sg</p>
       </td>
     </tr>
+		  <tr>
+      <td>
+        <p>1Di</p>
+      </td>
+      <td>
+        <p>Ms Tan Zhi En</p>
+      </td>
+      <td>
+        <p>dorcas_tan_zhi_en@moe.edu.sg</p>
+      </td>
+    </tr>
     <tr>
       <td>
         <p>1Em</p>
@@ -781,7 +792,7 @@ description: ""
         <p>see_yan_hui_cecilia@moe.edu.sg</p>
       </td>
     </tr>
-    <tr>
+		   <tr>
       <td>
         <p>3On</p>
       </td>
@@ -789,7 +800,18 @@ description: ""
         <p>Mr A'Qashah Bin Ahmad Al'Badowe</p>
       </td>
       <td>
-        <p>ahmad_aqashah_ahmad_albadowe@moe.edu.sg</p>
+        <p>ahmad\_aqashah\_ahmad\_albadowe@moe.edu.sg</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>3On</p>
+      </td>
+      <td>
+        <p>Ms Rachelle Ke Wei Jie</p>
+      </td>
+      <td>
+        <p>ke_wei_jie_rachelle@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
@@ -1428,17 +1450,6 @@ description: ""
         <p>neo_siok_hwee_priscilla@moe.edu.sg</p>
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>PE</p>
-      </td>
-      <td>
-        <p>Mr Jonathan Lock Han Chng</p>
-      </td>
-      <td>
-        <p>Jonathan_Lock@moe.edu.sg</p>
-			</td>
-    </tr>
 		<tr>
       <td>
         <p>Music</p>
@@ -1702,17 +1713,6 @@ description: ""
         <p>ML</p>
       </td>
       <td>
-        <p>Mdm Nurfarhana Bte Kamarulzaman</p>
-      </td>
-      <td>
-        <p>nurfarhana_kamarulzaman@moe.edu.sg</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>ML</p>
-      </td>
-      <td>
         <p>Ms Hairani Binte Amin</p>
       </td>
       <td>
@@ -1825,13 +1825,24 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>SEN Officer &nbsp;</p>
+        <p>SEN Officer</p>
       </td>
       <td>
-        <p>Mdm Yap Lay Ming (Mdm Ming)&nbsp;</p>
+        <p>Mdm Yap Lay Ming (Mdm Ming)</p>
       </td>
       <td>
-        <p>yap_lay_ming@moe.edu.sg&nbsp;</p>
+        <p>yap_lay_ming@moe.edu.sg</p>
+      </td>
+    </tr>
+		  <tr>
+      <td>
+        <p>SEN Officer</p>
+      </td>
+      <td>
+        <p>Ms Nur Faezah Moktar</p>
+      </td>
+      <td>
+        <p>nur_faezah_moktar@moe.edu.sg</p>
       </td>
     </tr>
     <tr>
