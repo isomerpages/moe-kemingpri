@@ -1774,17 +1774,6 @@ description: ""
         <p>archana_loganathan@moe.edu.sg</p>
       </td>
     </tr>
-		    <tr>
-      <td>
-        <p>TL</p>
-      </td>
-      <td>
-        <p>Mrs Thangavel Jamunarani</p>
-      </td>
-      <td>
-        <p>thangavel_jamunarani@moe.edu.sg</p>
-      </td>
-    </tr>
   </tbody>
 </table>
 <h4>Allied Educators (AED)</h4>
