@@ -8,7 +8,7 @@ description: ""
 <p>As we return to normalcy, this issue showcases an assortment of experiences that nurture Kemingnites to grow and glow. It also features a special tribute to Mdm. Jessie Ang, our Vice-Principal, who left the school at the end of Term 1 to attend the Leaders in Education Programme.</p>
 <p>And we have a new look!&nbsp;We hope that you will enjoy reading the e-newsletter together with your child. You could access our e-newsletter via this link: [https://go.gov.sg/keming012023](https://go.gov.sg/keming012023).</p>
 <p>Happy reading!<br>
-<a href="/files/Keeping in touch sem1 2023 lite_11zon.pdf" target="">KMPS e-Newsletter 2023 Semester 1</a></p>
+<a href="files/keeping%20in%20touch%20sem1%202023%20lite_11zon.pdf" target="">KMPS e-Newsletter 2023 Semester 1</a></p>
 <br>
 <hr>
 <p><strong>Keming Primary e-Newsletter 2022_Semester 1</strong><br>Dear Parents,</p>
