@@ -34,12 +34,15 @@ description: ""
 <li>Coach students for competitions</li>
 <li>Assist in preparing students on the day of competitions for CCAs such as Wushu, Chinese Orchestra, Chinese Dance and International Dance ( e.g. setting up of equipment, helping children with their makeup etc)</li>
 </ol>
-<p><strong>To register as a Parent Volunteer in Keming Primary School</strong></p>
+<strong>To register as a Parent Volunteer in Keming Primary School</strong>
 <p>Activities could be carried out either face-to-face or online, depending on the nature of the request by the school and at the same time adhering to the guidelines specified in the Safe Management Measures (SMM) document.</p>
 <ol>
 		<br>
+	1.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Parents who wish to register their child under Phase 2B in the year 2025 for 2026 P1 intake </strong><br>
+	Application date for this category was from 1 Jan to 31 Mar 2023 and it is now closed.<br>
 	
-1.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Current Parents with Children in the School</strong><br>
+<br>	
+2.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Current Parents with Children in the School</strong><br>
 Click on the following link to download the form and submit the completed form to Mdm Zainab at the General Office.
 	<br><a href="/files/PSG/Parents%20Volunteer%20Form%20%20Child%20In%20School_2021%20(1).pdf" target="_blank" rel="noopener">Parent Volunteer Registration Form for Current Student</a>
 	
