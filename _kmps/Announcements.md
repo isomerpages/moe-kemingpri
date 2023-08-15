@@ -12,7 +12,7 @@ preparation for Polling Day after the Teachers’ Day Celebration at 10.30 a.m. 
 2023. Thus, we are not hosting any visits from former students on that day.
 
 Instead of visiting your teachers, you may wish to post your appreciation
-messages for your teachers online via this link Tribute To Teachers. Please indicate your
+messages for your teachers online via this link [Tribute To Teachers.](https://form.gov.sg/64db314825d03e0012f17dd5) Please indicate your
 name, class and the year you graduated. As well as the name of the teacher you are
 writing to so that he/she knows the message is for them.
 Thank you.
