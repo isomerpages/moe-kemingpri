@@ -3,25 +3,36 @@ title: Announcements
 permalink: /kmps/announcements/
 description: ""
 ---
-Dear Former Kemingnites,
+Dear Parents,
 
-**Teachers’ Day Celebration on 31 Aug 2023 (Thurs)**
+P3 and P4 HMTL briefing slides are available for download
+Click [here.](/files/p3%20and%20p4%20keming%20hmtl_briefing%20slides%20for%20parents.pdf)
 
-In view of Polling Day which falls on 1 Sept 2023, the school will be closed in
-preparation for Polling Day after the Teachers’ Day Celebration at 10.30 a.m. on 31 Aug 2023. Thus, we are not hosting any visits from former students on that day.
+Thank you
+<hr>
 
-Instead of visiting your teachers, you may wish to post your appreciation
-messages for your teachers online via this link [Tribute To Teachers.](https://form.gov.sg/64db314825d03e0012f17dd5) Please indicate your
-name, class and the year you graduated. As well as the name of the teacher you are
-writing to so that he/she knows the message is for them.
+Dear Future Kemingnites,
+
+**P1 Orientation for 2024 Intake**
+<br>Keming warmly invites our Primary 1 students (2024) and parents to the upcoming P1 orientation.
+<br>**Date: 20 November 2023, Monday**
+<br>**Estimated Time: 8.30 a.m. – 10.30 a.m. (Morning)**
+<br>Mode: Face-to-Face
+
 Thank you.
-
-Mdm Rina Abdullah<br>
-HOD Student Management
 
 <hr>
 
+Dear Kemingnites,
 
+Nominate your teachers for Caring Teacher Awards 2024!
+<br>
+Nominations start TODAY!<br>
+www.cta.nie.edu.sg
+
+Thank you.
+
+<hr>
 
 Dear Parents,
 
