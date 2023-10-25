@@ -49,7 +49,7 @@ description: ""
 <tr>
 <td style="width: 33.2386%; text-align: center;"><a href="https://iexams.seab.gov.sg/login" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iexams.seab.gov.sg/login&amp;source=gmail&amp;ust=1659749964614000&amp;usg=AOvVaw1DyaRMYFEgNv4efjk4r569">iExams</a></td>
 <td style="width: 33.2386%; text-align: center;"><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking Service&nbsp; </a></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;"><a href="https://idp.mims.moe.gov.sg/nidp/app/login" target="_blank" rel="noopener">MIMS Portal </a></td>
 </tr>
 </tbody>
 </table>
