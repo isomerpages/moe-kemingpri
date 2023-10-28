@@ -151,7 +151,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>Year Head (P3-P4)</p>
+        <p>Year Head (P5-P6)</p>
       </td>
       <td>
         <p>Mdm Selena Tan</p>
@@ -162,7 +162,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>Year Head (P5-P6)</p>
+        <p>Year Head (P3-P4)</p>
       </td>
       <td>
         <p>Mdm Teo Cher Ching Felicia</p>
