@@ -1079,7 +1079,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>5Di</p>
+        <p>5Di/5Pe</p>
       </td>
       <td>
         <p>Mdm Tracey-Anne Sim Ching Hien</p>
@@ -1090,7 +1090,7 @@ description: ""
     </tr>
     <tr>
       <td>
-        <p>5Di</p>
+        <p>5Di/5Pe</p>
       </td>
       <td>
         <p>Ms Archana d/o Rethenam Loganathan</p>
@@ -1185,17 +1185,6 @@ description: ""
       </td>
       <td>
         <p>nur_izzah_zainudin@moe.edu.sg</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>5Di/Pe</p>
-      </td>
-      <td>
-        <p>Mdm Cheum Foong Yee (Mrs Loo)</p>
-      </td>
-      <td>
-        <p>cheum_foong_yee@moe.edu.sg</p>
       </td>
     </tr>
   </tbody>
