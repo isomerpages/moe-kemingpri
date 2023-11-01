@@ -3,6 +3,14 @@ title: Announcements
 permalink: /kmps/announcements/
 description: ""
 ---
+Dear all
+
+Our office will be **closed** on **24 November 2023** due to a school event.
+
+Thank you.
+
+<hr>
+
 Dear Parents,
 
 P3 and P4 HMTL briefing slides are available for download
