@@ -2,33 +2,23 @@
 title: Announcements
 permalink: /kmps/announcements/
 description: ""
+variant: markdown
 ---
-Dear all
 
-Our office will be **closed** on **24 November 2023** due to a school event.
 
-Thank you.
+**Dear parents,**
 
-<hr>
+The letters below are information for students starting school in 2024.  
+* [Pri 2](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P2.pdf)
+* [Pri 3](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P3.pdf)
+* [Pri 4](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P4.pdf)
+* [Pri 5](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P5.pdf)
+* [Pri 5 Foundation](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P5_Foundation.pdf)
+* [Pri 6](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P6.pdf)
+* [Pri 6 Foundation](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P6_Foundation.pdf)
 
-Dear Parents,
-
-P3 and P4 HMTL briefing slides are available for download
-Click [here.](/files/p3%20and%20p4%20keming%20hmtl_briefing%20slides%20for%20parents.pdf)
-
-Thank you
-<hr>
-
-Dear Future Kemingnites,
-
-**P1 Orientation for 2024 Intake**
-<br>Keming warmly invites our Primary 1 students (2024) and parents to the upcoming P1 orientation.
-<br>**Date: 20 November 2023, Monday**
-<br>**Estimated Time: 8.30 a.m. – 10.30 a.m. (Morning)**
-<br>Mode: Face-to-Face
 
 Thank you.
-
 <hr>
 
 Dear Kemingnites,
@@ -54,19 +44,6 @@ Form in Tamil:&nbsp;[https://go.gov.sg/mitt-2023-form-tl](https://go.gov.sg/mitt
 Form in English:&nbsp;[https://go.gov.sg/mitt-2023-form-el](https://go.gov.sg/mitt-2023-form-el)  
 
 Click&nbsp;[HERE](https://www.moe.gov.sg/news/press-releases/20230126-open-for-nominations-most-inspiring-tamil-teachers-award-2023)&nbsp;for more information on MITT.
-
-Thank you.
-
-<hr>
-
-**Dear parents,**
-
-The letters below are for students starting school in 2023.  
-[Starting School in 2023.](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/099_Starting%20School%20in%202023_vetted.pdf)
-<br>
-[Annex A\_Things to bring for First 2 days of school 2023.](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/099_Annex%20A_Things%20to%20bring%20for%20First%202%20days%20of%20school%202023.pdf)
-<br>
-[Annex B\_Traffic Advisory.](https://kemingpri-moe-edu-sg-admin.cwp.sg/qql/slot/u155/2021/Announcements/099_Annex%20B_Traffic%20Advisory.pdf)
 
 Thank you.
 

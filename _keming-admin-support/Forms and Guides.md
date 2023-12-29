@@ -2,51 +2,6 @@
 title: Forms and Guides
 permalink: /keming-admin-support/forms-and-guides/
 description: ""
+variant: tiptap
 ---
-<ol>
-<li><strong>Financial Assistance Scheme (FAS)</strong>
-<div><a href="/files/MOE%20FAS%20Application%20Form%20(30%20Sep%202020)%20final.pdf" target="_blank" rel="noopener"><strong>MOE FAS Application Form</strong></a></div>
-</li>
-</ol>
-<ol start="2">
-<li><strong>Leave of absence (LOA) form</strong>
-<div><a href="/files/LOA%20form%2001_01_2013.pdf" target="_blank" rel="noopener"><strong>(Download)</strong></a></div>
-</li>
-</ol>
-<ol start="3">
-<li><strong>Updating of student's official address</strong>
-<div><a href="/files/change%20of%20address.pdf" target="_blank" rel="noopener"><strong>(Download)</strong></a></div>
-</li>
-</ol>
-<ol start="4">
-<li><strong>Group Personal Accident Insurance For Students</strong></li>
-<ol type="i">
-<li><a href="https://studentgpa.incomegroupins.com.sg/#/" target="_blank" rel="noopener"><strong>Information on the plan and Claim form</strong></a></li>
-</ol>
-</ol>
-<ol start="5">
-<li><strong>Student Smart Card</strong></li>
-<ol type="i">
-<li><a href="/files/Appendix%20D_appln%20for%20SSC_MOE%20SCH_Nov%2015.pdf" target="_blank" rel="noopener"><strong>Application form</strong></a></li>
-</ol>
-</ol>
-<ol start="6">
-<li><strong>NEU PC Plus Programme</strong></li>(https://www.imda.gov.sg/neupc)
-</ol>
-<ol type="a">
-<li>PC Bundle for MOE-FAS Recipients </li>
-<ol type="i">
-
-<li><a href="/files/Neupc/NPP-Application-Form-for-MOE-SPED-FAS.pdf" target=""><strong>NPP Application Form MOE-SPED FAS</strong></a></li>
-<li><a href="/files/Neupc/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf" target="_blank" rel="noopener"><strong>M1 Fibre BroadBand</strong></a></li>
-</ol>
-<li>PC Bundle for non-MOE FAS / SPED FAS students </li>
-<ol type="i">
-<li><a href="/files/Neupc/NPP-Application-Form-for-NON-MOE-SPED-FAS.pdf" target=""><strong>NPP Application Form NON MOE-SPED FAS</strong></a></li>
-</ol>
-</ol>
-<ol start="7">
-<li><strong>Consent for non-commercial use of students' work, videos &amp; photographs</strong>
-<div><a href="/files/CONSENT_work_photo_cleared.pdf" target="_blank" rel="noopener"><strong>(Download)</strong></a></div>
-</li>
-</ol>
+<p></p><ol data-tight="true" class="tight"><li><p><strong>&nbsp;MOE Financial Assistance Scheme (FAS)</strong><br><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE FAS e-application Form (e-FAS)</a></p></li></ol><ol start="2" data-tight="true" class="tight"><li><p><strong>Leave of absence (LOA) form</strong><br><strong><a href="https://www.kemingpri.moe.edu.sg/files/LOA%20form%2001_01_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download)</a></strong></p><p></p></li><li><p><strong>Updating of student's official address</strong><br><strong><a href="https://www.kemingpri.moe.edu.sg/files/change%20of%20address.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download)</a></strong></p><p></p></li><li><p><strong>Group Personal Accident Insurance For Students</strong><br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Information on the plan and Claim form</a></p><p></p></li></ol><ol start="5" data-tight="true" class="tight"><li><p><strong>Student Smart Card</strong><br><a href="https://www.kemingpri.moe.edu.sg/files/Appendix%20D_appln%20for%20SSC_MOE%20SCH_Nov%2015.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a></p><p></p></li></ol><ol start="6" data-tight="true" class="tight"><li><p><strong>Digital Access @Home</strong><br>(Formerly known as NEU PC Plus Programme and Home Access)<br><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">Information on Digital Access @ Home</a><br><a href="digitalaccess.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Online application</a></p><p></p></li><li><p><strong>Consent for non-commercial use of students' work, videos &amp; photographs</strong><br><strong><a href="https://www.kemingpri.moe.edu.sg/files/CONSENT_work_photo_cleared.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download)</a></strong></p></li></ol><p></p>
