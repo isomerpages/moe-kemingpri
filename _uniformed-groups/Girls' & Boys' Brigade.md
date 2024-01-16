@@ -1,18 +1,18 @@
 ---
-title: Girls' &amp; Boys' Brigade
+title: Girls' & Boys' Brigade
 permalink: /keming-grow/our-co-curricular-activities-ccas/uniformed-groups/girls-n-boys-brigade/
 description: ""
+variant: markdown
 ---
 <p>The mission of the Boys’ Brigade is to provide fun, meaningful and challenging activities that actively engage each boy. It is also to nurture our youths based on values that will enable them to lead and serve in the future. Our highlights include our weekly parades which focus on character education, games, drills, badge work, outings and camps. We also have HQ events and competitions like the BB Week, BB CARES, Character Quest and BB Share-A-Gift.</p>
 <p>The mission of the Girls’ Brigade is to develop each girl to achieve her fullest potential by equipping, empowering and enabling them to become a leader. Our company highlights include our weekly parades which focus on character education, games, drills, badge work, outings and camps. We also have HQ events like the GB Friendship Day which involves community work.</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong><u>Girls’ Brigade<br></u></strong><strong>Mrs Pauline Tan<br></strong>(chia_hui@moe.edu.sg)</p>
-<p><strong>Ms Joanne Leong<br></strong>(leong_jia_ying_joanne@moe.edu.sg)</p>
 <p><strong><u>Boys’ Brigade<br></u></strong><strong>Mr Richard Lim<br></strong>(richard_lim_heng_lee@moe.edu.sg)</p>
 <h4><strong>Day &amp; Time</strong></h4>
 <p><strong>Wednesdays</strong>, 2:15 pm - 4:15 pm</p>
 <h4>Venue</h4>
-<p>Fibo Room</p>
+<p>MPR</p>
 <h4>Activities</h4>
 <p><strong>Boys’ Brigade</strong></p>
 <ul>
