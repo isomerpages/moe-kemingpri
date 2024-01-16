@@ -2,17 +2,20 @@
 title: Scouts
 permalink: /keming-grow/our-co-curricular-activities-ccas/uniformed-groups/scouts/
 description: ""
+variant: markdown
 ---
 <p>Scouting was first introduced in our school in 1991. Our Cub Scouts are trained to adopt the principles of good citizenship through the Scout method. It is learning by doing with active participation with other members such as working in a small group, known as ‘Six’, to develop leadership and teamwork skills to be a responsible Scouter.</p>
 <p><u>The Mission of Scouting:</u><br>The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law. To help build a better world where people are self-fulfilled as individuals and play a constructive role in society.</p>
 <p><u>The Vision of Scouting:</u><br>Better Scouting for more young People</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Gejendran s/o V Krishnan<br></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
+<p><strong>Mdm Guo Shiyun<br></strong>(guo_shiyun@moe.edu.sg)</p>
 <p><strong>Ms Archana<br></strong>(archana_loganathan@moe.edu.sg)</p>
+
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
-<p>Teaching Lab</p>
+<p>Teaching Lab/5Di Classroom</p>
 <p></p><h4><strong>2020 Achievements:</strong></h4><p></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
