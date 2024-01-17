@@ -2,18 +2,21 @@
 title: Wushu
 permalink: /keming-grow/our-co-curricular-activities-ccas/sports-n-games/wushu/
 description: ""
+variant: markdown
 ---
 <p>Wushu is a fun and exciting sport. During training, students get to develop social emotional skills through play, interaction with peers and bonding with like-minded school-mates who will support each other during training and competitions.</p>
 <p>Wushu helps to enhance students’ psychomotor and balancing skills. It also provides opportunities for students to learn and display R3ICH values. Students learn to be respectful, be responsible in taking care of their weapons, be resilient when the training gets tough, and to care for their fellow Wushu teammates.</p>
 <p>Students will have a fun time learning different types of Wushu routines such as Quanshu, Taiji, Swordplay, Broadsword play, Cudgel and Spear. Wushu may be a physical and mind challenging sport to participate in, but the beauty of being able to display a full routine is far more rewarding.</p>
 <h4>Teachers-In-Charge</h4>
-<p><strong>Mdm Tong Min Lan<br></strong>(tong_min_lan@moe.edu.sg)</p>
-<p><strong>Mdm Wong Wee Cheng<br></strong>(wong_wee_cheng@moe.edu.sg)</p>
-<p><strong>Mdm Zariney<br></strong>(zariney_ahmad@moe.edu.sg)</p>
 <p><strong>Mr Yong Seng Kiak<br></strong>(yong_seng_kiak@moe.edu.sg)</p>
 <p><strong>Mrs Chandra<br></strong>(santhi_chandrasaharan@moe.edu.sg)</p>
+<p><strong>Mdm Ameline Sng<br></strong>(sng_shi_han_ameline@moe.edu.sg)</p>
+<p><strong>Mdm Wong Wee Cheng<br></strong>(wong_wee_cheng@moe.edu.sg)</p>
+<p><strong>Mdm Zariney<br></strong>(zariney_ahmad@moe.edu.sg)</p>
+<p><strong>Mr Mohamed Moiz<br></strong>(mohammad_moiz_malik@moe.edu.sg)</p>
+
 <h4>Days &amp; Time</h4>
-<p><strong>Mondays,</strong>&nbsp;2 p.m. – 5:30 p.m.&nbsp;(for school competition teams only)<br><strong>Wednesdays,</strong>&nbsp;2:15 p.m. – 4:15 p.m.</p>
+<p><strong>Mondays,</strong>&nbsp;2 p.m. – 5:30 p.m.&nbsp;(for school competition teams only)<br><strong>Wednesdays,</strong>&nbsp;2:15 p.m - 4:30 p.m.; 3:30 p.m. – 5:30 p.m.</p>
 <h4>Venue</h4>
 <p>School Hall</p>
 <h4>Achievements</h4>
