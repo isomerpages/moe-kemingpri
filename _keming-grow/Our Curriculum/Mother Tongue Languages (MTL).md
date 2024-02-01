@@ -66,7 +66,7 @@ variant: markdown
 <p style="text-align: center;">Students learning Five Stones and Congkak</p>
 <img style="width: 85%;" src="/images/mtl19.png">
 <p style="text-align: center;">Students learning Chinese Animal Chess</p>
-<p><strong>Mother Tongue Language Fortnight Activities 2019</strong></p>
+<p><strong>Mother Tongue Language Fortnight Activities</strong></p>
 <img style="width: 90%;" src="/images/mtl20.png">
 <p style="text-align: center;">Traditional Games at Recess</p>
 <img style="width: 100%;" src="/images/mtl21.png">
