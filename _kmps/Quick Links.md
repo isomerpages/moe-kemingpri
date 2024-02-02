@@ -36,7 +36,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Helpdesk" src="/images/Helpdesk.png">
 </div>
-<p><a href="https://www.kemingpri.moe.edu.sg/files/Office%20365%20ProPlus%20Student%20guide.pdf" rel="noopener" target="_blank">Helpdesk</a>
+<p><a href="https://go.gov.sg/kmpspasshelp" rel="noopener" target="_blank">Helpdesk</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
