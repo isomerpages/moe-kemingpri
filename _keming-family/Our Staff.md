@@ -299,6 +299,70 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3><strong>ST and LT 2024</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email Address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LT English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hing Mui Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hing_mui_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LT Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheum Foong Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">cheum_foong_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruhaya Bte Mafot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ruhaya_mafot@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Lingmei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hu_lingmei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>FORM TEACHERS 2024</strong></h3>
 <h4>Primary 1</h4>
 <table>
@@ -1992,7 +2056,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm S Selvarani (Mrs Kumar)</p>
@@ -2004,7 +2068,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anita Ong Jieh Ping</p>
