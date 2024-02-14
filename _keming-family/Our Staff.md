@@ -1992,7 +1992,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm S Selvarani (Mrs Kumar)</p>
@@ -2004,7 +2004,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anita Ong Jieh Ping</p>
