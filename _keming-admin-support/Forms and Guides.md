@@ -41,8 +41,7 @@ either parent's SingPass login.</p>
 <p>&nbsp;&nbsp; (Formerly known as NEU PC Plus Programme and Home Access)</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">Information on Digital Access @ Home</a>
 </p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Online application</a>
-</p>
+<p></p>
 <p>&nbsp;</p>
 <p>8.&nbsp;&nbsp;&nbsp; <strong>Consent for non-commercial use of students' work, videos &amp; photographs</strong>
 </p>
