@@ -41,14 +41,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ql5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Padlet3.jpg">
 </div>
 <p><a href="https://kemingprimaryschool.padlet.org/auth/login" rel="noopener" target="_blank">Padlet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ql6.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Kemingnite" src="/images/Girl_1.png">
 </div>
 <p><a href="https://sites.google.com/moe.edu.sg/kemingnitesconfident/" rel="noopener" target="_blank">Student Portal</a>
 </p>
