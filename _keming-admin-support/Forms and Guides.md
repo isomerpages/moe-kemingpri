@@ -12,7 +12,7 @@ either parent's SingPass login.</p>
 <p>&nbsp;</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE eGIRO Application</strong>
 </p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">MOE eGIRO Applcaiton Form</a>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">MOE eGIRO Application Form</a>
 </p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MOE Financial Assistance Scheme (FAS)</strong>
@@ -22,7 +22,7 @@ either parent's SingPass login.</p>
 <p></p>
 <p>4.&nbsp;&nbsp;&nbsp; <strong>Leave of absence (LOA) form</strong>
 </p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.kemingpri.moe.edu.sg/files/LOA form 01_01_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download</a>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.kemingpri.moe.edu.sg/files/LOA form 01_01_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download</a> 
 <a href="https://www.kemingpri.moe.edu.sg/files/LOA%20form%2001_01_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 <p></p>
@@ -46,7 +46,7 @@ either parent's SingPass login.</p>
 <p>&nbsp;</p>
 <p>8.&nbsp;&nbsp;&nbsp; <strong>Consent for non-commercial use of students' work, videos &amp; photographs</strong>
 </p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.kemingpri.moe.edu.sg/files/CONSENT_work_photo_cleared.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download)</a>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.kemingpri.moe.edu.sg/files/CONSENT_work_photo_cleared.pdf" rel="noopener noreferrer nofollow" target="_blank">(Download)</a> 
 <br>
 </p>
 <p></p>
