@@ -41,7 +41,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Padlet3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Padlet4.png">
 </div>
 <p><a href="https://kemingprimaryschool.padlet.org/auth/login" rel="noopener" target="_blank">Padlet</a>
 </p>
