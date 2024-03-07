@@ -92,6 +92,6 @@ reasoning.</p>
 <p>Students engaged in solving puzzles (Ken Ken).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Participants and Audience during the Rubik Challenge." src="/images/math8.jpg">
 </div>
 <p>Participants and Audience during the Rubik Challenge.</p>
