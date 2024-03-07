@@ -47,8 +47,7 @@ in Mathematics learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students are engaged in the performance task,  ‘Where Am I In The Race’." src="/images/maths1.jpg">
 </div>
-<p>Students are engaged in the performance task,</p>
-<p>‘Where Am I In The Race’.</p>
+<p>Students are engaged in the performance task, ‘Where Am I In The Race’.</p>
 <p></p>
 <p><strong>Learning Journeys / Mathematics Trails</strong>
 </p>
@@ -58,20 +57,19 @@ in Mathematics learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P3 Whole Numbers Addition &amp; Subtraction:  Students engaged in learning during the Maths Trail." src="/images/math2.jpg">
 </div>
-<p>P3 Whole Numbers Addition &amp; Subtraction:</p>
-<p>Students engaged in learning during the Maths Trail.</p>
+<p>P3 Whole Numbers Addition &amp; Subtraction: Students engaged in learning
+during the Maths Trail.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math3.jpg">
 </div>
-<p>P3 Whole Numbers Addition &amp; Subtraction:</p>
-<p>Students identifying patterns for the Number Grid.</p>
+<p>P3 Whole Numbers Addition &amp; Subtraction: Students identifying patterns
+for the Number Grid.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math4.jpg">
 </div>
-<p>P1 Zoo</p>
-<p>Students solving questions in the zoo.</p>
+<p>P1 Zoo : Students solving questions in the zoo.</p>
 <p></p>
 <p><strong>Maths Avengers Week<br></strong>§ P1 to P6 Maths Activities</p>
 <p>The activities conducted were fun, interactive and engaging. The activities
@@ -97,4 +95,3 @@ reasoning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math8.jpg">
 </div>
 <p>Participants and Audience during the Rubik Challenge.</p>
-<p>OS)</p>
