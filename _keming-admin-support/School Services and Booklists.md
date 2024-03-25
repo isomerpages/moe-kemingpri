@@ -62,19 +62,12 @@ in the school premises.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Monday, Wednesday, and Friday:</strong>
+<br><strong>Tuesday and Thursday:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00 a.m. to 5.00 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday and Thursday:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00 a.m. to 5.30 p.m.</p>
+<p>8.00 a.m. to 5.00 p.m.
+<br>8.00 a.m. to 5.30 p.m.</p>
 </td>
 </tr>
 </tbody>
