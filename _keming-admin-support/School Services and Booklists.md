@@ -61,7 +61,7 @@ in the school premises.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday, Wednesday, and Friday:</strong>
+<p><strong>Monday, Wednesday, and Friday:</strong> 
 <br><strong>Tuesday and Thursday:</strong>
 </p>
 </td>
