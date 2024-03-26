@@ -40,9 +40,17 @@ in Mathematics learning.</p>
 </ul>
 <p><strong>Performance Tasks</strong>
 </p>
-<p>§ P1: Where Am I In The Race – Reinforces the concepts of ordinal numbers
-<br>§ P1: Shapes and Patterns Journal
-<br>§ P1 to P4 Practical Tasks</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1: Where Am I In The Race – Reinforces the concepts of ordinal numbers</p>
+</li>
+<li>
+<p>P1: Shapes and Patterns Journal</p>
+</li>
+<li>
+<p>P1 to P4 Practical Tasks</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students are engaged in the performance task,  ‘Where Am I In The Race’." src="/images/maths1.jpg">
@@ -51,9 +59,17 @@ in Mathematics learning.</p>
 <p></p>
 <p><strong>Learning Journeys / Mathematics Trails</strong>
 </p>
-<p>§ P1 Zoo
-<br>§ P3 Whole Numbers Addition &amp; Subtraction
-<br>§ P4 Squares and Rectangles</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 Zoo</p>
+</li>
+<li>
+<p>P3 Whole Numbers Addition &amp; Subtraction</p>
+</li>
+<li>
+<p>P4 Squares and Rectangles</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P3 Whole Numbers Addition &amp; Subtraction:  Students engaged in learning during the Maths Trail." src="/images/math2.jpg">
 </div>
