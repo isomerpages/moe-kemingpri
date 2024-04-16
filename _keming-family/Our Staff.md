@@ -1592,13 +1592,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL</p>
+<p>MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sheila Lim</p>
+<p>Ms Ng Shimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Sheila_lim@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
