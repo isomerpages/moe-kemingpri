@@ -20,6 +20,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Siew Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_siew_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siew_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -27,6 +39,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">neo_kee_seng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sri Ram KJ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sri_ram_kj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_ram_kj@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1592,13 +1616,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL</p>
+<p>MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sheila Lim</p>
+<p>Ms Ng Shimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Sheila_lim@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
