@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adminstrative Manager</p>
+<p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Siew Ng</p>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sri Ram</p>
+<p>Mr Sri Ram KJ</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sri_ram_kj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_ram_kj@moe.edu.sg</a>
@@ -2165,4 +2165,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>KJ</p>
