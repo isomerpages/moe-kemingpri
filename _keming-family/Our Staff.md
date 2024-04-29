@@ -1528,18 +1528,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6On</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Inpavally d/o Murosamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">inpavally_murosamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6Op</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1610,7 +1598,7 @@ variant: tiptap
 <p>Ms Naseemah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naseema_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Naseemah   Mohamed Yacob@moe.edu.sg</a>
+<p><a href="mailto:naseema_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Naseemah Mohamed Yacob@moe.edu.sg</a>
 </p>
 </td>
 </tr>
