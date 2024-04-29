@@ -164,5 +164,4 @@ how the robotic hands can help them in their daily lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/science_last.jpg">
 </div>
-<p>Congratulations to Lin Xinyi Quineisha (5 Onyx) for winning the Merit
-Award.</p>
+<p></p>
