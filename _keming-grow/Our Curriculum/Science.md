@@ -28,8 +28,9 @@ teachers. Through this activity, the students learn about the basic needs
 of plants and how to care for plants. They also observe and study the life
 cycle of these plants. Students are proud that their seeds manage to germinate
 and blossom under their care.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Science/science 2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science_updated.jpg">
 </div>
 <h4><strong>Leadership Training for Science Monitors</strong></h4>
 <p>Primary 4 Science Monitors are trained by Zoo Educators at the River Safari.
@@ -65,6 +66,24 @@ for data collection and analysis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/Science/science 6.jpg">
 </div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feedback_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feedback.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Garden Trail</strong></h4>
 <p>The Eco Garden has been created to enable students to have a good experience
 in understanding the different types of garden plants and how these plants
@@ -80,6 +99,8 @@ experience with their peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/Science/science 7.jpg">
 </div>
+<p>Students walking in the Science Ecogarden to learn about the diversity
+of living things.</p>
 <h4><strong>I.G.N.I.T.E. Lessons</strong></h4>
 <p>(<strong>In</strong>spiring&nbsp;<strong>G</strong>rowth&nbsp;<strong>N</strong>&nbsp;<strong>I</strong>nquiry&nbsp;<strong>T</strong>hrough&nbsp;<strong>E</strong>xploration)</p>
 <p>I.G.N.I.T.E. lessons allow students to put their science concepts learnt
@@ -90,20 +111,47 @@ best model for their final presentation.</p>
 longest time, the Primary 3 students need to find out which type of materials
 will be best for the canopy and how wind and other factors can affect the
 time the parachute can stay afloat.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Science/science 8.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/sci_para.jpg">
 </div>
-<p><strong>Parachute</strong>
-</p>
-<p>Primary 4 students take on the challenge of building the tallest tower
-using newspapers. They need to know how to fold the newspapers to ensure
-the sturdiness of the tower, so the tower is well-supported at the base
-and will not collapse.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Science/science 9.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sci_para_2.jpg">
 </div>
-<p><strong>Tallest building</strong>
-</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students making a parachute as a team.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students testing out their parachute and finding out which parachute can
+stay in the air for the longest period of time.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Primary 4 students take on the challenge of building a solar oven using
+reusable and recyclable items. They need to know heat can be trapped in
+their solar oven and how the different materials can affect the solar oven’s
+ability to warm things up.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_solar_2.png">
+</div>
+<p>Students testing out their solar oven under the sun.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_solar_1.png">
+</div>
+<p>Students working together to build their solar oven.</p>
+<p></p>
+<p></p>
 <p>Primary 5 students create a robotic hand using recycled materials. Students
 discuss and brainstorm on the purpose of building of robotic hands to meet
 the needs of the users. They learnt to empathize the user’s needs and show
