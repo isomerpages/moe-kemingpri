@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>KEY PERSONNEL 2024</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Siew Ng</p>
+<p>Ms Ng Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_siew_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siew_eng@moe.edu.sg</a>
@@ -300,7 +305,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>ST and LT 2024</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -365,7 +375,12 @@ variant: tiptap
 </table>
 <h3><strong>FORM TEACHERS 2024</strong></h3>
 <h4>Primary 1</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -609,7 +624,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 2</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -817,7 +837,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 3</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1001,7 +1026,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1185,7 +1215,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 5</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1215,7 +1250,7 @@ variant: tiptap
 <p>Asst. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Archana d/o Rethenam Loganathan</p>
+<p>Mdm Archana d/o Rethenam Loganathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>
@@ -1393,7 +1428,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1423,7 +1463,7 @@ variant: tiptap
 <p>Asst. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Archana d/o Rethenam Loganathan</p>
+<p>Mdm Archana d/o Rethenam Loganathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>
@@ -1555,7 +1595,7 @@ variant: tiptap
 <p>6Pe[Di]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Archana d/o Rethenam Loganathan</p>
+<p>Mdm Archana d/o Rethenam Loganathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>
@@ -1577,7 +1617,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Subject Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1677,7 +1722,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mother Tongue Language Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2019,7 +2069,7 @@ variant: tiptap
 <p>TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Archana d/o Rethenam Loganathan</p>
+<p>Mdm Archana d/o Rethenam Loganathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>
@@ -2041,7 +2091,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Allied Educators (AED)</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2105,7 +2160,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Administrative Staff</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
