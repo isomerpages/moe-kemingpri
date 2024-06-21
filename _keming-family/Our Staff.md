@@ -1298,10 +1298,10 @@ variant: tiptap
 <p>5Em</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toin Yann Hua Adeline</p>
+<p>Ms Julya Chan Mei Feng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">toin_yann_hua@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_mei_feng@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -1322,10 +1322,10 @@ variant: tiptap
 <p>5Ja</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julya Chan Mei Feng</p>
+<p>Ms Toin Yann Hua Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_mei_feng@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">toin_yann_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1374,18 +1374,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_shu_yuan_deborah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5Op</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Kia Yen Michelle (Ms Kerk)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_kia_yen_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1685,7 +1673,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL/MA</p>
+<p>MA/SC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pang Kia Keng</p>
@@ -1745,10 +1733,10 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Kai Jiuen</p>
+<p>Mdm Wong King Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_kai_jiuen@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1941,18 +1929,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hu_lingmei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Kah Ling, Veronica</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">veronica_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
