@@ -4,10 +4,8 @@ permalink: /others/terms-of-use/
 description: ""
 variant: tiptap
 ---
+<p>Updated as at 21 June 2024</p>
 <p><strong>Terms of Use</strong>
-</p>
-<p></p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>Thank you for visiting Keming Primary School website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.kemingpri.moe.edu.sg/</a>)
 . By accessing and using this Web Site, you shall be deemed to have accepted
