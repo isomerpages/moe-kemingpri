@@ -1301,7 +1301,7 @@ variant: tiptap
 <p>Ms Julya Chan Mei Feng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_mei_feng@moe.edu.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_mei_feng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
