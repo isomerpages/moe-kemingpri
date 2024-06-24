@@ -1,5 +1,0 @@
-collections:
-  terms-of-use:
-    output: true
-    order:
-      - Terms of Use.md

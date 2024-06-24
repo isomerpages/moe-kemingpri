@@ -1,13 +1,13 @@
 ---
 title: Terms of Use
-permalink: /others/terms-of-use/
-description: ""
+permalink: /terms-of-use/
 variant: tiptap
+description: ""
 ---
-<p>Updated as at 21 June 2024</p>
+<p>(Updated as at 24 June 2024)</p>
 <p><strong>Terms of Use</strong>
 </p>
-<p>Thank you for visiting Keming Primary School website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.kemingpri.moe.edu.sg/</a>)
+<p>Thank you for visiting Keming Primary School website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.kemingpri.moe.edu.sg</a>)
 . By accessing and using this Web Site, you shall be deemed to have accepted
 to be legally bound by these Terms of Use. If you do not agree to these
 Terms of Use, please do not use this Web Site.</p>
@@ -108,4 +108,3 @@ Contents.</p>
 </p>
 <p>19. These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
-<p>&nbsp;</p>
