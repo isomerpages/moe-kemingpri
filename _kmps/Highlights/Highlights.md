@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<p><a href="https://go.gov.sg/keming012024" rel="noopener noreferrer nofollow" target="_blank">First Semester Newsletter 2024</a>
+<p><a href="https://go.gov.sg/keming012024" rel="noopener noreferrer nofollow" target="_blank">Keeping in Touch e-newsletter 2024</a>
 </p>
 <p><a href="/kmps/Highlights/CNY2023/" rel="noopener noreferrer nofollow" target="_blank">CNY 2023</a>
 <br><a href="/kmps/highlights/p1-first-day-of-school" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School</a>
