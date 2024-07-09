@@ -94,7 +94,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/office365.jpg">
 </div>
-<p><a href="/files/Office%20365%20ProPlus%20Student%20guide.pdf" rel="noopener" target="_blank">Office 365 Guide</a>
+<p><a href="/files/Office%20365%20ProPlus%20Student%20guide.pdf" rel="noopener" target="_blank">Office365 Guide</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
