@@ -57,7 +57,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Kemingnite" src="/images/Girl_1.png">
 </div>
-<p><a href="https://sites.google.com/moe.edu.sg/kemingnitesconfident/" rel="noopener" target="_blank">Student Portal</a>
+<p><a href="https://sites.google.com/moe.edu.sg/kemingnitesconfident/" rel="noopener" target="_blank">Student Portal (CONFIDENT)</a>
 </p>
 </td>
 </tr>
