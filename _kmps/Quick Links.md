@@ -6,7 +6,15 @@ variant: tiptap
 ---
 <p><strong><u>For Students</u></strong>
 </p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -14,8 +22,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims.png">
 </div>
-<p></p>
-<p><a href="/files/Student_MIMS_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Guide</a>
+<p><a href="/files/Student_MIMS_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Guide (Part 1)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,16 +57,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Kemingnite" src="/images/Girl_1.png">
 </div>
-<p><a href="https://sites.google.com/moe.edu.sg/kemingnitesconfident/" rel="noopener" target="_blank">Student Portal</a>
+<p><a href="https://sites.google.com/moe.edu.sg/kemingnitesconfident/" rel="noopener" target="_blank">Student Portal (CONFIDENT)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ql7.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_logo.png">
 </div>
-<p><a href="https://www.brainpop.com/" rel="noopener" target="_blank">BrainPop</a>
+<p><a href="/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Guide (Part 2)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +94,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/office365.jpg">
 </div>
-<p><a href="/files/Office%20365%20ProPlus%20Student%20guide.pdf" rel="noopener" target="_blank">Office 365 Guide</a>
+<p><a href="/files/Office%20365%20ProPlus%20Student%20guide.pdf" rel="noopener" target="_blank">Office365 Guide</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +109,12 @@ variant: tiptap
 </table>
 <p><strong>For Staff</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
