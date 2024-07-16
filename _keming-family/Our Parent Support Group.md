@@ -174,14 +174,14 @@ Principal and the Parent Support Group.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/psg10.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/psg10.jpeg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/psg11.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/psg11.jpeg">
 </div>
 </td>
 </tr>
