@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <p><a href="/files/PSG/PSG%20Online%20Guide.pdf" rel="noopener" target="_blank">PSG Online Guide</a>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KaSJQ8XSatc"></iframe>
-</div>
 <h4><strong>Programmes / Activities that Parent Volunteers&nbsp;could Offer their Services in:</strong></h4>
 <p><strong>Regular Basis (Academic)</strong>
 </p>
@@ -100,7 +97,11 @@ form to Mdm Zainab at the General Office.</p>
 </li>
 </ol>
 <h4><strong>PSG Photo Gallery</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,7 +132,11 @@ form to Mdm Zainab at the General Office.</p>
 <p>A series of talks on Good Enough Parenting was conducted for parents.</p>
 <p><strong>Talks Conducted for Parents of P1 Students for the First 3 Days</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -161,14 +166,12 @@ form to Mdm Zainab at the General Office.</p>
 </table>
 <p>After the talks, the parents had the opportunity to interact with the
 Principal and the Parent Support Group.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/psg9.jpeg">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/psg10.jpeg">
@@ -176,7 +179,7 @@ Principal and the Parent Support Group.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/psg11.jpeg">
 </div>
@@ -185,7 +188,11 @@ Principal and the Parent Support Group.</p>
 </tbody>
 </table>
 <p>Parent volunteers known as the Sparkle Mums provided support in learning.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,7 +224,11 @@ Group (PSG), Parents and the Community Partners to enrich and enhance the
 quality of learning experiences</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -257,9 +268,7 @@ quality of learning experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/psg20.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
