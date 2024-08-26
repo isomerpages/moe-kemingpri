@@ -21,11 +21,3 @@ Mdm Rina Abdullah
 HOD Student Management
 
 __________________________________________________________________
-Dear Parents,
-
-**Nominate your inspiring English teacher today!**<br>
-Click&nbsp;[HERE](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information)&nbsp;to print the&nbsp;form or collect a form from the&nbsp;school General Office.
-
-
-
-
