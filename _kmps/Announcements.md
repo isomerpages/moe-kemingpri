@@ -4,34 +4,23 @@ permalink: /kmps/announcements/
 description: ""
 variant: markdown
 ---
+**Teachers’ Day Celebration**
 
+**29 Aug 2024 (Thu)**
 
-**Dear parents,**
+Dear Former Kemingnites,
 
-The letters below are information for students starting school in 2024.  
-* [Pri 2](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P2.pdf)
-* [Pri 3](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P3.pdf)
-* [Pri 4](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P4.pdf)
-* [Pri 5](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P5.pdf)
-* [Pri 5 Foundation](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P5_Foundation.pdf)
-* [Pri 6](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P6.pdf)
-* [Pri 6 Foundation](/files/2024%20First%20Day/Annex_A_Things_to_bring_for_First_2_days_of_school_2024_P6_Foundation.pdf)
+Teachers’ Day is a time of appreciation and celebration. We will be celebrating Teachers’ Day on 29 Aug 2024 between 7.30 a.m. to 10.30 a.m, followed by an appreciation lunch from 10.30 a.m. to 12.30 p.m. If you would like to visit your teachers, please arrange to meet them between **12.45 p.m. to 1.30 p.m.**
 
-
-Thank you.
-<hr>
-
-Dear Kemingnites,
-
-Nominate your teachers for Caring Teacher Awards 2024!
-<br>
-Nominations start TODAY!<br>
-[www.cta.nie.edu.sg](www.cta.nie.edu.sg)
+If you would like to send a personal note to your teachers, you can click on the following link&nbsp; [Our Staff (moe.edu.sg)](https://kemingpri.moe.edu.sg/keming-family/our-staff) for their email address and send them your appreciation messages.
 
 Thank you.
 
-<hr>
+Mdm Rina Abdullah
 
+HOD Student Management
+
+__________________________________________________________________
 Dear Parents,
 
 **Nominate your inspiring English teacher today!**<br>
