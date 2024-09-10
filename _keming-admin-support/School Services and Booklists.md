@@ -32,11 +32,12 @@ East Ave 6 and Bukit Batok Street 21.</p>
 <p>Keming Primary school uniform and P.E. attire is now available at Jeep
 Sing Fashion’s online store via the URL -&nbsp;<a href="https://jeepsinguniform.com/collections/keming-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/keming-primary-school</a>
 </p>
-<p>Walk-in purchase at retail outlet is strictly by Appointment only, please
-be reminded to book your time slots via this link <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
-</p>
 <p>Instructions on the position of the name tag.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,7 +58,11 @@ be reminded to book your time slots via this link <a href="https://jeepsingunifo
 <p>For your child’s dental treatment, the school dental clinic is available
 in the school premises.</p>
 <p>The opening hours are as follows:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,7 +142,11 @@ the students in the Student Care Centre. Our programme includes:-</p>
 </ul>
 <p><strong>Centre Opening Hours (Monday to Friday)</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
