@@ -109,8 +109,9 @@ variant: tiptap
 </table>
 <p><strong>For Staff</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -118,8 +119,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/" rel="noopener" target="_blank">MOE Intranet</a>
-</p>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener" target="_blank">MOE Intranet </a>(VPN
+Required)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">iCON</a>
@@ -129,10 +130,17 @@ variant: tiptap
 <p><a href="https://scmobile.moe.edu.sg/" rel="noopener" target="_blank">SC Mobile</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener" target="_blank">HR Online</a>&nbsp;</p>
+<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener" target="_blank">HR Online</a>&nbsp;(VPN
+Required)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/" rel="noopener" target="_blank">HRP</a>
@@ -156,6 +164,9 @@ variant: tiptap
 <p><a href="https://www.moh.gov.sg/" rel="noopener" target="_blank">Ministry of Health</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -167,8 +178,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener" target="_blank">Academy of Singapore Teachers</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener" target="_blank">Academy ofSingapore Teachers</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -183,6 +197,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener" target="_blank">MIMS Portal</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
