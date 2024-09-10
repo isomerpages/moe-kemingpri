@@ -140,15 +140,15 @@ Required)</p>
 Required)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/" rel="noopener" target="_blank">HRP</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener" target="_blank">School Cockpit</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
