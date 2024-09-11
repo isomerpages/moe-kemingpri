@@ -10,3 +10,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Calendar_of_Events_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Calendar of Events</a>
 </p>
+<p><a href="/files/Calendar_of_Events_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 4 Calendar of Events</a>
+</p>
