@@ -284,6 +284,11 @@ p.m.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Junior Girls Group Quanshu 7<sup>th</sup> Position</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong><u>National School Games Wushu Competition 2019</u></strong>
 </p>
 <p><strong>Sportsmanship Awards<br></strong>Wong Hong Kiat
