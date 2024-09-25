@@ -205,7 +205,8 @@ p.m.</p>
 </table>
 <p><strong>Group Event Winners</strong>
 </p>
-<p>Junior Boys Group Weapon 3<sup>rd</sup> Position</p>
+<p><u>Junior Boys Group Weapon 3<sup>rd</sup> Position</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Junior Boys Group Weapon 3rd Position" src="/images/Picture8.jpg">
 </div>
@@ -284,33 +285,12 @@ p.m.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>National School Games Wushu Competition 2019</u></strong>
+<p></p>
+<p><u>Junior Girls Group Quanshu 7<sup>th</sup> Position</u>
 </p>
-<p><strong>Sportsmanship Awards<br></strong>Wong Hong Kiat
-<br>Marcus Lim
-<br>Jerlyn Liaw Si Qi
-<br>Lua Chu Tin</p>
-<p><strong>Group Events</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Junior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd position in Group Weapon
-<br>2nd position in Group Quanshu</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Individual Events</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -319,130 +299,155 @@ p.m.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Hu Yu Xuan Regan</p>
+<td rowspan="1" colspan="1">
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls 42-Style Taijijian</p>
+<p>4 AMETHYST</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p>GOH EN TENG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Girls 42 Style Taijiquan</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4&nbsp;<sup>th</sup>
-</p>
+<p>4 DIAMOND</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG CAIXUAN AMBERLY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suzanne Lee</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls 42 Style Taijijian</p>
+<p>4 DIAMOND</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Tay Sze En, Ashley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Girls 24 Style Taijiquan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
+<p>VERA SOO HUI TIAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Girls 32 Style Taijijian</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4&nbsp;<sup>th</sup>
-</p>
+<p>4 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN YU EN ADELINE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Bao Xin</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Boys 24-Style Taijiquan</p>
+<p>4 ONYX</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3&nbsp;<sup>rd</sup>
-</p>
+<p>STELLA TAN KYE JEN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Shao Xuan</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Boys 4-Duan Broadsword</p>
+<p>4 OPAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4&nbsp;<sup>th</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Lee Zi Xian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Girls 32 Style Taijijian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Girls 24-Style Taijiquan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4&nbsp;<sup>th</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Heidi Kong Kai En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Girls 5 -Duan Spear</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Girls 1st International Spear</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Girls 5-Duan Changquan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
+<p>ZHUANG HUIROU</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><u>Senior Boys Group Weapon 8<sup>th</sup> Position</u>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/wushu1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
 </div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 OPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU YUCHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 DIAMOND</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DAMIAN ISAIAH LIM KAI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEW ZHEN YU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 JADE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEE KAI YUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 ONYX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAN MUCHEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 ONYX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY WEI YAO</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
