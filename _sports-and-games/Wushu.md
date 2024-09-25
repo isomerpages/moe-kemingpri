@@ -366,7 +366,7 @@ p.m.</p>
 </tr>
 </tbody>
 </table>
-<p>hhh</p>
+<p></p>
 <p><u>Senior Boys Group Weapon 8<sup>th</sup> Position</u>
 </p>
 <p></p>
@@ -449,6 +449,5 @@ p.m.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
