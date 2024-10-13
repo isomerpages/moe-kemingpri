@@ -23,7 +23,7 @@ East Ave 6 and Bukit Batok Street 21.</p>
 <br>4012 Ang Mo Kio Ave 10
 <br>#01-09 TECHplace 1
 <br>Singapore 569628
-<br>Tel:+65 6456 3198 / +65 3163 6074</p>
+<br>Tel:+65 6456 3198</p>
 <p>Operating Hours:
 <br>Mon – Fri: 10am to 6pm;
 <br>Lunch break and Sanitising of Store – 1pm to 2pm
