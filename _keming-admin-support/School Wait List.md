@@ -14,4 +14,4 @@ will be valid from the point of submission till the end of the academic
 year.&nbsp; You may wish to resubmit your application to be put on the
 wait list again for the following year.</p>
 <p>For school transfer due to change of residential address, please apply
-through MOE at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/transfers</a>.</p>
+through MOE at&nbsp;<a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/transfers</a>.</p>
