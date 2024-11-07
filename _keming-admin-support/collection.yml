@@ -2,7 +2,6 @@ collections:
   keming-admin-support:
     output: true
     order:
-      - School Wait List.md
       - Our Contact and Location.md
       - School Hours 2024.md
       - School Services and Booklists.md
