@@ -109,7 +109,7 @@ contact the following:</p>
 <br><strong><a href="/files/2025_P5.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
 <br><strong><a href="/files/2025_P5FDN.pdf" rel="noopener" target="\_blank">Primary 5 Foundation Booklist</a></strong> 
 <br><strong><a href="/files/2025_P6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
-<br><strong><a href="/files/2025_P6.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
+<br><strong><a href="/files/P6_FDN.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
 <br><strong><a href="/files/List_of_Approved_Dictionaries_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Dictionaries for PSLE</a></strong> 
 <br><strong><a href="/files/List_of_Approved_Calculators_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Calculators for PSLE</a></strong>
 </p>
