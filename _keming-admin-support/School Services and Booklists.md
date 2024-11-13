@@ -101,9 +101,9 @@ contact the following:</p>
 <p>Sales of textbooks online via the URL -&nbsp;<strong><a href="http://www.pacificbookstores.com/" rel="noopener" target="\_blank">http://www.pacificbookstores.com</a></strong>
 </p>
 <hr>
-<h4><strong>Booklists 2024</strong></h4>
-<p><strong><a href="/files/2024%20Booklist/P10311.pdf" rel="noopener" target="\_blank">Primary 1 Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/P20311.pdf" rel="noopener" target="\_blank">Primary 2 Booklist</a></strong> 
+<h4><strong>Booklists 2025</strong></h4>
+<p><strong><a href="/files/2025_P1.pdf" rel="noopener" target="\_blank">Primary 1 Booklist</a></strong> 
+<br><strong><a href="/files/2025_P2.pdf" rel="noopener" target="\_blank">Primary 2 Booklist</a></strong> 
 <br><strong><a href="/files/2024%20Booklist/P30311.pdf" rel="noopener" target="\_blank">Primary 3 Booklist</a></strong> 
 <br><strong><a href="/files/2024%20Booklist/P40311.pdf" rel="noopener" target="\_blank">Primary 4 Booklist</a></strong> 
 <br><strong><a href="/files/2024%20Booklist/P50311.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
