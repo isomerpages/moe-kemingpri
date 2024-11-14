@@ -101,17 +101,17 @@ contact the following:</p>
 <p>Sales of textbooks online via the URL -&nbsp;<strong><a href="http://www.pacificbookstores.com/" rel="noopener" target="\_blank">http://www.pacificbookstores.com</a></strong>
 </p>
 <hr>
-<h4><strong>Booklists 2024</strong></h4>
-<p><strong><a href="/files/2024%20Booklist/P10311.pdf" rel="noopener" target="\_blank">Primary 1 Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/P20311.pdf" rel="noopener" target="\_blank">Primary 2 Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/P30311.pdf" rel="noopener" target="\_blank">Primary 3 Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/P40311.pdf" rel="noopener" target="\_blank">Primary 4 Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/P50311.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/p5fdn0311.pdf" rel="noopener" target="\_blank">Primary 5 Foundation Booklist</a></strong> 
-<br><strong><a href="/files/2024 Booklist/P60311.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
-<br><strong><a href="/files/2024%20Booklist/p6fdn0311.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
-<br><strong><a href="/files/2024%20Booklist/Guidelines_on_the_use_of_MTL_dictionaries_for_2024_Exam_memo_to_schools_.pdf" rel="noopener" target="\_blank">List of Approved Dictionaries for PSLE</a></strong> 
-<br><strong><a href="/files/Guidelines%20on%20the%20use%20of%20Calculators%20for%202021%20Exam%20memo%20to%20schools.pdf" rel="noopener" target="\_blank">List of Approved Calculators for PSLE</a></strong>
+<h4><strong>Booklists 2025</strong></h4>
+<p><strong><a href="/files/2025_P1.pdf" rel="noopener" target="\_blank">Primary 1 Booklist</a></strong> 
+<br><strong><a href="/files/2025_P2.pdf" rel="noopener" target="\_blank">Primary 2 Booklist</a></strong> 
+<br><strong><a href="/files/2025_P3.pdf" rel="noopener" target="\_blank">Primary 3 Booklist</a></strong> 
+<br><strong><a href="/files/2025_P4.pdf" rel="noopener" target="\_blank">Primary 4 Booklist</a></strong> 
+<br><strong><a href="/files/2025_P5.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
+<br><strong><a href="/files/2025_P5FDN.pdf" rel="noopener" target="\_blank">Primary 5 Foundation Booklist</a></strong> 
+<br><strong><a href="/files/2025_P6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
+<br><strong><a href="/files/P6_FDN.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
+<br><strong><a href="/files/List_of_Approved_Dictionaries_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Dictionaries for PSLE</a></strong> 
+<br><strong><a href="/files/List_of_Approved_Calculators_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Calculators for PSLE</a></strong>
 </p>
 <hr>
 <h4><strong>School-Based Student Care Centre in Keming Primary School</strong></h4>
