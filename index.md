@@ -4,8 +4,7 @@ title: Keming Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo1.jpg
 permalink: /
-notification: "Announcement: All staff members will be out for a school activity
-  on 22 November 2024 from 8.00am to 1.00pm."
+notification: ""
 sections:
   - hero:
       key_highlights:
