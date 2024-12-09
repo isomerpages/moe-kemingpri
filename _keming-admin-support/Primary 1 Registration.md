@@ -8,5 +8,5 @@ variant: tiptap
 </p>
 <p><strong>P1 Orientation Slides<br></strong><a href="/files/P1_Orientation_2024_Website_Ver_70917779.pdf" rel="noopener noreferrer nofollow" target="">P1 Orientation Slides</a>
 </p>
-<p><strong>Information Booklet for 2025 P1 Parents<br></strong><a href="/files/2025_P1_Info_Booklet_for_Parents.pdf" rel="noopener noreferrer nofollow" target="">P1 Information Booklet for 2024 PDF</a>
+<p><strong>Information Booklet for 2025 P1 Parents<br></strong><a href="/files/2025_P1_Info_Booklet_for_Parents.pdf" rel="noopener noreferrer nofollow" target="">P1 Information Booklet for 2025 PDF</a>
 </p>
