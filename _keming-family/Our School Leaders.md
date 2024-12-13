@@ -18,5 +18,3 @@ variant: tiptap
 <p><strong>Vice-Principal (Administration)</strong>
 <br>Name : Mr Tay Khye Ping</p>
 <p></p>
-<p></p>
-<p>V</p>
