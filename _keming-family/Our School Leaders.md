@@ -10,11 +10,15 @@ variant: tiptap
 </p>
 <p><strong>Vice-Principal</strong>
 <br>Name : Ms Leow Mei Leng
-<br>
+<br>Email : <a href="mailto:leow_mei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_mei_leng@schools.gov.sg</a>
 </p>
 <p><strong>Vice-Principal</strong>
-<br>Name : Ms Ng Mei Yun</p>
-<p></p>
+<br>Name : Ms Ng Mei Yun
+<br>Email : <a href="mailto:leow_mei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mei_yun@schools.gov.sg</a>
+</p>
 <p><strong>Vice-Principal (Administration)</strong>
-<br>Name : Mr Tay Khye Ping</p>
+<br>Name : Mr Tay Khye Ping
+<br>Email : <a href="mailto:leow_mei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_khye_ping@schools.gov.sg</a>
+</p>
+<p></p>
 <p></p>
