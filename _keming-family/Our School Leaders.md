@@ -9,7 +9,7 @@ variant: tiptap
 <br>Email : <a href="mailto:yap_dai_jee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_dai_jee@schools.gov.sg</a>
 </p>
 <p><strong>Vice-Principal</strong>
-<br>Name : Ms Leow Mei Ling
+<br>Name : Ms Leow Mei Leng
 <br>
 </p>
 <p><strong>Vice-Principal</strong>
