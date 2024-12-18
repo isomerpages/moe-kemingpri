@@ -43,7 +43,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Helpdesk" src="/images/Helpdesk.png">
 </div>
-<p><a href="https://go.gov.sg/kmpspasshelp" rel="noopener" target="_blank">Helpdesk</a>
+<p><a href="https://go.gov.sg/kmpspasswordreset" rel="noopener" target="_blank">Password Reset</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
