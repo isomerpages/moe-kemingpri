@@ -4,6 +4,16 @@ permalink: /keming-glow/e-newsletter/
 description: ""
 variant: tiptap
 ---
+<p><strong>Keming Primary e-Newsletter 2024_Semester 2</strong>
+</p>
+<p>Dear Parents,</p>
+<p>We are happy to share with you the December 2024 issue of our “Keeping
+in Touch” e-newsletter!</p>
+<p>We hope that you will enjoy reading the e-newsletter together with your
+child. You could access our e-newsletter via this link: <a href="http://go.gov.sg/keming022024" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/keming022024</a>
+</p>
+<p>Happy reading!</p>
+<hr>
 <p><strong>Keming Primary e-Newsletter 2024_Semester 1</strong>
 </p>
 <p>Dear Parents,</p>
@@ -20,7 +30,7 @@ together with your child. You could access our e-newsletter via this link:
 <p></p>
 <p><strong>Keming Primary e-Newsletter 2023_Semester 2</strong>
 </p>
-<p>Dear Parents</p>
+<p>Dear Parents,</p>
 <p></p>
 <p>Hope you’re having a great start to the new semester.&nbsp;
 <br>The year-end 2023 e-newsletter is here! It has been shared with parents
