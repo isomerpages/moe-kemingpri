@@ -485,7 +485,7 @@ variant: tiptap
 <p>Ms Luk Kar Wing Carina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_siew_chin_a@moe.edu.sg</a>
+<p><a href="mailto:luk_kar_wing_carina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luk_kar_wing_carina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
