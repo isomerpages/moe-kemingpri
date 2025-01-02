@@ -1028,8 +1028,8 @@ variant: tiptap
 <p>Mdm Fang Yoke Cheng Emily (Mrs Wong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yoke_cheng_emily</a>
-<a rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yoke_cheng_emily@moe.edu.</a>
+<a rel="noopener noreferrer nofollow" target="_blank">sg</a>
 </p>
 </td>
 </tr>
@@ -1038,7 +1038,7 @@ variant: tiptap
 <p>4Ja</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Lim Heng Lee Richard</p>
+<p>Mr&nbsp;Lim Heng Lee Richard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">richard_lim_heng_lee@moe.edu.sg</a>
