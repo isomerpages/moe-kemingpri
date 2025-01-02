@@ -1028,8 +1028,7 @@ variant: tiptap
 <p>Mdm Fang Yoke Cheng Emily (Mrs Wong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yoke_cheng_emily@moe.edu.</a>
-<a rel="noopener noreferrer nofollow" target="_blank">sg</a>
+<p><a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yoke_cheng_emily@moe.edu.sg</a>
 </p>
 </td>
 </tr>
