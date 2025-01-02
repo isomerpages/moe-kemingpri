@@ -1616,6 +1616,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>CL/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leng Zhu Yang, Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Leng_zhuyang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Leng_zhuyang_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TL/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yasirah Farvin Binte Mohamed Nejamtheen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yasirah_farvin_mohamed_nejamtheen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yasirah_farvin_mohamed_nejamtheen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
