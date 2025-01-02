@@ -1558,13 +1558,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MA</p>
+<p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Shimin</p>
+<p>Chow Mung Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chow_mung_yu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1573,11 +1573,10 @@ variant: tiptap
 <p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Priscilla Neo Siok Hwee</p>
+<p>Ng Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neo_siok_hwee_priscilla@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1621,11 +1620,32 @@ variant: tiptap
 <p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Kah Kah Jenny</p>
+<p>Oh Chui Yian Jeann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_kueh_boong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_kueh_boong@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Govindamal D/O Manickam Pakirisamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Veronica Teo Kah Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
