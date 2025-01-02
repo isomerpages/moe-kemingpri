@@ -1016,8 +1016,7 @@ variant: tiptap
 <p>Mdm Ruhaya Bte Mafot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruhaya_mafot</a>
-<a rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruhaya_mafot@moe.edu.sg</a>
 </p>
 </td>
 </tr>
