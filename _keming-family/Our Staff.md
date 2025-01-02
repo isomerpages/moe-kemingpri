@@ -64,7 +64,7 @@ variant: tiptap
 <p>HOD English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julya Chan Mei Feng</p>
+<p>Ms Julya Chan Mei Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chan_mei_feng@moe.edu.sg</a>
@@ -109,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Character &amp; Citizenship Development</p>
+<p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chng Boon Lee</p>
@@ -1648,28 +1648,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Govindamal D/O Manickam Pakirisamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Veronica Teo Kah Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Mother Tongue Language Teachers</h4>
@@ -1888,7 +1866,7 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leng Zhu Yang</p>
+<p>Mr Leng Zhu Yang, Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Leng_zhuyang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Leng_zhuyang_a@moe.edu.sg</a>
@@ -1917,6 +1895,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Veronica Teo Kah Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2001,6 +1990,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yasirah_farvin_mohamed_nejamtheen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yasirah_farvin_mohamed_nejamtheen@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Govindamal D/O Manickam Pakirisamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
