@@ -1559,7 +1559,7 @@ variant: tiptap
 <p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Mung Yu</p>
+<p>Ms Chow Mung Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chow_mung_yu@moe.edu.sg</a>
@@ -1571,10 +1571,11 @@ variant: tiptap
 <p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Siew Cheng</p>
+<p>Ms Ng Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_siew_cheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siew_cheng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1618,7 +1619,7 @@ variant: tiptap
 <p>CL/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leng Zhu Yang, Joshua</p>
+<p>Mr Leng Zhu Yang, Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Leng_zhuyang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Leng_zhuyang_a@moe.edu.sg</a>
@@ -1630,7 +1631,7 @@ variant: tiptap
 <p>TL/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yasirah Farvin Binte Mohamed Nejamtheen</p>
+<p>Mdm Yasirah Farvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yasirah_farvin_mohamed_nejamtheen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yasirah_farvin_mohamed_nejamtheen@moe.edu.sg</a>
@@ -1642,10 +1643,11 @@ variant: tiptap
 <p>EL/MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oh Chui Yian Jeann</p>
+<p>Mdm Oh Chui Yian Jeann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:oh_chui_yian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_chui_yian_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1997,7 +1999,7 @@ variant: tiptap
 <p>TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Govindamal D/O Manickam Pakirisamy</p>
+<p>Mdm Govindamal d/o Manickam Pakirisamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
