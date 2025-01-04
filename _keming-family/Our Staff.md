@@ -2002,7 +2002,8 @@ variant: tiptap
 <p>Mdm Govindamal d/o Manickam Pakirisamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:govindamal_manickam_pakirisamy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">govindamal_manickam_pakirisamy_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
