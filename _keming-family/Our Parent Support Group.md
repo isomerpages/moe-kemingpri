@@ -82,7 +82,7 @@ setting up of equipment, helping children with their makeup etc.)</p>
 </ol>
 <p>Activities could be carried out either face-to-face or online, depending
 on the nature of the request by the school.</p>
-<p><strong>Parents who wish to register their child under Phase 2B in the year 2027 for 2028 P1 intake </strong>
+<p><strong>Parents who wish to register their child under Phase 2B in the year 2027 for 2028 P1 intake</strong>
 </p>
 <p>Click on the following link to download the form and submit the completed
 form to Mdm Zainab at the General Office.</p>
