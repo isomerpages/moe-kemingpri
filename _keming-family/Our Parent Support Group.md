@@ -77,25 +77,29 @@ craft work,etc</p>
 as Wushu, Chinese Orchestra, Chinese Dance and International Dance ( e.g.
 setting up of equipment, helping children with their makeup etc.)</p>
 <p></p>
-<h4><br><strong>To register as a Parent Volunteer in Keming Primary School</strong></h4>
+<h4><strong>To register as a Parent Volunteer in Keming Primary School</strong></h4>
 </li>
 </ol>
 <p>Activities could be carried out either face-to-face or online, depending
 on the nature of the request by the school.</p>
-<ol data-tight="true" class="tight">
-<li>
+<p><strong>Parents who wish to register their child under Phase 2B in the year 2027 for 2028 P1 intake </strong>
+</p>
+<p>Click on the following link to download the form and submit the completed
+form to Mdm Zainab at the General Office.</p>
+<p>Registration for this category will be opened until 31 March 2025.</p>
+<p><a href="/files/PV_Registration_Form_2025__for_P1_registration_of_child_under_Phase_2B_.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Registration Form 2025</a>
+</p>
 <p></p>
 <p><strong>Current Parents with Children in the School</strong>
 </p>
 <p>Click on the following link to download the form and submit the completed
 form to Mdm Zainab at the General Office.</p>
-<p><a href="/files/PSG_Registration_Form_2024_for_current_parents_with_children_in_school_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Registration Form for Current Student</a>
+<p><a href="/files/PSG_Registration_Form_2025__for_current_parents_with_children_in_school_.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Registration Form for Current Student</a>
 </p>
 <p></p>
 <p><strong>For any enquiries, you can contact Mdm Zainab at 68962054.</strong>
 </p>
-</li>
-</ol>
+<p></p>
 <h4><strong>PSG Photo Gallery</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
