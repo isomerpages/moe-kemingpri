@@ -437,7 +437,7 @@ variant: tiptap
 <p>Mdm Chua Qiu Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sng_shi_han_ameline@moe.edu.sg</a>
+<p><a href="mailto:chua_qiu_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiu_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
