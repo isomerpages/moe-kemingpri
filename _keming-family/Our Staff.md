@@ -73,6 +73,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Wan Foon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1669,6 +1681,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Email Address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Wan Foon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
