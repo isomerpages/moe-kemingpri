@@ -79,7 +79,7 @@ variant: tiptap
 <p>Mdm Tan Wan Foon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a> 
+<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1691,7 +1691,7 @@ variant: tiptap
 <p>Mdm Tan Wan Foon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a> 
+<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
