@@ -86,6 +86,11 @@ contact the following:</p>
 <p>Princess Elizabeth Primary School Dental Clinic: 9115 4622</p>
 <p>Bukit View Primary School Dental Clinic: 9114 2631</p>
 <p>Health Promotion Board Student Dental Centre: 6435 3782</p>
+<p></p>
+<p>As the dental therapist has to straddle between two schools, please contact
+the General Office if you wish to enquire about the schedule. Students
+may refer to the schedule on outside the dental clinic. The school dental
+clinic will open in alternate weeks.</p>
 <hr>
 <h4><strong>School Bookshop</strong></h4>
 <p>Our school Bookshop is operated by:</p>
