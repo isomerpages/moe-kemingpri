@@ -762,6 +762,31 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hanis Binte Mohamad Rafi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_hanis_mohamad_rafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hanis_mohamad_rafi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ke Wei Jie Rachelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:ke_wei_jie_rachelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ke_wei_jie_rachelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 3</h4>
@@ -1170,7 +1195,7 @@ variant: tiptap
 <p>Mr Mohammad Moiz Bin Malik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohammad_moiz_malikmoe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohammad_moiz_malik@moe.edu.sg</a>
 </p>
 </td>
 </tr>
