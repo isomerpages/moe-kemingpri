@@ -2,7 +2,7 @@
 title: Football
 permalink: /keming-grow/our-co-curricular-activities-ccas/sports-n-games/football/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mdm Florence Tan<br></strong>(tan_fong_ting_florence@moe.edu.sg)</p>
@@ -13,15 +13,36 @@ variant: markdown
 <h4>Venue</h4>
 <p>Field</p>
 <h4>Photos</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/foot1.jpeg"></td>
-<td style="width: 50%;"><img src="/images/foot2.jpeg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/foot1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/foot2.jpeg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/foot3.jpeg"></td>
-<td style="width: 50%;"><img src="/images/foot4.jpeg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/foot3.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/foot4.jpeg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
