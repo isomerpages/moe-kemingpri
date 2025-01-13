@@ -49,7 +49,6 @@ decisions for yourself, your family and society; and</p>
 <p>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p>&nbsp;</p>
@@ -89,12 +88,7 @@ decisions on sexuality matters.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>At Keming Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
-</p>
 <p><strong>Primary 5</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -186,11 +180,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
 <p><strong>Primary 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -270,7 +260,7 @@ programmes by MOE-approved external providers.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be distributed to parents at the start of the year and is
 also downloadable.</p>
-<p> <a href="/files/Letter_to_Parents_on_MOE_SEd_in_Schools_2025_doc.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on MOE SEd in Schools 2025</a>
+<p><a href="/files/Letter_to_Parents_on_MOE_SEd_in_Schools_2025_doc.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on MOE SEd in Schools 2025</a>
 </p>
 <p>The completed opt-out form is to be submitted by 31/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
