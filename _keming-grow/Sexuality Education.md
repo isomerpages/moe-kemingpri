@@ -59,17 +59,15 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/scope/" rel="noopener noreferrer nofollow" target="_blank">here</a> (Insert
-hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
-for more information on the scope of Sexuality Education in the school
-curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:</p>
+on sexuality</p>
+<p>include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
@@ -82,19 +80,17 @@ a wide range of influences that could endanger health and undermine the
 integrity of the family. Our students require guidance so that they can
 respond with discernment to the sexual messages in the media and other
 sources.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
-taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn
+<p>&nbsp;7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons
+are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn
 to understand the physiological, social and emotional changes they experience
 as they mature, develop healthy and rewarding relationships including those
 with members of the opposite sex, and make wise, informed and responsible
 decisions on sexuality matters.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>At Keming Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Keming Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
 <p></p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
