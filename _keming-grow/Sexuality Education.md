@@ -26,16 +26,15 @@ Education are:</p>
 <p>(i) To help students make wise, responsible and informed decisions through
 the provision of accurate, current and age-appropriate <u>knowledge</u> on
 human sexuality and the consequences of sexual activity;</p>
-<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-To help students know themselves and build healthy and rewarding relationships
-through the acquisition of <u>social and emotional skills</u> of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and</p>
-<p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help students
-develop a moral compass, respect for themselves and for others as sexual
-beings, premised on the family as the basic unit of society, through the
-inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</p>
+<p>(ii) To help students know themselves and build healthy and rewarding
+relationships through the acquisition of <u>social and emotional skills</u> of
+self-awareness, management of their thoughts, feelings and behaviours,
+development of empathy for others, possession of effective communication,
+problem-solving and decision-making skills; and</p>
+<p>(iii) To help students develop a moral compass, respect for themselves
+and for others as sexual beings, premised on the family as the basic unit
+of society, through the inculcation of <u>positive mainstream values and attitudes</u> about
+sexuality.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
@@ -59,8 +58,7 @@ Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
 Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality</p>
-<p>include:</p>
+on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
