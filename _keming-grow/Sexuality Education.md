@@ -192,17 +192,88 @@ so that the students will feel more comfortable during the discussions.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Information for Parents</strong>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable <a href="/files/Letter_to_Parents_on_MOE_SEd_in_Schools_2024_doc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 15/01/2024.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or
-6896 2054 for discussion or to seek clarification about the school’s Sexuality
-Education programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>[Lesson 1]</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>[Lesson 2]</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;Information for Parents</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of Sexuality Education lessons, and/or supplementary Sexuality Education
+programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be distributed to parents at the start of the year and is
+also downloadable.</p>
+<p> <a href="/files/Letter_to_Parents_on_MOE_SEd_in_Schools_2025_doc.pdf" rel="noopener nofollow" target="_blank">Letter to Parents on MOE SEd in Schools 2025</a>
+</p>
+<p>The completed opt-out form is to be submitted by 31/01/2025.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
+<a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a>or 6896 2054 for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
+<p></p>
