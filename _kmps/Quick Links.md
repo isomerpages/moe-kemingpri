@@ -22,8 +22,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mims.png">
 </div>
-<p><a href="/files/Student_MIMS_Guide_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to MIMS (Students)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
