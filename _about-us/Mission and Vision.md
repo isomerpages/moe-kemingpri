@@ -4,7 +4,7 @@ permalink: /about-us/mission-and-vision/
 description: ""
 variant: tiptap
 ---
-<h4><strong>School Mission<br></strong>Connecting Hearts, Engaging Minds:</h4>
+<h4><strong>School Mission<br></strong>Connecting Hearts, Engaging Minds</h4>
 <p>We want to build a culture of care and culture of learning by connecting
 the hearts and engaging the minds of our students and staff. &nbsp;In this
 way, we can realise our vision of “Every Kemingnite: A Curious Learner,
@@ -25,7 +25,6 @@ skills and values so that they develop a growth mindset, are anchored in
 values, and make a positive impact on others.</p>
 <p>As a community of passionate and collaborative learners, our staff continues
 to learn and grow for improvement and innovation.</p>
-<p></p>
 <p></p>
 <h4><strong>School Vision<br></strong>Every Kemingnite: A Curious Learner. An Empathetic Leader.</h4>
 <p>Keming is dedicated to continuing our commitment to holistic education,
