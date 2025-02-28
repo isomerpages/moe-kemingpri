@@ -27,7 +27,8 @@ values, and make a positive impact on others.</p>
 <p>As a community of passionate and collaborative learners, our staff continues
 to learn and grow for improvement and innovation.</p>
 <p></p>
-<h4><strong>School Vision<br></strong>Every Kemingnite: A Curious Learner. An Empathetic Leader. A Confident Contributor.</h4>
+<h4><strong>School Vision</strong></h4>
+<h4><strong><br></strong>Every Kemingnite: A Curious Learner. An Empathetic Leader. A Confident Contributor.</h4>
 <p>Keming is dedicated to continuing our commitment to holistic education,
 nurturing every Kemingnite to</p>
 <p></p>
