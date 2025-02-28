@@ -4,7 +4,8 @@ permalink: /about-us/mission-and-vision/
 description: ""
 variant: tiptap
 ---
-<h4><strong>School Mission<br></strong>Connecting Hearts, Engaging Minds</h4>
+<h4><strong>School Mission</strong></h4>
+<h4><strong><br></strong>Connecting Hearts, Engaging Minds</h4>
 <p>We want to build a culture of care and culture of learning by connecting
 the hearts and engaging the minds of our students and staff. &nbsp;In this
 way, we can realise our vision of “Every Kemingnite: A Curious Learner.
