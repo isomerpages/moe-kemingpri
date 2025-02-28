@@ -7,8 +7,8 @@ variant: tiptap
 <h4><strong>School Mission<br></strong>Connecting Hearts, Engaging Minds</h4>
 <p>We want to build a culture of care and culture of learning by connecting
 the hearts and engaging the minds of our students and staff. &nbsp;In this
-way, we can realise our vision of “Every Kemingnite: A Curious Learner,
-an Empathetic Leader and a Confident Contributor.</p>
+way, we can realise our vision of “Every Kemingnite: A Curious Learner.
+An Empathetic Leader. A Confident Contributor.</p>
 <h4>Connecting Hearts (Culture of Care)</h4>
 <p>We build a culture of care by connecting with our students through quality
 relationships so that they will develop holistically. Quality relationship
