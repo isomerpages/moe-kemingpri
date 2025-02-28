@@ -30,7 +30,6 @@ to learn and grow for improvement and innovation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kemingnite.png">
 </div>
-<h4><strong><br></strong>Every Kemingnite: A Curious Learner. An Empathetic Leader. A Confident Contributor.</h4>
 <p>Keming is dedicated to continuing our commitment to holistic education,
 nurturing every Kemingnite to</p>
 <p></p>
