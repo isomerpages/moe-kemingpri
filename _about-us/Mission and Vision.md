@@ -31,6 +31,7 @@ to learn and grow for improvement and innovation.</p>
 nurturing every Kemingnite to</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sch_vision_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch_vision_2025.png">
 </div>
+<p></p>
 <p></p>
