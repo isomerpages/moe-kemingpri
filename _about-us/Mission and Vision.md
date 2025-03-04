@@ -28,4 +28,7 @@ to learn and grow for improvement and innovation.</p>
 <p></p>
 <h4><strong>School Vision</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vision.png">
+</div>
 <p></p>
