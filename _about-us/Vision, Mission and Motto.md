@@ -38,4 +38,3 @@ to learn and grow for improvement and innovation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/motto3.png">
 </div>
 <p></p>
-<p></p>
