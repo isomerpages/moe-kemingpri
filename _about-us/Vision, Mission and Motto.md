@@ -31,8 +31,7 @@ values, and make a positive impact on others.</p>
 to learn and grow for improvement and innovation.</p>
 <h4><strong>School Motto</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/motto.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/motto2.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
