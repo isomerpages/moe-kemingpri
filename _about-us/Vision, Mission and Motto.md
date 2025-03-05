@@ -29,6 +29,10 @@ skills and values so that they develop a growth mindset, are anchored in
 values, and make a positive impact on others.</p>
 <p>As a community of passionate and collaborative learners, our staff continues
 to learn and grow for improvement and innovation.</p>
+<h4><strong>School Motto</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/motto.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
