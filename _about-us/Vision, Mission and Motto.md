@@ -34,8 +34,8 @@ values, and make a positive impact on others.</p>
 <p>As a community of passionate and collaborative learners, our staff continues
 to learn and grow for improvement and innovation.</p>
 <h4><strong>School Motto</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/motto3.png">
 </div>
+<p></p>
 <p></p>
