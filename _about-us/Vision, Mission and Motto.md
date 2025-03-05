@@ -4,6 +4,10 @@ permalink: /about-us/mission-and-vision/
 description: ""
 variant: tiptap
 ---
+<h4><strong>School Vision</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vision1.png">
+</div>
 <h4><strong>School Mission<br></strong>Connecting Hearts, Engaging Minds</h4>
 <p>We want to build a culture of care and culture of learning by connecting
 the hearts and engaging the minds of our students and staff. &nbsp;In this
@@ -26,9 +30,5 @@ values, and make a positive impact on others.</p>
 <p>As a community of passionate and collaborative learners, our staff continues
 to learn and grow for improvement and innovation.</p>
 <p></p>
-<h4><strong>School Vision</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vision.png">
-</div>
 <p></p>
