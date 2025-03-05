@@ -21,4 +21,5 @@ sections:
           description: ""
           url: /kmps/calendar
       background: /images/MAIN BANNERS/GIF_Timeline_1.gif
+      variant: image
 ---
