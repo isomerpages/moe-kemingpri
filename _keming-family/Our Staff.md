@@ -1536,19 +1536,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:govindamal_manickam_pakirisamy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">du.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>School Counsellor &amp; SEN Officers</h4>
 <table style="minWidth: 75px">
 <colgroup>
