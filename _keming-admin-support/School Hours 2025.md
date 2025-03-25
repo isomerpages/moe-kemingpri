@@ -1,6 +1,6 @@
 ---
 title: School Hours 2025
-permalink: /keming-admin-support/school-hours-2024/
+permalink: /keming-admin-support/school-hours-2025/
 description: ""
 variant: tiptap
 ---
