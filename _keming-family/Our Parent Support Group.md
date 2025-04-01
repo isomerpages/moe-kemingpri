@@ -87,8 +87,6 @@ on the nature of the request by the school.</p>
 <p>Click on the following link to download the form and submit the completed
 form to Mdm Zainab at the General Office.</p>
 <p>Registration for this category will be opened until 31 March 2025.</p>
-<p><a href="/files/PV_Registration_Form_2025__for_P1_registration_of_child_under_Phase_2B_.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Registration Form 2025</a>
-</p>
 <p></p>
 <p><strong>Current Parents with Children in the School</strong>
 </p>
