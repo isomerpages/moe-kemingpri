@@ -66,7 +66,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_logo.png">
 </div>
-<p><a href="/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick tips on MIMS</a>
+<p><a href="https://www.kemingpri.moe.edu.sg/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS Portal: Set up your challenge questions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
