@@ -2,6 +2,7 @@ collections:
   keming-admin-support:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Our Contact and Location.md
       - School Hours 2025.md
       - School Services and Booklists.md
