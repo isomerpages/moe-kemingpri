@@ -34,16 +34,15 @@ website at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://ww
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant and stall
-assistant must possess the WSQ Basic Food Hygiene Certificate</p>
+<p>Successful applicant and stall assistant must possess the WSQ Basic Food
+Hygiene Certificate</p>
 </li>
 <li>
-<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possess catering experience or
-experience operating in a school environment.</p>
+<p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 <li>
-<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant is required to apply
-for a food stall licence from Singapore Food Agency (SFA).</p>
+<p>Successful applicant is required to apply for a food stall licence from
+Singapore Food Agency (SFA).</p>
 </li>
 </ul>
 <p><strong>&nbsp;</strong>
@@ -52,11 +51,18 @@ for a food stall licence from Singapore Food Agency (SFA).</p>
 </p>
 <p>Application form must be completed and submitted to <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or to the school’s
 General Office by&nbsp;<strong>Friday, 30 May 2025</strong>&nbsp;with the
-following documents:
-<br>a. &nbsp;&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
-<p>b.&nbsp; &nbsp; Proposed menu and pricing for all items
-<br>c.&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates such as Basic
-Food Hygiene, etc.</p>
+following documents:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the applicant’s NRIC (front and back)</p>
+</li>
+<li>
+<p>Proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
+</li>
+</ul>
 <p></p>
 <p>Please download Application form :&nbsp;<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Canteen Stall Application Form</a>
 </p>
