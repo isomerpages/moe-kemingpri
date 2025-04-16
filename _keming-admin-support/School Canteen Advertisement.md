@@ -11,11 +11,12 @@ description: ""
 <p><strong>Application Procedure</strong>
 </p>
 <p>&nbsp;</p>
-<p>1. Download Application form :&nbsp;</p>
+<p>1. Download Application form :&nbsp;<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Cateen Stall Application Form</a>
+</p>
 <p>&nbsp;</p>
-<p>Application form must be completed and submitted to <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or
-to the school’s General Office by&nbsp;<strong>Friday, 30 May 2025</strong>&nbsp;with
-the following documents:
+<p>Application form must be completed and submitted to <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or to the school’s
+General Office by&nbsp;<strong>Friday, 30 May 2025</strong>&nbsp;with the
+following documents:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 a. &nbsp;&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
 <p>b.&nbsp; &nbsp; Proposed menu and pricing for all items
