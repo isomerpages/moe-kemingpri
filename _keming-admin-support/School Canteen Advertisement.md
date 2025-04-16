@@ -26,7 +26,7 @@ a&nbsp;Western Food Stall from 30 June 2025 (Term 3 Week 1).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food Stall</p>
+<p>Halal Western Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 May 2025</p>
