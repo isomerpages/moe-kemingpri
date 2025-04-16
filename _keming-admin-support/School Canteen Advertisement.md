@@ -6,9 +6,38 @@ description: ""
 ---
 <p>Keming Primary would like to&nbsp;invite interested applicants to operate
 a&nbsp;Western Food Stall from 30 June 2025 (Term 3 Week 1).</p>
-<p></p>
-<p>Type of Stall: Western Food Stall</p>
-<p>Closing Date: 16 May 2025</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of stall</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Person</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Western Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sri Ram</p>
+<p>68962054</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Interested applicants must fulfil the following criteria:</strong>
 </p>
