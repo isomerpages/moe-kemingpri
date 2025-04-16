@@ -6,10 +6,10 @@ description: ""
 ---
 <p>Keming Primary would like to&nbsp;invite interested applicants to operate
 a&nbsp;Western Food Stall from 30 June 2025 (Term 3 Week 1).</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Type of Stall: Western Food Stall</p>
 <p>Closing Date: 16 May 2025</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Interested applicants must fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -50,18 +50,17 @@ for a food stall licence from Singapore Food Agency (SFA).</p>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>Application form must be completed and submitted to <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or
-to the school’s General Office by&nbsp;<strong>Friday, 30 May 2025</strong>&nbsp;with
-the following documents:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-a. &nbsp;&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
+<p>Application form must be completed and submitted to <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or to the school’s
+General Office by&nbsp;<strong>Friday, 30 May 2025</strong>&nbsp;with the
+following documents:
+<br>a. &nbsp;&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
 <p>b.&nbsp; &nbsp; Proposed menu and pricing for all items
 <br>c.&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates such as Basic
 Food Hygiene, etc.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Please download Application form :&nbsp;<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Canteen Stall Application Form</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
 <p>&nbsp;</p>
