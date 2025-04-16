@@ -27,9 +27,9 @@ website at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://ww
 </li>
 <li>
 <p>Able to maintain high standard of food and personal hygiene.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -43,10 +43,9 @@ Hygiene Certificate</p>
 <li>
 <p>Successful applicant is required to apply for a food stall licence from
 Singapore Food Agency (SFA).</p>
+<p></p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>Application form must be completed and submitted to <a rel="noopener noreferrer nofollow" target="_blank">kmps@moe.edu.sg</a> or to the school’s
