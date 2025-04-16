@@ -32,8 +32,7 @@ a&nbsp;Western Food Stall from 30 June 2025 (Term 3 Week 1).</p>
 <p>30 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sri Ram</p>
-<p>68962054</p>
+<p>Mr Sri Ram (68962054)</p>
 </td>
 </tr>
 </tbody>
