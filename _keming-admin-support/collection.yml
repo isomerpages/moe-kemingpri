@@ -2,12 +2,12 @@ collections:
   keming-admin-support:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Our Contact and Location.md
       - School Hours 2025.md
       - School Services and Booklists.md
       - Primary 1 Registration.md
       - School Wait List.md
+      - School Canteen Advertisement.md
       - Forms and Guides.md
       - Feedback and Queries.md
       - FAQs.md
