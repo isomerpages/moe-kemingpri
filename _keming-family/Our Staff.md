@@ -1665,7 +1665,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khairunnisa Binte Ali</p>
+<p>Mdm Khairunnisa Binte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khairunnisa_ali@moe.edu.sg" rel="noopener nofollow" target="_blank">khairunnisa_ali@moe.edu.sg</a>
@@ -1701,7 +1701,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Eve Ng Soo Cheng</p>
+<p>Ms Eve Ng Soo Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ng_soo_cheng_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_soo_cheng_a@moe.edu.sg</a>
