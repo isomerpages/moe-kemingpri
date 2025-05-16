@@ -32,6 +32,163 @@ p.m.</p>
 <h4>Venue</h4>
 <p>School Hall</p>
 <h4>Achievements</h4>
+<p><strong><u>2025 NSG Wushu Prize Winners</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 JADE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM YONG XUAN ALINDA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls 4-duan Cudgel – 6<sup>th</sup> position</p>
+<p>Junior Girls 4-duan Broadsword – 5<sup>th</sup> position</p>
+<p>Junior Girls 5-duan Changquan – 2<sup>nd</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM YONG JUN ADDISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Boys 1<sup>st</sup> International Sword – 1<sup>st</sup> position</p>
+<p>Junior Boys 1<sup>st</sup> International Spear – 1<sup>st</sup> position</p>
+<p>Junior Boys 5-duan Changquan – 4<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY JIE LONG, RAPHAEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Boys 5 duan Spear – 5<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 OPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH EN TENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Girls 42-style Taijiquan – 2<sup>nd</sup> position</p>
+<p>Senior Girls 42-style Taijijian – 3<sup>rd</sup> position</p>
+<p>Senior Girls 1<sup>st</sup> International Spear – 8<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STELLA TAN KYE JEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Girls 24-style Taijiquan – 2<sup>nd</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW ZI QI, JOLEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Girls 5-duan Sword – 7<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 JADE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHONG JING YIK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 5-duan Nanquan – 4<sup>th</sup> position</p>
+<p>1<sup>st</sup> International Nangun – 7<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 OPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU YUCHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 5-duan Sword – 4<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YU REN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 1<sup>st</sup> international Nanquan – 7<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 ONYX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG BOYU ELVIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 4-duan Cudgel – 7<sup>th</sup> position</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Group Event Winners</u></strong>
+</p>
+<p>Junior Boys Group Quanshu 6th</p>
+<p>Junior Boys Group Weapon 7th</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+<p>Junior Girls Group Team</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+<p>Senior Girls Group Weapon 6<sup>th</sup>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
+<p>Senior Boys Group Weapon 8<sup>th</sup>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
+<p>2025 NSG Prize Winners</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<p></p>
 <p><strong><u>2024 NSG Wushu Prize Winners</u></strong>
 </p>
 <table style="minWidth: 125px">
