@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/logo1.jpg
 permalink: /
 notification: All staff members will be out for a school activity on 2 June 2025
-  from 8.00am to 2.00pm.
+  from 8.00am to 2.00pm. The General Office will be open from 2.00pm.
 sections:
   - hero:
       key_highlights:
