@@ -755,11 +755,10 @@ variant: tiptap
 <p>2Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chandra Kala d/o Kharilah</p>
+<p>Ms Chandra Kala d/o Kharilah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:santhi_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_chandrasaharan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1098,11 +1097,10 @@ variant: tiptap
 <p>4On</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr A'Qashah Bin Ahmad Al'Badowe</p>
+<p>Mr Mathiyazakan s/o Nallathamby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ahmad_aqashah_ahmad_albadowe@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1418,7 +1416,7 @@ variant: tiptap
 <p>6Di</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp; Santhi Chandrasaharan</p>
+<p>Mrs Santhi Chandrasaharan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">santhi_chandrasaharan@moe.edu.sg</a>
