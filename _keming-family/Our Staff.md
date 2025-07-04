@@ -668,6 +668,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2Ja</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Prema Panneerselvam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:prema_panneerselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prema_panneerselvam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2On</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -731,10 +743,10 @@ variant: tiptap
 <p>2Pe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ning Kun</p>
+<p>Mdm Pan Shixuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ning_kun@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">pan_shixuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -743,11 +755,10 @@ variant: tiptap
 <p>2Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hanis Binte Mohamad Rafi</p>
+<p>Ms Chandra Kala d/o Kharilah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hanis_mohamad_rafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hanis_mohamad_rafi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -801,10 +812,10 @@ variant: tiptap
 <p>3Am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zariney Ahmad</p>
+<p>Ms Chiew Eng Lay, Mandy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zariney_ahmad@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chiew_eng_lay@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1086,11 +1097,10 @@ variant: tiptap
 <p>4On</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr A'Qashah Bin Ahmad Al'Badowe</p>
+<p>Mr Mathiyazakan s/o Nallathamby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ahmad_aqashah_ahmad_albadowe@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1406,7 +1416,7 @@ variant: tiptap
 <p>6Di</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp; Santhi Chandrasaharan</p>
+<p>Mrs Santhi Chandrasaharan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">santhi_chandrasaharan@moe.edu.sg</a>
