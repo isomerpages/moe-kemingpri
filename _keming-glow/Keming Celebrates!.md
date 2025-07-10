@@ -11,6 +11,4 @@ variant: tiptap
 <p>Keming Primary School is proud to celebrate its 90th anniversary in 2025!
 As we mark this significant milestone, the school will be commemorating
 nine decades of nurturing generations of learners through a series of exciting
-events.</p>
-<p></p>
-<p>and meaningful initiatives.</p>
+events and meaningful initiatives.</p>
