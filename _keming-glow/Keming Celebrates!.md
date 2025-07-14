@@ -2,7 +2,7 @@
 title: Keming Celebrates!
 permalink: /keming-glow/keming-celebrates/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -12,12 +12,11 @@ variant: markdown
 As we mark this significant milestone, the school will be commemorating
 nine decades of nurturing generations of learners through a series of exciting
 events and meaningful initiatives.</p>
-<div style="text-align: center">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pDADu0X0xLI?si=25RZI6GaUCYJyNpm"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tinywow_ALL_STAFF_90_Formation_Informal_82307722.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/tinywow_ALL_STAFF_90_Formation_Informal_82307722.jpg">
 </div>
-<p></p></div>
+<p></p>
