@@ -17,6 +17,6 @@ events and meaningful initiatives.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/tinywow_ALL_STAFF_90_Formation_Informal_82307722.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tinywow_ALL_STAFF_90_Formation_Informal_82307722.jpg">
 </div>
 <p></p>
