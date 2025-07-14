@@ -12,7 +12,7 @@ variant: markdown
 As we mark this significant milestone, the school will be commemorating
 nine decades of nurturing generations of learners through a series of exciting
 events and meaningful initiatives.</p>
-<div class="text-center">
+<div style="text-align: center">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pDADu0X0xLI?si=25RZI6GaUCYJyNpm"></iframe>
 </div>
