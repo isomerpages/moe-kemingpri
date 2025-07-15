@@ -1675,7 +1675,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khairunnisa Binte Ali</p>
+<p>Ms Khairunnisa Binte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khairunnisa_ali@moe.edu.sg" rel="noopener nofollow" target="_blank">khairunnisa_ali@moe.edu.sg</a>
