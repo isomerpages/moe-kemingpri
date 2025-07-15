@@ -10,7 +10,8 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposal</p>
+<p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service___Keming_Primary_School_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+</p>
 </li>
 <li>
 <p>Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
