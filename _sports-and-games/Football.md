@@ -7,7 +7,7 @@ variant: tiptap
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mdm Florence Tan<br></strong>(tan_fong_ting_florence@moe.edu.sg)</p>
 <p><strong>Mdm Nur Ramizah<br></strong>(nur_ramizah_ramli@moe.edu.sg)</p>
-<p><strong>Mr Pravin Rehunathan<br></strong>(Rehunathan_pravin_rehunathan@moe.edu.sg)</p>
+<p><strong>Mr Pravin Rehunathan<br></strong>(<a href="mailto:pravin_rehunathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pravin_rehunathan@moe.edu.sg</u></a>)</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. – 5:15 p.m.</p>
 <h4>Venue</h4>
