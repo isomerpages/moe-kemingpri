@@ -26,7 +26,7 @@ sections:
       title: Keming Celebrates!
       id: infopic
       description: Keming Primary School is proud to celebrate its 90th anniversary in 2025!
-      button: Button Text
+      button: Find out more
       url: https://www.kemingpri.moe.edu.sg/keming-glow/keming-celebrates/
       image: /images/90_anniversary_banner.png
       alt: Image alt text
