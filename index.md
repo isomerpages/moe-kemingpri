@@ -33,7 +33,6 @@ sections:
       alt: Image alt text
   - infobar:
       title: Teachers’ Day Celebration
-      subtitle: Add informational text
       id: infobar
       description: Teachers’ Day is a time of appreciation and celebration. We will be
         celebrating Teachers’ Day on Thursday, 4 September 2025 between 7.30
