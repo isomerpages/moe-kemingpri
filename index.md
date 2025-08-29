@@ -31,4 +31,13 @@ sections:
       url: https://www.kemingpri.moe.edu.sg/keming-glow/keming-celebrates/
       image: /images/90_anniversary_banner.png
       alt: Image alt text
+  - infobar:
+      title: Teachers’ Day Celebration
+      subtitle: Add informational text
+      id: infobar
+      description: Teachers’ Day is a time of appreciation and celebration. We will be
+        celebrating Teachers’ Day on Thursday, 4 September 2025 between 7.30
+        a.m. to 10.30 a.m.
+      button: Find out more
+      url: /announcements/
 ---
