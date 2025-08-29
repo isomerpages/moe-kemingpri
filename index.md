@@ -38,5 +38,5 @@ sections:
         celebrating Teachers’ Day on Thursday, 4 September 2025 between 7.30
         a.m. to 10.30 a.m.
       button: Find out more
-      url: /announcements/
+      url: https://www.kemingpri.moe.edu.sg/kmps/announcements/
 ---
