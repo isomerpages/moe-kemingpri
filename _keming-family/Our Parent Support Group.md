@@ -95,7 +95,7 @@ form to Mdm Zainab at the General Office.</p>
 <p><a href="/files/PSG_Registration_Form_2025__for_current_parents_with_children_in_school_.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Registration Form for Current Student</a>
 </p>
 <p></p>
-<p><strong>For any enquiries, you can contact Mdm Zainab at 68962054.</strong>
+<p><strong>For any enquiries, you can contact PSG Planning Team at <a href="mailto:kmpspsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">kmpspsg@gmail.com</a></strong>
 </p>
 <p></p>
 <h4><strong>PSG Photo Gallery</strong></h4>
