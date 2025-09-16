@@ -90,10 +90,10 @@ form to Mdm Zainab at the General Office.</p>
 <p></p>
 <p><strong>Current Parents with Children in the School</strong>
 </p>
-<p>Click on the following link to download the form and submit the completed
-form to Mdm Zainab at the General Office.</p>
-<p><a href="/files/PSG_Registration_Form_2025__for_current_parents_with_children_in_school_.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Registration Form for Current Student</a>
+<p>Register to be part of the Parent Support Group by filling in this form:</p>
+<p><a href="https://go.gov.sg/kmpspsg" rel="noopener nofollow" target="_blank">https://go.gov.sg/kmpspsg </a>
 </p>
+<p></p>
 <p></p>
 <p><strong>For any enquiries, you can contact PSG Planning Team at <a href="mailto:kmpspsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">kmpspsg@gmail.com</a></strong>
 </p>
