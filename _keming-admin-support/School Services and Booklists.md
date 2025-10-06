@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>School Bus Service</strong></h4>
-<p><strong><a href="/files/KM%20Pri%20Sch%20Request%20for%20School%20Bus%20Svcs%20Yr%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Form for Request for School Bus for Year 2025</a></strong>
-</p>
 <p>The school bus operator can be contacted at the following address:</p>
 <p><strong>JK59 PTE LTD</strong>
 </p>
@@ -16,6 +14,10 @@ variant: tiptap
 </p>
 <p>Public transport is available along Bukit Batok East Ave 3, Bukit Batok
 East Ave 6 and Bukit Batok Street 21.</p>
+<p>Please access the following online application for registration of school
+bus transportation:&nbsp;</p>
+<p><a href="/files/bus_forn.pdf" rel="noopener nofollow" target="_blank">Application form for registration of school bus transportation</a>
+</p>
 <hr>
 <h4><strong>School Uniform</strong></h4>
 <p>The school uniform supplier is:</p>
