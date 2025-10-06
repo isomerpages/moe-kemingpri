@@ -18,7 +18,8 @@ variant: tiptap
 East Ave 6 and Bukit Batok Street 21.</p>
 <p>Please access the following online application for registration of school
 bus transportation:&nbsp;</p>
-<p></p>
+<p><a href="/files/bus_forn.pdf" rel="noopener nofollow" target="_blank">Application form </a>
+</p>
 <hr>
 <p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[NSE(1]</a>Link to attachment</p>
 <hr>
