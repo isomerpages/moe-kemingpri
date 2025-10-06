@@ -19,7 +19,6 @@ bus transportation:&nbsp;</p>
 <p><a href="/files/bus_forn.pdf" rel="noopener nofollow" target="_blank">Application form for registration of school bus transportation</a>
 </p>
 <hr>
-<hr>
 <h4><strong>School Uniform</strong></h4>
 <p>The school uniform supplier is:</p>
 <p><strong>JEEP SING FASHION<br></strong>(Head Office/ Factory)
