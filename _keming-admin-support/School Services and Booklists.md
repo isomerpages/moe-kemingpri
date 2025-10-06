@@ -16,6 +16,11 @@ variant: tiptap
 </p>
 <p>Public transport is available along Bukit Batok East Ave 3, Bukit Batok
 East Ave 6 and Bukit Batok Street 21.</p>
+<p>Please access the following online application for registration of school
+bus transportation:&nbsp;</p>
+<p></p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[NSE(1]</a>Link to attachment</p>
 <hr>
 <h4><strong>School Uniform</strong></h4>
 <p>The school uniform supplier is:</p>
