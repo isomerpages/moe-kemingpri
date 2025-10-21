@@ -815,7 +815,7 @@ variant: tiptap
 <p>Ms Chiew Eng Lay, Mandy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chiew_eng_lay@moe.edu.sg</a>
+<p><a href="mailto:chiew_eng_lay_mandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_eng_lay_mandy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
