@@ -182,6 +182,6 @@ the students in the Student Care Centre. Our programme includes:-</p>
 </p>
 </li>
 </ul>
-<p><strong>SCC Application for Primary One Students in 2023<br></strong>Click
+<p><strong>SCC Application for Primary One Students in 2026<br></strong>Click
 here for online registration:&nbsp;<strong><a href="https://knowledgepark.com.sg/kemingscc" rel="noopener" target="\_blank">https://knowledgepark.com.sg/kemingscc</a></strong>
 </p>
