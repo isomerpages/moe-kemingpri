@@ -12,16 +12,16 @@ variant: markdown
 As we mark this significant milestone, the school will be commemorating
 nine decades of nurturing generations of learners through a series of exciting
 events and meaningful initiatives.</p>
-<div class="iframe-wrapper">
+<center><div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pDADu0X0xLI?si=25RZI6GaUCYJyNpm"></iframe>
-</div>
+</div></center>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3YfYf9LoHW4?si=NAF90Suii29rH-la"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vnXa-RH67dw?si=T2b7wpdvmhUxK2pN"></iframe>
+        <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vnXa-RH67dw?si=T2b7wpdvmhUxK2pN"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
