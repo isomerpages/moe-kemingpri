@@ -108,15 +108,15 @@ clinic will open in alternate weeks.</p>
 <p>Sales of textbooks online via the URL -&nbsp;<strong><a href="http://www.pacificbookstores.com/" rel="noopener" target="\_blank">http://www.pacificbookstores.com</a></strong>
 </p>
 <hr>
-<h4><strong>Booklists 2025</strong></h4>
-<p><strong><a href="/files/2025_P1.pdf" rel="noopener" target="\_blank">Primary 1 Booklist</a></strong> 
-<br><strong><a href="/files/2025_P2.pdf" rel="noopener" target="\_blank">Primary 2 Booklist</a></strong> 
-<br><strong><a href="/files/2025_P3.pdf" rel="noopener" target="\_blank">Primary 3 Booklist</a></strong> 
-<br><strong><a href="/files/2025_P4.pdf" rel="noopener" target="\_blank">Primary 4 Booklist</a></strong> 
-<br><strong><a href="/files/2025_P5.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
-<br><strong><a href="/files/2025_P5FDN.pdf" rel="noopener" target="\_blank">Primary 5 Foundation Booklist</a></strong> 
-<br><strong><a href="/files/2025_P6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
-<br><strong><a href="/files/P6_FDN.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
+<h4><strong>Booklists 2026</strong></h4>
+<p><strong><a href="/files/KMPS_2026_P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist</a> </strong>
+<br><strong><a href="/files/KMPS_2026_P2.pdf" rel="noopener" target="\_blank">Primary 2 Booklist</a></strong> 
+<br><strong><a href="/files/KMPS_2026_P3.pdf" rel="noopener" target="\_blank">Primary 3 Booklist</a></strong> 
+<br><strong><a href="/files/KMPS_2026_P4.pdf" rel="noopener" target="\_blank">Primary 4 Booklist</a></strong> 
+<br><strong><a href="/files/KMPS_2026_P5.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
+<br><strong><a href="/files/KMPS_2026_P5__FDN_.pdf" rel="noopener" target="\_blank">Primary 5 Foundation Booklist</a></strong> 
+<br><strong><a href="/files/KMPS_2026_P6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
+<br><strong><a href="/files/KMPS_2026_P6__FDN_.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
 <br><strong><a href="/files/List_of_Approved_Dictionaries_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Dictionaries for PSLE</a></strong> 
 <br><strong><a href="/files/List_of_Approved_Calculators_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Calculators for PSLE</a></strong>
 </p>
