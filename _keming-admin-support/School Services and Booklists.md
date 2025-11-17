@@ -115,7 +115,7 @@ clinic will open in alternate weeks.</p>
 <br><strong><a href="/files/KMPS_2026_P4.pdf" rel="noopener" target="\_blank">Primary 4 Booklist</a></strong> 
 <br><strong><a href="/files/KMPS_2026_P5.pdf" rel="noopener" target="\_blank">Primary 5 Booklist</a></strong> 
 <br><strong><a href="/files/KMPS_2026_P5__FDN_.pdf" rel="noopener" target="\_blank">Primary 5 Foundation Booklist</a></strong> 
-<br><strong><a href="/files/KMPS_2026_P6__FDN_.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
+<br><strong><a href="/files/KMPS_2026_P6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist</a></strong>
 <br><strong><a href="/files/KMPS_2026_P6__FDN_.pdf" rel="noopener" target="\_blank">Primary 6 Foundation Booklist</a></strong> 
 <br><strong><a href="/files/List_of_Approved_Dictionaries_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Dictionaries for PSLE</a></strong> 
 <br><strong><a href="/files/List_of_Approved_Calculators_for_PSLE.pdf" rel="noopener" target="\_blank">List of Approved Calculators for PSLE</a></strong>
