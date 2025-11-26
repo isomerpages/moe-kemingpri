@@ -4,7 +4,9 @@ title: Keming Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo1.jpg
 permalink: /
-notification: ""
+notification: All Staff members will be out for school activities on 27 Nov
+  (full day) and 28 Nov (8.00am to 2.00pm). The General Office will be open from
+  2.00pm.
 sections:
   - hero:
       key_highlights:
