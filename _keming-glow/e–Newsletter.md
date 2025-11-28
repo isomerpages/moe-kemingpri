@@ -10,7 +10,7 @@ variant: tiptap
 <p>It is our delight to share with you the year-end 2025 issue of our Keeping
 in Touch e-newsletter!&nbsp;</p>
 <p>We hope that you will enjoy reading the e-newsletter together with your
-child. You could access our e-newsletter via this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/keming022025</a>
+child. You could access our e-newsletter via this link: <a href="https://go.gov.sg/keming022025" rel="noopener nofollow" target="_blank">https://go.gov.sg/keming022025</a>
 </p>
 <p>Happy reading!</p>
 <hr>
