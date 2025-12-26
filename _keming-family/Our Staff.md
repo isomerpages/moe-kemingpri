@@ -202,7 +202,7 @@ variant: tiptap
 <p>Mdm Neo Liwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neo_liwen@moe.edu.sg</a>
+<p><a href="neo_liwen@moe.edu.sg" rel="noopener nofollow" target="_blank">neo_liwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -226,7 +226,7 @@ variant: tiptap
 <p>Mdm Nor Azlin Binte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nor_azlin_abdul_aziz@moe.edu.sg</a>
+<p><a href="nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">nor_azlin_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -262,7 +262,7 @@ variant: tiptap
 <p>Mdm Guo Shiyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tracey-anne_sim_ching_hien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>
+<p><a href="guo_shiyun@moe.edu.sg" rel="noopener nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
