@@ -4,7 +4,7 @@ permalink: /keming-family/our-staff/
 description: ""
 variant: tiptap
 ---
-<h3><strong>KEY PERSONNEL 2025</strong></h3>
+<h3><strong>KEY PERSONNEL 2026</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD ICT &amp; School Library (Covering)</p>
+<p>HOD Information and Communications Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Dione Aw Ruo Ning (Mrs Chen)</p>
@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Character &amp; Citizenship Education</p>
+<p>HOD Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chng Boon Lee</p>
@@ -172,18 +172,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Archana d/o Rethenam Loganathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,6 +196,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Neo Liwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">neo_liwen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,6 +215,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_hanis_mohamad_rafi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Azlin Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nor_azlin_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -239,6 +251,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tracey-anne_sim_ching_hien@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH P1 &amp; P2 (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Guo Shiyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tracey-anne_sim_ching_hien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
