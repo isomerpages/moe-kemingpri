@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Principal</strong>
 <br>Mr Chen Bing Hong
-<br>Email : <a href="mailto:chen_bing_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_bing_hong@schools.gov.sg</a>
+<br>Email : <a href="chen_bing_hong@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_bing_hong@schools.gov.sg</a>
 </p>
 <p><strong>Vice-Principal</strong>
 <br>Ms Ng Mei Yun
