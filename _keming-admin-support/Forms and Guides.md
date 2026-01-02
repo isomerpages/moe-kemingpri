@@ -45,8 +45,7 @@ either parent's SingPass login.</p>
 <p>&nbsp;</p>
 <p>8.&nbsp;&nbsp;&nbsp; <strong>Consent for non-commercial use of students' work, videos &amp; photographs</strong>
 </p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.kemingpri.moe.edu.sg/files/CONSENT_work_photo_cleared.pdf" rel="noopener noreferrer nofollow" target="_blank">(</a>
-<a href="/files/Consent_for_non_commercial_use_of_students__work_videos__photographs.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><a href="https://www.kemingpri.moe.edu.sg/files/CONSENT_work_photo_cleared.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a> 
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Consent_for_non_commercial_use_of_students__work_videos__photographs.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
 </p>
 <p></p>
