@@ -1370,7 +1370,7 @@ variant: tiptap
 <p>Mdm Tan Jiahui Selena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_marlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_selena@moe.edu.sg</a>
+<p><a href="mailto:tan_jia_hui_selena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_selena@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1382,7 +1382,7 @@ variant: tiptap
 <p>Mr Mohammad Moiz Bin Malik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_marlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_moiz_malik@moe.edu.sg</a>
+<p><a href="mailto:mohammad_moiz_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_moiz_malik@moe.edu.sg</a>
 </p>
 </td>
 </tr>
