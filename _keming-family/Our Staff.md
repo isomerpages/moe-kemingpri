@@ -1181,7 +1181,7 @@ variant: tiptap
 <p>Mdm Tan Jiahui Selena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_selena@moe.edu.sg</a>
+<p><a href="mailto:tan_jia_hui_selena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_hui_selena@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1193,7 +1193,7 @@ variant: tiptap
 <p>Mdm Ameline Sng Shi Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_shi_han_ameline@moe.edu.sg</a>
+<p><a href="mailto:sng_shi_han_ameline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_shi_han_ameline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1205,7 +1205,7 @@ variant: tiptap
 <p>Mdm Nor Azlin Binte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlin_abdul_aziz@moe.edu.sg</a>
+<p><a href="mailto:nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlin_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1217,7 +1217,7 @@ variant: tiptap
 <p>Mrs Lee-Tang Pui Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_pui_yee@moe.edu.sg</a>
+<p><a href="mailto:tang_pui_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_pui_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1229,7 +1229,7 @@ variant: tiptap
 <p>Mdm Tan Siow Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siow_ching@moe.edu.sg</a>
+<p><a href="mailto:tan_siow_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siow_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1241,7 +1241,7 @@ variant: tiptap
 <p>Mdm Norita Washil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norita_washil@moe.edu.sg</a>
+<p><a href="mailto:norita_washil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norita_washil@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1253,7 +1253,7 @@ variant: tiptap
 <p>Mdm&nbsp; Zhang Yuping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yuping@moe.edu.sg</a>
+<p><a href="mailto:zhang_yuping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yuping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1265,7 +1265,7 @@ variant: tiptap
 <p>Ms Toin Yann Hua Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toin_yann_hua@moe.edu.sg</a>
+<p><a href="mailto:toin_yann_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toin_yann_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1277,7 +1277,7 @@ variant: tiptap
 <p>Mr Danny Leong Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">danny_leong_weng_keong@moe.edu.sg</a>
+<p><a href="mailto:danny_leong_weng_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">danny_leong_weng_keong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1289,7 +1289,7 @@ variant: tiptap
 <p>Mdm Zhang Ting Ting Xue Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_ting_ting@moe.edu.sg</a>
+<p><a href="mailto:zhang_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1301,7 +1301,7 @@ variant: tiptap
 <p>Mdm Neo Liwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_liwen@moe.edu.sg</a>
+<p><a href="mailto:neo_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_liwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1313,7 +1313,7 @@ variant: tiptap
 <p>Ms Hing Mui Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hing_mui_hong@moe.edu.sg</a>
+<p><a href="mailto:hing_mui_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hing_mui_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1325,7 +1325,7 @@ variant: tiptap
 <p>Mdm Jiang Hua Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_huahua@moe.edu.sg</a>
+<p><a href="mailto:jiang_huahua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_huahua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1337,7 +1337,7 @@ variant: tiptap
 <p>Mdm Nur Ramizah Binte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kemingpri.moe.edu.sg/keming-family/our-staff/nor_azlin_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ramizah_ramli@moe.edu.sg</a>
+<p><a href="mailto:nur_ramizah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ramizah_ramli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
