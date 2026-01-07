@@ -45,7 +45,7 @@ variant: tiptap
 </table>
 <p>Co-Curricular Activities (CCAs), supplementary classes and remedial classes
 are held outside the normal school hours on weekdays.</p>
-<h4><strong>Recess Time 2025</strong></h4>
+<h4><strong>Recess Time 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -98,5 +98,5 @@ are held outside the normal school hours on weekdays.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Gate Opening Hours 2025</strong></h4>
+<h4><strong>Gate Opening Hours 2026</strong></h4>
 <p>Please refer to the respective gates for the opening hours.</p>
