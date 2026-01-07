@@ -473,7 +473,7 @@ variant: tiptap
 <p>Ms Prema Panneerselvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:prema_panneerselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prema_panneerselvam@moe.edu.sg</a>
+<p><a href="mailto:prema_panneerselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">panneerselvam_prema@moe.edu.sg</a>
 </p>
 </td>
 </tr>
