@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_06_at_11_29_35.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_06_at_11_29_35.jpg">
 </div>
 <p>It is with great honour and humility that I join the Keming family as
 the new Principal. As we celebrate 90 years of Keming’s proud heritage
