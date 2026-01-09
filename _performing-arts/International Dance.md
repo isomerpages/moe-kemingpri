@@ -25,7 +25,7 @@ Celebration, Love@Keming and P1 Orientation.</p>
 <h4>Venue</h4>
 <p>Music Room 1 &amp; 2</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:45 p.m.</p>
 <h4><strong>Achievements</strong></h4>
 <p><strong>2018 SYF Accomplishment (Ocean)</strong>
 </p>
