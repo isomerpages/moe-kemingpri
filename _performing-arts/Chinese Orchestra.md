@@ -14,12 +14,14 @@ with our school's R3ICH values.</p>
 <p><em>“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music. ... I get most joy in life out of music.”- Albert Einstein</em>
 </p>
 <h4>Teachers-In-Charge</h4>
-<p><strong>Ms Hu Ling Mei<br></strong>(<a href="mailto:hu_lingmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_lingmei@moe.edu.sg</a>)</p>
 <p><strong>Ms Hairani Binte Amin<br></strong>(<a href="mailto:hairani_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hairani_amin@moe.edu.sg</a>)</p>
+<p><strong>Mdm Guo Shiyun</strong>
+</p>
+<p>(<a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>)</p>
 <p><strong>Ms Hung Yi Ting<br></strong>(<a href="mailto:hung_yi_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_yi_ting@moe.edu.sg</a>)</p>
 <p><strong>Mdm Wang Tan<br></strong>(<a href="mailto:wang_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_tan@moe.edu.sg</a>)</p>
-<p><strong>Mdm Siti Aisha<br></strong>(<a href="mailto:siti_aisha_abdul_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisha_abdul_latiff@moe.edu.sg</a>)</p>
-<p><strong>Ms Luk Kar Wing Carina<br></strong>(<a href="mailto:luk_kar_wing_carina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>luk_kar_wing_carina@moe.edu.sg</u></a>)</p>
+<p><strong>Ms Marlene Toh (Mrs Ler)<br></strong>(<a href="mailto:toh_marlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_marlene@moe.edu.sg</a>)</p>
+<p><strong>Ms Hu Ling Mei<br></strong>(<a href="mailto:hu_lingmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_lingmei@moe.edu.sg</a>)</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:45 p.m.</p>
 <h4>Venue</h4>
