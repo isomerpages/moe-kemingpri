@@ -22,7 +22,7 @@ work.</p>
 <h4><strong>Day &amp; Time</strong></h4>
 <p><strong>Wednesdays</strong>, 2:15 pm - 4:15 pm</p>
 <h4>Venue</h4>
-<p>MPR</p>
+<p>PO Room 3</p>
 <h4>Activities</h4>
 <p><strong>Boys’ Brigade</strong>
 </p>
