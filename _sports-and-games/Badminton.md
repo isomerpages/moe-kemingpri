@@ -14,11 +14,14 @@ in the face of adversity. In pursuing sporting excellence, selected students
 will have the opportunity to represent the school at the annual National
 School Games Badminton Competition.</p>
 <h4>Teachers-In-Charge</h4>
-<p><strong>Mdm Shamsidah Wati Bte Lamaoen<br></strong>(shamsidah_wati_lamaoen@moe.edu.sg)</p>
-<p><strong>Ms Nur Izzah Binte Zainudin<br></strong>(nur_izzah_zainudin@moe.edu.sg)</p>
-<p><strong>Mdm Zheng Lixian<br></strong>(zheng_lixian@moe.edu.sg)</p>
-<p><strong>Mdm Rohana Bakri<br></strong>(rohana_bakri@moe.edu.sg)</p>
-<p><strong>Mdm Wong Wai Ling<br></strong>(wong_wai_ling@moe.edu.sg)</p>
+<p><strong>Mdm Zheng Lixian<br></strong>(<a href="mailto:zheng_lixian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_lixian@moe.edu.sg</a>)</p>
+<p><strong>Mdm Rohana Bakri<br></strong>(<a href="mailto:rohana_bakri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohana_bakri@moe.edu.sg</a>)</p>
+<p><strong>Mdm Shamsidah Wati Bte Lamaoen<br></strong>(<a href="mailto:shamsidah_wati_lamaoen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamsidah_wati_lamaoen@moe.edu.sg</a>)</p>
+<p><strong>Ms Nur Izzah Binte Zainudin<br></strong>(<a href="mailto:nur_izzah_zainudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_izzah_zainudin@moe.edu.sg</a>)</p>
+<p><strong>Mr Danny Leong Weng Keong</strong>
+</p>
+<p><strong>(</strong><a href="mailto:danny_leong_weng_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>danny_leong_weng_keong@moe.edu.sg)</u></a>
+</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 3:15 p.m. – 5:15 p.m. (School Team &amp;
 Recreational Team)
