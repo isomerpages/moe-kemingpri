@@ -18,7 +18,9 @@ events. To date, the group has achieved good results at the SYF competitions.</p
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mdm Zhang Yuping<br></strong>(<a href="mailto:zhang_yuping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_yuping@moe.edu.sg</u></a>)</p>
 <p><strong>Mdm Norita<br></strong>(<a href="mailto:norita_washil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norita_washil@moe.edu.sg</a>)</p>
-<p><strong>Mdm Ning Kun<br></strong>(<a href="mailto:ning_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ning_kun@moe.edu.sg</a>)</p>
+<p><strong>Mdm Vaneesha Gopal (Mrs Kishen)</strong>
+</p>
+<p>(<a href="mailto:vaneesha_gopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaneesha_gopal@moe.edu.sg</a>)</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.
 <br>
