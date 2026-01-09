@@ -18,15 +18,13 @@ a constructive role in society.</p>
 <br>Better Scouting for more young People</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Gejendran s/o V Krishnan<br></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
-<p><strong>Mdm Guo Shiyun<br></strong>(<a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>)</p>
-<p><strong>Mdm Archana<br></strong>(<a href="mailto:archana_loganathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>)</p>
-<p><strong>Mdm Archana<br></strong>(<a href="mailto:archana_loganathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">archana_loganathan@moe.edu.sg</a>)</p>
-<p><strong>Mdm Nur Hanis<br></strong>(<a href="mailto:nur_hanis_mohamad_rafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hanis_mohamad_rafi@moe.edu.sg</a>)</p>
+<p><strong>Mr Goh Leong Poom<br></strong>(<a href="mailto:goh_leong_poon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_leong_poon@moe.edu.sg</a>)</p>
+<p><strong>Mr Richard Lim<br></strong>(<a href="mailto:richard_lim_heng_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_lim_heng_lee@moe.edu.sg</a>)</p>
 <p></p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
-<p>Teaching Lab/5Di Classroom</p>
+<p>Teaching Lab/PO Room 6</p>
 <p></p>
 <h4><strong>2020 Achievements:</strong></h4>
 <p></p>
