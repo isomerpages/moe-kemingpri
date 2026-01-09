@@ -4,12 +4,6 @@ permalink: /keming-grow/our-co-curricular-activities-ccas/uniformed-groups/girls
 description: ""
 variant: tiptap
 ---
-<p>The mission of the Boys’ Brigade is to provide fun, meaningful and challenging
-activities that actively engage each boy. It is also to nurture our youths
-based on values that will enable them to lead and serve in the future.
-Our highlights include our weekly parades which focus on character education,
-games, drills, badge work, outings and camps. We also have HQ events and
-competitions like the BB Week, BB CARES, Character Quest and BB Share-A-Gift.</p>
 <p>The mission of the Girls’ Brigade is to develop each girl to achieve her
 fullest potential by equipping, empowering and enabling them to become
 a leader. Our company highlights include our weekly parades which focus
@@ -24,19 +18,6 @@ work.</p>
 <h4>Venue</h4>
 <p>PO Room 3</p>
 <h4>Activities</h4>
-<p><strong>Boys’ Brigade</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>BB Day (12 January)</p>
-</li>
-<li>
-<p>Character Quest</p>
-</li>
-<li>
-<p>BB CARES</p>
-</li>
-</ul>
 <p><strong>Girls’ Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
