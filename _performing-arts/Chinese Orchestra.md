@@ -25,7 +25,7 @@ with our school's R3ICH values.</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:45 p.m.</p>
 <h4>Venue</h4>
-<p>Band Room, 5Dia, 5Ja, 5On,5Op, 6Pe, CL Modular Rooms</p>
+<p>Band Room, 5EM, 5JA, 5ON,5OP, 5PE,PO Room 10</p>
 <h4>Achievements</h4>
 <p>SYF 2018: Accomplishment</p>
 <div class="isomer-image-wrapper">
