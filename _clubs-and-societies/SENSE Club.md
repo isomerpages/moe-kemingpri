@@ -24,7 +24,7 @@ that contribute to sustainable living in their own ways.</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
-<p>Computer Lab 1</p>
+<p>5AM &amp; 5DI Classrooms</p>
 <h4>Activities</h4>
 <p><strong>SINGAPORE AMAZING FLYING MACHINE COMPETITION</strong>
 </p>
