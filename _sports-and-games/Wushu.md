@@ -19,10 +19,9 @@ may be a physical and mind challenging sport to participate in, but the
 beauty of being able to display a full routine is far more rewarding.</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Yong Seng Kiak<br></strong>(<a href="mailto:yong_seng_kiak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_seng_kiak@moe.edu.sg</a>)</p>
-<p><strong>Mrs Chandra<br></strong>(<a href="mailto:santhi_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_chandrasaharan@moe.edu.sg</a>)</p>
 <p><strong>Mdm Ameline Sng<br></strong>(<a href="mailto:sng_shi_han_ameline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_shi_han_ameline@moe.edu.sg</a>)</p>
+<p><strong>Mrs Chandra<br></strong>(<a href="mailto:santhi_chandrasaharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_chandrasaharan@moe.edu.sg</a>)</p>
 <p><strong>Mdm Wong Wee Cheng<br></strong>(<a href="mailto:wong_wee_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wee_cheng@moe.edu.sg</a>)</p>
-<p><strong>Mdm Zariney<br></strong>(<a href="mailto:zariney_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zariney_ahmad@moe.edu.sg</a>)</p>
 <p><strong>Mdm Tong Min Lan<br></strong>(<a href="mailto:tong_min_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_min_lan@moe.edu.sg</u></a>)</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Mondays,</strong>&nbsp;2 p.m. – 5:30 p.m.&nbsp;(for school competition
