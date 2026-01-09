@@ -15,7 +15,7 @@ skills. Adding on, students also went on learning journeys to Hort Park
 to apply their photography skills and take photos for project-based assignments
 and photography and coding competitions organised by external organisations.</p>
 <h4>Teachers-In-Charge</h4>
-<p><strong>Ms Angelina Mok </strong>
+<p><strong>Ms Angelina Mok</strong>
 </p>
 <p>(<a href="mailto:angelina_mok_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelina_mok_yin_peng@moe.edu.sg</a>)</p>
 <p><strong>Mdm Eng Ying Tian</strong>
@@ -25,7 +25,8 @@ and photography and coding competitions organised by external organisations.</p>
 <p><strong>Mrs Lynda Ang</strong>
 </p>
 <p>(<a href="mailto:ang_hock_hwa_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hock_hwa_ray@moe.edu.sg</a>)</p>
-<p>Mdm Wong Wai Ling</p>
+<p><strong>Mdm Wong Wai Ling</strong>
+</p>
 <p>(<a href="mailto:wong_wai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_ling@moe.edu.sg</a>)</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
