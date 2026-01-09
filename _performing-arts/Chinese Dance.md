@@ -22,7 +22,7 @@ events. To date, the group has achieved good results at the SYF competitions.</p
 </p>
 <p>(<a href="mailto:vaneesha_gopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaneesha_gopal@moe.edu.sg</a>)</p>
 <h4>Day &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:45 p.m.
 <br>
 </p>
 <h4>Venue</h4>
