@@ -11,13 +11,19 @@ their floorball aspirations even after they have graduated from Keming,
 and achieving stellar results.</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mrs Jennifer Lau<br></strong>(<a href="mailto:conceicao_jennifer_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">conceicao_jennifer_valerie@moe.edu.sg</a>)</p>
-<p><strong>Mr A'Qashah Bin Ahmad Al'Badowe<br></strong>(<a href="mailto:ahmad_aqashah_ahmad_albadowe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_aqashah_ahmad_albadowe@moe.edu.sg</a>)</p>
+<p><strong>Mdm Jiang Huahua<br></strong>(<a href="mailto:jiang_huahua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_huahua@moe.edu.sg</a>)</p>
 <p><strong>Ms Nur Amirah Binte Raman<br></strong>(<a href="mailto:nur_amirah_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_raman@moe.edu.sg</a>)</p>
 <p><strong>Mrs Angie Gill<br></strong>(<a href="mailto:chan_yin_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_kuan@moe.edu.sg</a>)</p>
 <p><strong>Ms Chua Qiuyi<br></strong>(<a href="mailto:chua_qiu_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiu_yi@moe.edu.sg</a>)</p>
-<p><strong>Mdm Jiang Huahua<br></strong>(<a href="mailto:jiang_huahua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_huahua@moe.edu.sg</a>)</p>
-<p><strong>Mr Hamizah Bin Harith<br></strong>(<a href="mailto:hamizan_harith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hamizan_harith@moe.edu.sg</u></a><u>)</u>
+<p><strong>Mr Philip Phyo </strong>
 </p>
+<p>(<a rel="noopener noreferrer nofollow" target="_blank">phyo_latt@moe.edu.sg</a>)</p>
+<p><strong>Mdm Ruhaya Bte Mafot</strong>
+</p>
+<p>(<a href="mailto:ruhaya_mafot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ruhaya_mafot@moe.edu.sg</u></a>)</p>
+<p><strong>Mdm Tan Siow Ching</strong>
+</p>
+<p>(<a href="mailto:tan_siow_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_siow_ching@moe.edu.sg</u></a>)</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. – 5:15 p.m.
 <br><strong>Fridays</strong>, 2:15 p.m. – 5:15 p.m.&nbsp;(for school competition
