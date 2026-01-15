@@ -4,11 +4,5 @@ permalink: /kmps/calendar/
 description: ""
 variant: tiptap
 ---
-<p><a href="/files/2025_KMPS_Calendar_of_Events_Term_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Calendar of Events</a>
-</p>
-<p><a href="/files/2025_KMPS_Calendar_of_Events_Term_2.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Calendar of Events</a>
-</p>
-<p><a href="/files/2025_KMPS_Calendar_of_Events_Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 3 Calendar of Events</a>
-</p>
-<p><a href="/files/2025_KMPS_Calendar_of_Events_Term_4.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Calendar of Events</a>
+<p><a href="/files/2026_KMPS_Calendar_of_Events_Sem1.pdf" rel="noopener nofollow" target="_blank">2026 Calendar of Events Semester 1</a>
 </p>
