@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><a href="/files/PSG/PSG%20Online%20Guide.pdf" rel="noopener" target="_blank">PSG Online Guide</a>
 </p>
-<h4><strong>Programmes / Activities that Parent Volunteers&nbsp;could Offer their Services in:</strong></h4>
+<h4><strong>Programmes / Activities that PSG&nbsp;could Offer their Services in:</strong></h4>
 <p><strong>Regular Basis (Academic)</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -76,20 +76,10 @@ craft work,etc</p>
 <p>Assist in preparing students on the day of competitions for CCAs such
 as Wushu, Chinese Orchestra, Chinese Dance and International Dance ( e.g.
 setting up of equipment, helping children with their makeup etc.)</p>
-<p></p>
-<h4><strong>To register as a Parent Volunteer in Keming Primary School</strong></h4>
+<h4></h4>
 </li>
 </ol>
-<p>Activities could be carried out either face-to-face or online, depending
-on the nature of the request by the school.</p>
-<p><strong>Parents who wish to register their child under Phase 2B in the year 2027 for 2028 P1 intake</strong>
-</p>
-<p>Click on the following link to download the form and submit the completed
-form to Mdm Zainab at the General Office.</p>
-<p>Registration for this category will be opened until 31 March 2025.</p>
-<p></p>
-<p><strong>Current Parents with Children in the School</strong>
-</p>
+<h4><strong>Current Parents with Children in the School</strong></h4>
 <p>Register to be part of the Parent Support Group by filling in this form:</p>
 <p><a href="https://go.gov.sg/kmpspsg" rel="noopener nofollow" target="_blank">https://go.gov.sg/kmpspsg</a>
 </p>
