@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our Parent Support Group (PSG)
 ---
-<h4><strong>Our Parent Volunteer (PV) Scheme</strong><br>Parent Volunteer Registration for 2028 Primary 1 Admission is <strong>closed</strong>.</h4>
+<p><strong>Our Parent Volunteer (PV) Scheme</strong>
+</p>
+<p>
+<br>Parent Volunteer Registration for 2028 Primary 1 Admission is closed.</p>
 <p>Parent Volunteer Registration for 2029 Primary 1 Admission will commence
 in May 2026.</p>
 <p>(Registration link will be posted here in May 2026)</p>
@@ -91,7 +94,7 @@ in May 2026.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>TERMS AND CONDITIONS</strong>
 </p>
 <ol data-tight="true" class="tight">
