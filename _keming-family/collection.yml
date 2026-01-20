@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Parent Support Group/.keep
-      - Our Parent Volunteer Scheme.md
       - Our School Leaders.md
       - Our Staff.md
       - Our School Advisory Committee.md
