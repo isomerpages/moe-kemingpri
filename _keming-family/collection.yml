@@ -2,6 +2,7 @@ collections:
   keming-family:
     output: true
     order:
+      - Our Parent Support Group/Our Parent Volunteer Scheme.md
       - Our Parent Support Group/.keep
       - Our School Leaders.md
       - Our Staff.md
