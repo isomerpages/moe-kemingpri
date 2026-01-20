@@ -4,8 +4,6 @@ permalink: /keming-family/our-parent-support-group/
 description: ""
 variant: tiptap
 ---
-<p><a href="/files/PSG/PSG%20Online%20Guide.pdf" rel="noopener" target="_blank">PSG Online Guide</a>
-</p>
 <h4><strong>Programmes / Activities that PSG&nbsp;could Offer their Services in:</strong></h4>
 <p><strong>Regular Basis (Academic)</strong>
 </p>
@@ -76,7 +74,6 @@ craft work,etc</p>
 <p>Assist in preparing students on the day of competitions for CCAs such
 as Wushu, Chinese Orchestra, Chinese Dance and International Dance ( e.g.
 setting up of equipment, helping children with their makeup etc.)</p>
-<h4></h4>
 </li>
 </ol>
 <h4><strong>Current Parents with Children in the School</strong></h4>
@@ -88,7 +85,6 @@ setting up of equipment, helping children with their makeup etc.)</p>
 </div>
 <p><strong>For any enquiries, you can contact PSG Planning Team at <a href="mailto:kmpspsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">kmpspsg@gmail.com</a></strong>
 </p>
-<p></p>
 <h4><strong>PSG Photo Gallery</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
