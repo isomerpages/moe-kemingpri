@@ -84,7 +84,7 @@ setting up of equipment, helping children with their makeup etc.)</p>
 <p><a href="https://go.gov.sg/kmpspsg" rel="noopener nofollow" target="_blank">https://go.gov.sg/kmpspsg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qr_PSG.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/qr_PSG.png">
 </div>
 <p><strong>For any enquiries, you can contact PSG Planning Team at <a href="mailto:kmpspsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">kmpspsg@gmail.com</a></strong>
 </p>
