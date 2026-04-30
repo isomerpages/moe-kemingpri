@@ -6,11 +6,10 @@ description: ""
 third_nav_title: Our Parent Support Group (PSG)
 ---
 <h4><strong>Our Parent Volunteer (PV) Scheme</strong></h4>
-<p>
-<br>Parent Volunteer Registration for 2028 Primary 1 Admission is <strong>closed</strong>.</p>
-<p>Parent Volunteer Registration for 2029 Primary 1 Admission will commence
-in May 2026.</p>
-<p>(Registration link will be posted here in May 2026)</p>
+<p>PV Registration Form 2026 for 2029 P1 Admission is now opened. Please
+click on the following link to apply:</p>
+<p><a href="https://form.gov.sg/69eae39ac914a20a05ed1500" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68bfd1aa0aa4dce2d41f1019</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
