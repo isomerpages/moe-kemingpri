@@ -28,6 +28,6 @@ sections:
       description: PV Registration Form 2026 for 2029 P1 Admission is now opened.
       button: Find out more
       url: https://www.kemingpri.moe.edu.sg/our-parent-volunteer-scheme/
-      image: /images/School_Logo.jpg
+      image: /images/logo.png
       alt: Image alt text
 ---
