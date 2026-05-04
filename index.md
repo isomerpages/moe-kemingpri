@@ -23,11 +23,11 @@ sections:
       background: /images/MAIN BANNERS/GIF_Timeline_2.gif
       variant: image
   - infopic:
-      title: Keming Celebrates!
+      title: Our Parent Volunteer (PV) Scheme
       id: infopic
-      description: Keming Primary School is proud to celebrate its 90th anniversary in 2025!
+      description: PV Registration Form 2026 for 2029 P1 Admission is now opened.
       button: Find out more
-      url: https://www.kemingpri.moe.edu.sg/keming-glow/keming-celebrates/
+      url: https://www.kemingpri.moe.edu.sg/our-parent-volunteer-scheme/
       image: /images/90_anniversary_banner.png
       alt: Image alt text
 ---
