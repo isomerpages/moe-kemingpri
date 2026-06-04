@@ -31,7 +31,6 @@ sections:
       url: https://www.kemingpri.moe.edu.sg/our-parent-volunteer-scheme/
   - infobar:
       title: Keming Keeping in Touch e-Newsletter 01/2026
-      subtitle: Add informational text
       id: infobar
       description: We are delighted to share our latest e-newsletter!
       button: Find out more
