@@ -35,5 +35,5 @@ sections:
       id: infobar
       description: We are delighted to share our latest e-newsletter!
       button: Find out more
-      url: newsletter/
+      url: https://kemingpri.moe.edu.sg/keming-glow/e-newsletter/
 ---
