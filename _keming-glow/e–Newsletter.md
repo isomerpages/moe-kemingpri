@@ -27,8 +27,9 @@ experiences firsthand, spark conversations about what they've learnt, and
 celebrate their growth together.
 <br>&nbsp;
 <br>We hope you enjoy reading it as much as we enjoyed putting it together!</p>
+<p><a href="/files/Keeping_In_Touch_Semester_1_2026_compressed.pdf" rel="noopener nofollow" target="_blank">KMPS e-newsletter 2026 Semester 1</a>
+</p>
 <hr>
-<p></p>
 <p><strong>Keming Primary e-Newsletter 2025</strong>
 </p>
 <p>Dear Parents,</p>
