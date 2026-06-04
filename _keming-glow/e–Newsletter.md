@@ -4,6 +4,32 @@ permalink: /keming-glow/e-newsletter/
 description: ""
 variant: tiptap
 ---
+<p><strong>Keming Keeping in Touch e-Newsletter 01/2026</strong>
+</p>
+<p>Dear Parents and Guardians,
+<br>&nbsp;
+<br>We hope this message finds you well! We are delighted to share our latest
+e-newsletter issue, which captures some of the wonderful learning experiences
+your child has been part of recently.
+<br>&nbsp;
+<br>From commemorating our National Education days to exploring health and
+wellness through our Health Education programme, Kemingnites have been
+engaged in meaningful experiences that go beyond the classroom. They also
+had the opportunity to broaden their horizons through our Internationalisation
+Programme, which included an exciting exchange with Kairos Gracia Christian
+School and Dulwich College, creating valuable opportunities to build cross-cultural
+understanding and friendships. Our learning journeys further brought curriculum
+learning to life in real-world settings!
+<br>&nbsp;
+<br>We warmly invite you to read through the e-newsletter (<a href="https://go.gov.sg/keming012026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/keming012026</a>)
+together with your child. It's a wonderful opportunity to hear about their
+experiences firsthand, spark conversations about what they've learnt, and
+celebrate their growth together.
+<br>&nbsp;
+<br>We hope you enjoy reading it as much as we enjoyed putting it together!</p>
+<p><a href="/files/Keeping_In_Touch_Semester_1_2026_compressed.pdf" rel="noopener nofollow" target="_blank">KMPS e-newsletter 2026 Semester 1</a>
+</p>
+<hr>
 <p><strong>Keming Primary e-Newsletter 2025</strong>
 </p>
 <p>Dear Parents,</p>
@@ -67,7 +93,7 @@ together with your child. You could access our e-newsletter via this link:
 <a href="https://go.gov.sg/keming012023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/keming012023</a>
 </p>
 <p>Happy reading!
-<br><a href="files/keeping%20in%20touch%20sem1%202023%20lite_11zon.pdf" rel="noopener noreferrer nofollow" target="">KMPS e-Newsletter 2023 Semester 1</a>
+<br><a href="" rel="noopener noreferrer nofollow" target="">KMPS e-Newsletter 2023 Semester 1</a>
 </p>
 <p>
 <br>

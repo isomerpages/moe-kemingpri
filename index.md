@@ -4,8 +4,7 @@ title: Keming Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo1.jpg
 permalink: /
-notification: All staff members will be out for a school activity on 3 June 2026
-  from 1.30pm to 5.00pm.
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -29,4 +28,10 @@ sections:
       description: PV Registration Form 2026 for 2029 P1 Admission is now opened.
       button: Find out more
       url: https://www.kemingpri.moe.edu.sg/our-parent-volunteer-scheme/
+  - infobar:
+      title: Keming Keeping in Touch e-Newsletter June 2026
+      id: infobar
+      description: We are delighted to share our latest e-newsletter!
+      button: Find out more
+      url: https://kemingpri.moe.edu.sg/keming-glow/e-newsletter/
 ---
