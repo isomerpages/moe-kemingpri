@@ -74,6 +74,26 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Kee Lock</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Roger Aeton Lim Shern</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
