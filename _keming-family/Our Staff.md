@@ -1599,6 +1599,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eshwaaree C Yogarrajah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eshwaaree_C_Yogarrajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eshwaaree_C_Yogarrajah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>School Admin Team</h4>
