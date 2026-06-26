@@ -103,8 +103,9 @@ variant: tiptap
 <p>Mdm Chng Boon Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chng_boon_lee@moe.edu.sg</a>
+<p><a href="mailto:chng_boon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_boon_lee@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -256,13 +257,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH P1 &amp; P2 (covering)</p>
+<p>SH Aesthetics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Shiyun</p>
+<p>Ms Norafidah Adon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>
+<p><a href="mailto:norafidah_adon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norafidah_adon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Ting Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
