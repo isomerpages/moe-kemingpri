@@ -269,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (covering)</p>
+<p>AYH (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Ting Ting</p>
