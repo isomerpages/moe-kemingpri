@@ -1299,7 +1299,7 @@ variant: tiptap
 <p>5On</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Ting Ting Xue Li</p>
+<p>Mdm Zhang Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_ting_ting@moe.edu.sg</a>
