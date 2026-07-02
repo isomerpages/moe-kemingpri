@@ -4,7 +4,7 @@ title: Keming Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo1.jpg
 permalink: /
-notification: ""
+notification: All staff will be out of school on 6 Jul 2026. The school will be closed.
 sections:
   - hero:
       key_highlights:
