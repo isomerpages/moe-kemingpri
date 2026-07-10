@@ -167,7 +167,7 @@ the students in the Student Care Centre. Our programme includes:-</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Student Care Fees<br></strong>School Term: $290 per month
+<p><strong>Student Care Fees<br></strong>School Term: $260 per month
 <br><em>Student Care Fee Assistance (SCFA) by CDC is available for students in need of financial assistance. Terms and conditions apply.</em>
 </p>
 <p><strong>Student Care Centre Manager<br></strong>Ms Tiffany Ng</p>
