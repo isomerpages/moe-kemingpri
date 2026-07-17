@@ -11,10 +11,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca1.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/keming-grow/our-co-curricular-activities-ccas/performing-arts/chinese-orchestra/"><img style="width: 100%" height="auto" width="100%" src="/images/cca1.jpg"></a>
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/keming-grow/our-co-curricular-activities-ccas/uniformed-groups/girls-brigade/"><img style="width: 100%" height="auto" width="100%" src="/images/cca2.jpg"></a>
