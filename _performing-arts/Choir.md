@@ -13,9 +13,9 @@ the school with pride.</p>
 musical excellence, teamwork and gracious character.</p>
 <p>One Choir, One Spirit.</p>
 <h4>Teachers-in-Charge</h4>
-<p>Mdm Pan Shixuan (Mrs Lum)
+<p><strong>Mdm Pan Shixuan (Mrs Lum) </strong>
 <br>(<a href="mailto:pan_shixuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pan_shixuan@moe.edu.sg</a>)</p>
-<p>Mrs Carina Luk
+<p><strong>Mrs Carina Luk </strong>
 <br>(<a href="mailto:luk_kar_wing_carina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luk_kar_wing_carina@moe.edu.sg</a>)</p>
 <h4>Days &amp; Time</h4>
 <p>Wednesday, 2:15 p.m. – 4:15 p.m.</p>
