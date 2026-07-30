@@ -9,27 +9,115 @@ trained to adopt the principles of good citizenship through the Scout method.
 It is learning by doing with active participation with other members such
 as working in a small group, known as ‘Six’, to develop leadership and
 teamwork skills to be a responsible Scouter.</p>
-<p><u>The Mission of Scouting:</u>
+<p>
 <br>The mission of Scouting is to contribute to the education of young people,
 through a value system based on the Scout Promise and Law. To help build
 a better world where people are self-fulfilled as individuals and play
 a constructive role in society.</p>
-<p><u>The Vision of Scouting:</u>
+<p>
 <br>Better Scouting for more young People</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Gejendran s/o V Krishnan<br></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
 <p><strong>Mr Goh Leong Poon<br></strong>(<a href="mailto:goh_leong_poon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_leong_poon@moe.edu.sg</a>)</p>
 <p><strong>Mr Richard Lim<br></strong>(<a href="mailto:richard_lim_heng_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_lim_heng_lee@moe.edu.sg</a>)</p>
 <p><strong>Mdm Charlena Low</strong>
-</p>
-<p>(<a href="mailto:low_ming_lee_charlena_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_ming_lee_charlena_b@schools.gov.sg</a>)</p>
+<br>(<a href="mailto:low_ming_lee_charlena_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_ming_lee_charlena_b@schools.gov.sg</a>)</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Teaching Lab/PO Room 6</p>
 <p></p>
-<h4><strong>2020 Achievements:</strong></h4>
+<h4><strong>Achievements</strong></h4>
+<p><strong>Frank Cooper Sands Award (Unit Award)</strong>
+</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>This award honours the father of Scouting in Singapore, and is awarded
+annually to sectional scout units for unit excellence.&nbsp; The assessment
+for the award centres on Unit administration, Unit participation, Training
+and Development, International participation, Unit finances and Unit Initiatives.&nbsp;</p>
+<p><strong>Chief Scout Awardees</strong>
+</p>
+<p><strong>2026</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jayron Loh Jingcheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim En Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kuang Xuanyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abinisha Anand</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2025</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asadel Farhun Bin Muhammad Farihan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>R Sri Niranjana Devi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lew Hui Hui</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2020</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
