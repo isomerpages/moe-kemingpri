@@ -4,16 +4,18 @@ permalink: /keming-grow/our-co-curricular-activities-ccas/clubs-n-societies/info
 description: ""
 variant: tiptap
 ---
-<p>The Infocomm Club aims to enthuse its members about information communication
-in a fun and meaningful way. Members will have the opportunity to express
-their creativity, develop problem-solving skills and cultivate teamwork.</p>
-<p>Members embark on learning journeys, sharing and training sessions that
-expose them to the ever-changing advancement of information technology.
-Students learn to use ICT tools to design posters and create animation.
-Students are also taught coding, Minecraft Education programmes and photography
-skills. Adding on, students also went on learning journeys to Hort Park
-to apply their photography skills and take photos for project-based assignments
-and photography and coding competitions organised by external organisations.</p>
+<p>Students who love technology and computers join Digital Discovery Club
+to learn about exciting new apps, and digital tools. In this club, members
+get to explore different types of technology, from coding programs to creative
+apps. Through fun activities and hands-on projects, students learn how
+to solve problems using technology and create their own amazing digital
+projects like games, videos, and interactive presentations. Members also
+get to work together in teams, share ideas, and help each other learn new
+skills. The club is perfect for curious students who want to discover how
+technology works, learn basic coding, try out new apps, and unleash their
+creativity through digital art and design.</p>
+<p><em>To nurture curious, creative and responsible digital innovators who discover, create and collaborate using technology to make a positive impact in the world.</em>
+</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Angelina Mok</strong>
 </p>
@@ -21,7 +23,7 @@ and photography and coding competitions organised by external organisations.</p>
 <p><strong>Mdm Eng Ying Tian</strong>
 </p>
 <p>(<a href="mailto:eng_ying_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_ying_tian@moe.edu.sg</a>)</p>
-<p><strong>Mdm Sabrena Esman<br></strong>(sabrena_esman@moe.edu.sg)</p>
+<p><strong>Mdm Sabrena Esman<br></strong>(<a href="sabrena_esman@moe.edu.sg" rel="noopener nofollow" target="_blank">sabrena_esman@moe.edu.sg</a>)</p>
 <p><strong>Mrs Lynda Ang</strong>
 </p>
 <p>(<a href="mailto:ang_hock_hwa_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hock_hwa_ray@moe.edu.sg</a>)</p>
@@ -31,7 +33,7 @@ and photography and coding competitions organised by external organisations.</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
-<p>Computer Lab 1&amp;2</p>
+<p>Computer Labs</p>
 <h4>Achievements</h4>
 <p><strong><u>2018<br></u></strong>4th National Coding Competition 2018:
 Gold Award &amp; Silver Award
