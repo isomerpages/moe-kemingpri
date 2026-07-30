@@ -207,16 +207,18 @@ students who have satisfied the requirement for this prestigious award:</p>
 </table>
 <p><strong>Knot Booth @Area Founder’s Day 2026</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts1.png">
 </div>
 <p><strong>Cub Scout Leadership Course - Tent Pitching!</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts2.jpg">
 </div>
+<p>Hosting North Area First Aid Competition</p>
+<p>Showing care to the elderlies</p>
+<p>Teambuilding Games!</p>
+<p></p>
 <p><strong>2021 Activities:</strong>
 </p>
 <p><strong>Unit Meetings<br></strong>We kicked off the year by having roasted
