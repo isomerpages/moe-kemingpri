@@ -4,19 +4,14 @@ permalink: /keming-grow/our-co-curricular-activities-ccas/sports-n-games/wushu/
 description: ""
 variant: tiptap
 ---
-<p>Wushu is a fun and exciting sport. During training, students get to develop
-social emotional skills through play, interaction with peers and bonding
-with like-minded school-mates who will support each other during training
-and competitions.</p>
-<p>Wushu helps to enhance students’ psychomotor and balancing skills. It
-also provides opportunities for students to learn and display R3ICH values.
-Students learn to be respectful, be responsible in taking care of their
-weapons, be resilient when the training gets tough, and to care for their
-fellow Wushu teammates.</p>
-<p>Students will have a fun time learning different types of Wushu routines
-such as Quanshu, Taiji, Swordplay, Broadsword play, Cudgel and Spear. Wushu
-may be a physical and mind challenging sport to participate in, but the
-beauty of being able to display a full routine is far more rewarding.</p>
+<p><em>Wushu is a fun and exciting sport. During training, students get to develop social emotional skills through play, interaction with peers and bonding with like-minded school-mates who will support each other during training and competitions.</em>
+</p>
+<p></p>
+<p><em>Wushu helps to enhance students’ psychomotor and balancing skills. It also provides opportunities for students to learn and display R3ICH values. Students learn to be respectful, be responsible in taking care of their weapons, be resilient when the training gets tough, and to care for their fellow Wushu teammates.</em>
+</p>
+<p></p>
+<p><em>Students will have a fun time learning different types of Wushu routines such as Quanshu, Taiji, Swordplay, Broadsword play, Cudgel and Spear. Wushu may be a physical and mind challenging sport to participate in, but the beauty of being able to display a full routine is far more rewarding.</em>
+</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Yong Seng Kiak<br></strong>(<a href="mailto:yong_seng_kiak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_seng_kiak@moe.edu.sg</a>)</p>
 <p><strong>Mdm Ameline Sng<br></strong>(<a href="mailto:sng_shi_han_ameline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_shi_han_ameline@moe.edu.sg</a>)</p>
@@ -30,7 +25,344 @@ teams only)
 p.m.</p>
 <h4>Venue</h4>
 <p>School Hall</p>
+<h4>Attire</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>School PE uniform, long black track pants</p>
+</li>
+</ul>
 <h4>Achievements</h4>
+<p><strong><u>2026 NSG Wushu Prize Winners</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YONG XUAN ALINDA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 ONYX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls 4-duan Cudgel – 3<sup>rd</sup> position</p>
+<p>Junior Girls 1<sup>st</sup> International Broadsword – 3<sup>rd</sup> position</p>
+<p>Junior Girls 5-duan Changquan – 2<sup>nd</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YONG JUN ADDISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 1<sup>st</sup> International Sword – 2<sup>nd</sup> position</p>
+<p>Senior Boys 1<sup>st</sup> International Spear – 4<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY JIE LONG, RAPHAEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 5 duan Spear – 8<sup>th</sup> position</p>
+<p>Senior Boys 5 duan Sword – 6<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH EN TENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 OPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Girls 42-style Taijiquan – 6<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG JING YIK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 JADE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 5-duan Nanquan – 7<sup>th</sup> position</p>
+<p>1<sup>st</sup> International Nangun – 7<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU REN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 1<sup>st</sup> international Nandao – 8<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG BOYU ELVIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 ONYX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Boys 4-duan Cudgel – 5<sup>th</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>SENIOR BOYS GROUP EVENT</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YONG JUN ADDISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Senior Boys Group Quanshu 4<sup>th</sup>
+</p>
+<p>Senior Boys Group Weapon 4<sup>th</sup>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY JIE LONG, RAPHAEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU REN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG JING YIK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 JADE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEPHEN LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 JADE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG BOYU ELVIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 ONYX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH BO ZHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>SENIOR GIRLS GROUP EVENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STELLA TAN KYE JEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Senior Girls Group Quanshu 7<sup>th</sup>
+</p>
+<p>Senior Girls Group Weapon 8<sup>th</sup>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN YU EN ADELINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EMERALD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VERA SOO HUI TIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 JADE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG CAIXUAN AMBERLY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 ONYX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH EN TENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HE QIAN'AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHUANG HUIROU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>JUNIOR BOYS GROUP EVENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN TSE HONG KEEGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 EMERALD</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Junior Boys Group Weapon 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOH HONG YI GILES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 JADE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GERAINT SHEN MINYOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 JADE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PANG ZI HAO PRINCETON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH YU LE KERWIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU HAOTONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 OPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELIJAH YEO YU MING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 ONYX</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Prize Winners 2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.jpg">
+</div>
+<p>Final Day Group Event at OCBC Arena</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13.jpg">
+</div>
 <p><strong><u>2025 NSG Wushu Prize Winners</u></strong>
 </p>
 <table style="minWidth: 75px">
@@ -419,4 +751,5 @@ p.m.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
+<p></p>
 <p></p>
