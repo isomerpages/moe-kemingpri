@@ -35,6 +35,23 @@ has achieved good results at the SYF competitions.</p>
 <p>School PE T-shirt, black tights and ballet shoes</p>
 <p>Students are to tie their hair in a bun before CCA commences.</p>
 <h4>Achievements</h4>
+<p>2026 SYF Distinction</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17.jpg">
+</div>
+<p>2024 SYF Distinction</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20.jpg">
+</div>
 <p>2019 SYF Accomplishment (出路)
 <br>
 <br>2020 Cultural exchange- Performance at Dulwich College
