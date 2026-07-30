@@ -16,8 +16,7 @@ with our school's R3ICH values.</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Hairani Binte Amin<br></strong>(<a href="mailto:hairani_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hairani_amin@moe.edu.sg</a>)</p>
 <p><strong>Mdm Guo Shiyun</strong>
-</p>
-<p>(<a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>)</p>
+<br>(<a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>)</p>
 <p><strong>Ms Hung Yi Ting<br></strong>(<a href="mailto:hung_yi_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_yi_ting@moe.edu.sg</a>)</p>
 <p><strong>Mdm Wang Tan<br></strong>(<a href="mailto:wang_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_tan@moe.edu.sg</a>)</p>
 <p><strong>Ms Marlene Toh (Mrs Ler)<br></strong>(<a href="mailto:toh_marlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_marlene@moe.edu.sg</a>)</p>
