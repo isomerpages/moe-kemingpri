@@ -26,7 +26,7 @@ a constructive role in society.</p>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
 <p>Teaching Lab/PO Room 6</p>
-<h4>Attire </h4>
+<h4>Attire</h4>
 <p>Scouts Uniform</p>
 <h4>Achievements</h4>
 <p><strong>Frank Cooper Sands Award (Unit Award)</strong>
@@ -208,8 +208,15 @@ students who have satisfied the requirement for this prestigious award:</p>
 <p><strong>Knot Booth @Area Founder’s Day 2026</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts1.png">
+</div>
 <p><strong>Cub Scout Leadership Course - Tent Pitching!</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts2.jpg">
+</div>
 <p><strong>2021 Activities:</strong>
 </p>
 <p><strong>Unit Meetings<br></strong>We kicked off the year by having roasted
