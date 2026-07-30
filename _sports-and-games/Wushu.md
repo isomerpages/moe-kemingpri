@@ -25,6 +25,12 @@ teams only)
 p.m.</p>
 <h4>Venue</h4>
 <p>School Hall</p>
+<h4>Attire</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>School PE uniform, long black track pants</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <p><strong><u>2026 NSG Wushu Prize Winners</u></strong>
 </p>
