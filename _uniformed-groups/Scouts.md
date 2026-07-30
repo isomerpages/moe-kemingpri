@@ -18,9 +18,11 @@ a constructive role in society.</p>
 <br>Better Scouting for more young People</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mr Gejendran s/o V Krishnan<br></strong>(gejendran_v_krishnan@moe.edu.sg)</p>
-<p><strong>Mr Goh Leong Poom<br></strong>(<a href="mailto:goh_leong_poon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_leong_poon@moe.edu.sg</a>)</p>
+<p><strong>Mr Goh Leong Poon<br></strong>(<a href="mailto:goh_leong_poon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_leong_poon@moe.edu.sg</a>)</p>
 <p><strong>Mr Richard Lim<br></strong>(<a href="mailto:richard_lim_heng_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_lim_heng_lee@moe.edu.sg</a>)</p>
-<p></p>
+<p><strong>Mdm Charlena Low</strong>
+</p>
+<p>(<a href="mailto:low_ming_lee_charlena_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_ming_lee_charlena_b@schools.gov.sg</a>)</p>
 <h4>Day &amp; Time</h4>
 <p><strong>Wednesdays</strong>, 2:15 p.m. - 4:15 p.m.</p>
 <h4>Venue</h4>
