@@ -39,7 +39,6 @@ face of adversity.</p>
 <h4>Achievements</h4>
 <p><em>National Sports Games (Junior and Senior)</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/14.jpg">
 </div>
