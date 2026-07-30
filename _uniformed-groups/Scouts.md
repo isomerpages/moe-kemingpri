@@ -215,9 +215,21 @@ students who have satisfied the requirement for this prestigious award:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts2.jpg">
 </div>
-<p>Hosting North Area First Aid Competition</p>
-<p>Showing care to the elderlies</p>
-<p>Teambuilding Games!</p>
+<p><strong>Hosting North Area First Aid Competition</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts3.jpg">
+</div>
+<p><strong>Showing care to the elderlies</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts4.jpg">
+</div>
+<p><strong>Teambuilding Games!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts5.jpg">
+</div>
 <p></p>
 <p><strong>2021 Activities:</strong>
 </p>
