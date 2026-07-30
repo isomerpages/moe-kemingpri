@@ -16,36 +16,38 @@ with our school's R3ICH values.</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Ms Hairani Binte Amin<br></strong>(<a href="mailto:hairani_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hairani_amin@moe.edu.sg</a>)</p>
 <p><strong>Mdm Guo Shiyun</strong>
-</p>
-<p>(<a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>)</p>
+<br>(<a href="mailto:guo_shiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_shiyun@moe.edu.sg</a>)</p>
 <p><strong>Ms Hung Yi Ting<br></strong>(<a href="mailto:hung_yi_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_yi_ting@moe.edu.sg</a>)</p>
 <p><strong>Mdm Wang Tan<br></strong>(<a href="mailto:wang_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_tan@moe.edu.sg</a>)</p>
 <p><strong>Ms Marlene Toh (Mrs Ler)<br></strong>(<a href="mailto:toh_marlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_marlene@moe.edu.sg</a>)</p>
 <p><strong>Ms Hu Ling Mei<br></strong>(<a href="mailto:hu_lingmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_lingmei@moe.edu.sg</a>)</p>
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2:15 p.m. - 4:45 p.m.</p>
+<p><strong>Wednesdays</strong>, 2:15 p.m. - 5.15 p.m.</p>
 <h4>Venue</h4>
-<p>Band Room, 5EM, 5JA, 5ON,5OP, 5PE,PO Room 10</p>
+<p>ISH Band Room, 3 AM, 3 DI, 3 EM, 3 JA, Obs Rm, Room 6, PO Rm 7, PO Rm
+12 &amp; 13</p>
+<h4>Attire</h4>
+<p>School PE Uniform</p>
+<h4>Equipment</h4>
+<p>Loaned from school</p>
 <h4>Achievements</h4>
+<p>SYF 2026: Distinction Award</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO3.jpg">
+</div>
 <p>SYF 2018: Accomplishment</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/co1.jpeg">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/co2.jpeg">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/co3.jpeg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" src="/images/co4.jpeg">
 </div>
