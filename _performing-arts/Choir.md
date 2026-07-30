@@ -24,6 +24,13 @@ musical excellence, teamwork and gracious character.</p>
 <h4>Achievements</h4>
 <p>SYF 2026 (Certificate of Accomplishment)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir2.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
