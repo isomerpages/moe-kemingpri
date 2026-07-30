@@ -2,7 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
-      - Choir.md
       - Chinese Orchestra.md
       - Chinese Dance.md
       - International Dance.md
+      - Choir.md
