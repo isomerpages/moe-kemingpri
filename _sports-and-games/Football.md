@@ -4,6 +4,14 @@ permalink: /keming-grow/our-co-curricular-activities-ccas/sports-n-games/footbal
 description: ""
 variant: tiptap
 ---
+<p>Our Football CCA welcomes students of all abilities to develop their football
+skills in a fun and supportive environment. Through regular training and
+inter-school competitions, students build teamwork, discipline, resilience,
+and sportsmanship values that go beyond the field and into everyday life.</p>
+<p>Students may have the opportunity to represent the school in National
+School Games competitions, where they put their skills and character to
+the test. More than just a sport, Football CCA is where lasting friendships
+are formed and confident, responsible individuals are shaped.</p>
 <h4>Teachers-In-Charge</h4>
 <p><strong>Mdm Florence Tan<br></strong>(<a href="mailto:tan_fong_ting_florence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_fong_ting_florence@moe.edu.sg</a>)</p>
 <p><strong>Mr Pravin Rehunathan<br></strong>(<a href="mailto:pravin_rehunathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pravin_rehunathan@moe.edu.sg</u></a>)</p>
@@ -15,10 +23,17 @@ variant: tiptap
 </p>
 <p>(<a href="mailto:lai_chien_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chien_lan@moe.edu.sg</a>)</p>
 <h4>Days &amp; Time</h4>
-<p><strong>Wednesdays</strong>, 2:15 p.m. – 5:15 p.m.</p>
+<p><strong>Boys (Monday):</strong>&nbsp;2.15pm – 4.15pm&nbsp;<em>(Primary 3 only)</em>
+</p>
+<p><strong>Girls (Wednesday):</strong>&nbsp;2.15pm – 4.15pm</p>
 <h4>Venue</h4>
 <p>Field</p>
-<h4>Photos</h4>
+<h4>Achievements</h4>
+<p><strong>2026 National School Games Senior Division (Girls) Tier 1</strong> –
+3rd Place</p>
+<p></p>
+<p><strong>2025 National School Games Senior Division (Girls) Tier 1</strong> –
+4th Place</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
