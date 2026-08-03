@@ -17,11 +17,9 @@ are formed and confident, responsible individuals are shaped.</p>
 <p><strong>Mr Pravin Rehunathan<br></strong>(<a href="mailto:pravin_rehunathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pravin_rehunathan@moe.edu.sg</u></a>)</p>
 <p><strong>Mdm Nur Ramizah<br></strong>(<a href="mailto:nur_ramizah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ramizah_ramli@moe.edu.sg</a>)</p>
 <p><strong>Ms Prema Panneerselvam</strong>
-</p>
-<p>(<a href="mailto:prema_panneerselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prema_panneerselvam@moe.edu.sg</a>)</p>
+<br>(<a href="mailto:prema_panneerselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prema_panneerselvam@moe.edu.sg</a>)</p>
 <p><strong>Ms Angela Lai Chien Lan</strong>
-</p>
-<p>(<a href="mailto:lai_chien_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chien_lan@moe.edu.sg</a>)</p>
+<br>(<a href="mailto:lai_chien_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chien_lan@moe.edu.sg</a>)</p>
 <h4>Days &amp; Time</h4>
 <p><strong>Boys (Monday):</strong>&nbsp;2.15pm – 4.15pm&nbsp;<em>(Primary 3 only)</em>
 </p>
@@ -31,7 +29,15 @@ are formed and confident, responsible individuals are shaped.</p>
 <h4>Achievements</h4>
 <p><strong>2026 National School Games Senior Division (Girls) Tier 1</strong> –
 3rd Place</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.jpg">
+</div>
 <p><strong>2025 National School Games Senior Division (Girls) Tier 1</strong> –
 4th Place</p>
 <table style="minWidth: 50px">
