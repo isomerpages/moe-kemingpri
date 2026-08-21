@@ -24,7 +24,6 @@ sections:
       variant: image
   - infobar:
       title: Teachers’ Day Celebration
-      subtitle: Add informational text
       id: infobar
       description: We will be celebrating Teachers’ Day on Thursday, 3 September 2026
         between 7.30 a.m. to 10.30 a.m.
