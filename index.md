@@ -34,4 +34,10 @@ sections:
       description: We are delighted to share our latest e-newsletter!
       button: Find out more
       url: https://kemingpri.moe.edu.sg/keming-glow/e-newsletter/
+  - infobar:
+      title: Teachers’ Day Celebration
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
