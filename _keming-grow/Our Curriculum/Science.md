@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Our Curriculum
 variant: tiptap
 ---
-<h4><strong>Curricular Goal</strong></h4>
-<p><strong>A Community of Science Inquirers<br></strong>
-</p>
+<h4><strong>Curricular Goal</strong><br>A Community of Science Inquirers</h4>
 <p>Keming Primary adopts an inquiry-based approach to learning science. This
 investigative approach to learning requires students to investigate a problem,
 search for possible solutions, make observations, ask questions, test out
@@ -17,8 +15,9 @@ for the phenomena under investigation, elaborate on concepts and processes,
 and evaluate their understanding considering available evidence. Scientific
 knowledge, scientific inquiry and scientific skills are emphasised in classroom
 teaching to achieve the 21st CC as desired outcome in our curriculum.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Science/science 1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_142350.jpg">
 </div>
 <h4><strong>Every Child A Seed</strong></h4>
 <p>National Environment Agency provides each Primary 3 student with a pot
@@ -30,60 +29,50 @@ cycle of these plants. Students are proud that their seeds manage to germinate
 and blossom under their care.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science_updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150131.jpg">
 </div>
 <h4><strong>Leadership Training for Science Monitors</strong></h4>
-<p>Primary 4 Science Monitors are trained by Zoo Educators at the River Safari.
-Thereafter, they are given the opportunity to transfer their learning to
-others. In the programme, each Primary 4 Science Monitor partners two to
-three Primary 3 students and explains to them how the organisms in the
-River Safari survive and how we could take better care of them to prevent
-extinction. These students practice leadership skills and how to communicate
-their learning to others.</p>
+<p>Our Primary 4 Science Monitors take on a meaningful role as peer educators,
+trained by Zoo Educators at River Wonders. Armed with knowledge about the
+fascinating organisms that call the river ecosystem home, they return to
+school ready to share what they have learnt.</p>
+<p>Each Primay 4 Science Monitor is paired with two to three Primary 3 students,
+guiding them through how river organisms survive and why it is important
+to protect these species from extinction. This experience goes beyond Science
+— it builds confidence, nurtures leadership, and develops the ability to
+communicate ideas clearly to others.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science/science 3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150304.jpg">
+</div>
+<p>Our Primary 5 Science Monitors visited the Science Centre for Brain Fest,
+an engaging programme designed to develop leadership skills and deepen
+their love for learning. Through hands-on activities and interactive experiences,
+students were challenged to think critically, work collaboratively, and
+step up as leaders.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150607.jpg">
 </div>
 <h4><strong>SCIENCE E2K Programme</strong></h4>
-<p>TThe E2K Science programme exposes students to advanced scientific concepts
-to develop their process skills and critical thinking in science.</p>
-<p>Students will work collaboratively with an assigned task. Students communicate
-and exchange ideas with each other. The E2K Science programme aims to stimulate
-curiosity and strengthen their ability to devise a plan and come up with
-a plausible conclusion. At the end of the programme, we hope to develop
-Kemingnites as confident speakers, effective communicators and with a mindset
-of inquiry.</p>
-<p>Students working as a team to understand the task activity and collect
-data and results.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science/science 4.jpg">
-</div>
-<p>Students working together to devise a plan and carrying out their plan
-for data collection and analysis.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science/science 5.jpg">
-</div>
-<p>Students shares their plan and results as a team at the end of the activity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science/science 6.jpg">
-</div>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>The E2K Science programme offers our students an exciting opportunity
+to explore advanced scientific concepts beyond the classroom curriculum.
+Designed to stretch curious and capable young minds, the programme develops
+students' process skills and critical thinking as they investigate real
+scientific questions.</p>
+<p>Working in teams, students collaborate to understand tasks, collect data,
+and draw conclusions — learning not just the science, but how to think
+and work like scientists. Through discussion and exchange of ideas, they
+sharpen their ability to communicate their thinking clearly and confidently.</p>
+<p>At Keming Primary, we believe that great scientists are not just knowledgeable
+— they are curious, creative, and collaborative. Through E2K Science, we
+hope to nurture Kemingnites who approach challenges with an inquiring mind,
+communicate with confidence, and develop a lifelong love for discovery.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feedback_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150652.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feedback.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Garden Trail</strong></h4>
 <p>The Eco Garden has been created to enable students to have a good experience
 in understanding the different types of garden plants and how these plants
@@ -111,57 +100,23 @@ best model for their final presentation.</p>
 longest time, the Primary 3 students need to find out which type of materials
 will be best for the canopy and how wind and other factors can affect the
 time the parachute can stay afloat.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/sci_para.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150740.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p>Primary 4 students take on the challenge of building a bridge using sticks.
+They need to understand how to assemble the sticks to ensure the sturdiness
+of the bridge, so that it is well-supported at the base and will not collapse.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sci_para_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150812.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students making a parachute as a team.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students testing out their parachute and finding out which parachute can
-stay in the air for the longest period of time.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Primary 4 students take on the challenge of building a solar oven using
-reusable and recyclable items. They need to know heat can be trapped in
-their solar oven and how the different materials can affect the solar oven’s
-ability to warm things up.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_solar_2.png">
-</div>
-<p>Students testing out their solar oven under the sun.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_solar_1.png">
-</div>
-<p>Students working together to build their solar oven.</p>
-<p></p>
-<p></p>
-<p>Primary 5 students create a robotic hand using recycled materials. Students
-discuss and brainstorm on the purpose of building of robotic hands to meet
-the needs of the users. They learnt to empathize the user’s needs and show
-how the robotic hands can help them in their daily lives.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Science_robot.jpg">
-</div>
+<p>Primary 5 students create a wind-powered car using recycled cardboard
+materials. They can remodel the car after fixing the parts to test on the
+furthest distance that the car can move after their modifications.</p>
 <p>Robotic hand made by students.</p>
-<h4><strong>Seatrium Limited Greenwave Environmental Care Project 2023</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/science_last.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_150904.jpg">
 </div>
 <p></p>
