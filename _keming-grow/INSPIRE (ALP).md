@@ -11,52 +11,19 @@ and&nbsp;<strong>E</strong>xperiments)</p>
 Primary 3 to Primary 5. It engages students in understanding the science
 concepts and teaches them skills that is applicable in the future aside
 from immediately applying them to the relevant aspects of their lives now.</p>
-<p>Students use the Engineering Design Process to think of the data they
-needed to gather and using the data gathered, to help them create a prototype,
-which involves the use of Micro:bit. Scientific process skills such as
-controlling variables, interpreting data, planning and designing investigations
-for problem solving are being emphasized in the process.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp2.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp3.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp4.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>Students use the Design Thinking Process to determine the data they need
+to gather and, using that data, create a prototype incorporating the use
+of Micro:bit. Throughout this process, scientific process skills such as
+controlling variables, interpreting data, and planning and designing investigations
+for problem solving are emphasised.</p>
+<p><strong>P3 Junior Scientist</strong>
+</p>
+<p>In this project, Primary 3 students will explore the impact of climate
+change, with a specific focus on the threat of flooding. They will be tasked
+with designing and constructing a prototype that addresses this issue using
+recyclable materials such as straws. The students will then present their
+prototypes to the class, showcasing their creative solutions to mitigate
+the effects of climate change.</p>
 <h4><strong>P1 &amp; P2 E.X.P.L.O.R.E</strong></h4>
 <p>The E.X.P.L.O.R.E programme provides learning experiences that aim to
 foster critical thinking, effective communication, and the ability to question,
@@ -72,38 +39,39 @@ hands-on approach will enhance their knowledge and appreciation of botanical
 diversity, fostering a deeper connection with nature and promoting environmental
 awareness.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_153434.jpg">
+</div>
 <h4><strong>Primary 2 (E.X.P.L.O.R.E.)</strong></h4>
-<p>In Primary 2, students were given a chance to deepen their knowledge of
-what they had learnt earlier. They did the coding in the makecode platform
-and assembled their own light detector. Using the light sensor application
-in the Micro:bit, they were able to check the brightness of the room and
-used it to turn off the lights when not needed in order to conserve energy.
-<br>Students were given the opportunity to explore and test their codes. They
-collaborated with one another and helped each other out when they faced
-challenges.</p>
+<p>Primary 2 students learnt about the role of the Sun in providing energy
+and supporting the growth of plants on Earth. They also learnt how solar
+energy can be harnessed for practical applications, such as solar panels
+and solar cars. Additionally, they engaged in a hands-on activity of building
+a solar car, enhancing their understanding of solar power.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_153452.jpg">
 </div>
-<h4><strong>Junior Scientist (P3 Guided inquiry)</strong></h4>
-<p>P3 students created structures using building elements from Strawbees.
-During the training sessions, they were taught to apply simple principles
-of movement to build mechanisms that were required to construct a mobile.</p>
-<p>Strawbees allows students to be innovative through hands-on exploration
-as they construct their ingenious design. Students gain a better understanding
-of mechanisms with their inventions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp7.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp8.png">
-</div>
-<p>Construction of prototype</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp9.png">
-</div>
+<h4><strong>I.N.S.P.I.R.E. The Scientist in Me</strong></h4>
+<p>(<strong>IN</strong>quiry&nbsp;<strong>S</strong>cience&nbsp;<strong>P</strong>rojects&nbsp;<strong>I</strong>nvolving&nbsp;<strong>R</strong>esearch
+and&nbsp;<strong>E</strong>xperiments)</p>
+<p>STEM Education is incorporated in Project Work which is carried out from
+Primary 3 to Primary 5. It engages students in understanding the science
+concepts and teaches them skills that is applicable in the future aside
+from immediately applying them to the relevant aspects of their lives now.</p>
+<p>Students use the Design Thinking Process to determine the data they need
+to gather and, using that data, create a prototype incorporating the use
+of Micro:bit. Throughout this process, scientific process skills such as
+controlling variables, interpreting data, and planning and designing investigations
+for problem solving are emphasised.</p>
+<h4><strong>P3 Junior Scientist</strong></h4>
+<p>In this project, Primary 3 students will explore the impact of climate
+change, with a specific focus on the threat of flooding. They will be tasked
+with designing and constructing a prototype that addresses this issue using
+recyclable materials such as straws. The students will then present their
+prototypes to the class, showcasing their creative solutions to mitigate
+the effects of climate change.</p>
+<p></p>
 <h4><strong>Apprentice Scientist (P4 Guided inquiry)</strong></h4>
 <p>Students learnt the importance of producing sufficient food to be self-sustainable
 and in turn, contributing to food security in Singapore. The hydroponics
