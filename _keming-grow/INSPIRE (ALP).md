@@ -2,67 +2,155 @@
 title: INSPIRE (ALP)
 permalink: /keming-grow/i-n-s-p-i-r-e-alp/
 description: ""
+variant: tiptap
 ---
 <h4><strong>I.N.S.P.I.R.E. The Scientist in Me</strong></h4>
-<p>(<strong>IN</strong>quiry&nbsp;<strong>S</strong>cience&nbsp;<strong>P</strong>rojects&nbsp;<strong>I</strong>nvolving&nbsp;<strong>R</strong>esearch and&nbsp;<strong>E</strong>xperiments)</p>
-<p>STEM Education is incorporated in Project Work which is carried out from Primary 3 to Primary 5. It engages students in understanding the science concepts and teaches them skills that is applicable in the future aside from immediately applying them to the relevant aspects of their lives now.</p>
-<p>Students use the Engineering Design Process to think of the data they needed to gather and using the data gathered, to help them create a prototype, which involves the use of Micro:bit. Scientific process skills such as controlling variables, interpreting data, planning and designing investigations for problem solving are being emphasized in the process.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/alp1.jpeg"></td>
-<td style="width: 50%;"><img src="/images/alp2.jpeg"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 37%;"><img src="/images/alp3.jpeg"></td>
-<td style="width: 63%;"><img src="/images/alp4.jpeg"></td>
-</tr>
-</tbody>
-</table>
+<p>(<strong>IN</strong>quiry&nbsp;<strong>S</strong>cience&nbsp;<strong>P</strong>rojects&nbsp;<strong>I</strong>nvolving&nbsp;<strong>R</strong>esearch
+and&nbsp;<strong>E</strong>xperiments)</p>
+<p>STEM Education is incorporated in Project Work which is carried out from
+Primary 3 to Primary 5. It engages students in understanding the science
+concepts and teaches them skills that is applicable in the future aside
+from immediately applying them to the relevant aspects of their lives now.</p>
+<p>Students use the Design Thinking Process to determine the data they need
+to gather and, using that data, create a prototype incorporating the use
+of Micro:bit. Throughout this process, scientific process skills such as
+controlling variables, interpreting data, and planning and designing investigations
+for problem solving are emphasised.</p>
+<p><strong>P3 Junior Scientist</strong>
+</p>
+<p>In this project, Primary 3 students will explore the impact of climate
+change, with a specific focus on the threat of flooding. They will be tasked
+with designing and constructing a prototype that addresses this issue using
+recyclable materials such as straws. The students will then present their
+prototypes to the class, showcasing their creative solutions to mitigate
+the effects of climate change.</p>
+<h4><strong>P1 &amp; P2 E.X.P.L.O.R.E</strong></h4>
+<p>The E.X.P.L.O.R.E programme provides learning experiences that aim to
+foster critical thinking, effective communication, and the ability to question,
+reflect, and persevere. Through these learning activities, students learn
+to respect one another by practising perspective-taking, collaborating
+effectively, and articulating their thoughts convincingly.</p>
+<p></p>
 <h4><strong>Primary 1 (E.X.P.L.O.R.E.)</strong></h4>
-<p>Primary 1 students were introduced to the basics of block programming and they were guided step-by-step to recognize the different blocks in the makecode platform.&nbsp;</p>
-<p>They gained a better understanding of the different applications of Micro:bit such as automated watering system, remote control, music devices and many more.</p>
-<img src="/images/alp5.png">
+<p>The Primary 1 students will develop an understanding of the diverse plant
+life in their environment. Through experiential learning, they will visit
+the Racial Harmony Garden to observe and identify various plants. This
+hands-on approach will enhance their knowledge and appreciation of botanical
+diversity, fostering a deeper connection with nature and promoting environmental
+awareness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_153434.jpg">
+</div>
 <h4><strong>Primary 2 (E.X.P.L.O.R.E.)</strong></h4>
-<p>In Primary 2, students were given a chance to deepen their knowledge of what they had learnt earlier. They did the coding in the makecode platform and assembled their own light detector. Using the light sensor application in the Micro:bit, they were able to check the brightness of the room and used it to turn off the lights when not needed in order to conserve energy.<br />Students were given the opportunity to explore and test their codes. They collaborated with one another and helped each other out when they faced challenges.</p>
-<img src="/images/alp6.png">
-<h4><strong>Junior Scientist (P3 Guided inquiry)</strong></h4>
-<p>P3 students created structures using building elements from Strawbees. During the training sessions, they were taught to apply simple principles of movement to build mechanisms that were required to construct a mobile.</p>
-<p>Strawbees allows students to be innovative through hands-on exploration as they construct their ingenious design. Students gain a better understanding of mechanisms with their inventions.</p>
-<img src="/images/alp7.png"><br>
-<img src="/images/alp8.png">
-<p style="text-align: center;">Construction of prototype</p>
-<img src="/images/alp9.png">
-<h4><strong>Apprentice Scientist (P4 Guided inquiry)</strong></h4>
-<p>Students learnt the importance of producing sufficient food to be self-sustainable and in turn, contributing to food security in Singapore. The hydroponics project enable students to experience harvesting vegetables such as water spinach and kangkong, taking note of the ideal conditions for plant growth.</p>
-<img src="/images/alp10.png">
-<p>A rewarding experience to grow plants from seeds.</p>
-<img src="/images/alp11.png">
-<p><strong>To investigate the growth of the vegetables under different light conditions.</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 70%;"><img src="/images/alp12.png"></td>
-<td style="width: 30%;">Students grew the vegetables in grow-boxes. This activity reinforced the scientific concept learnt on how overcrowding can affect plant growth.</td>
-</tr>
-<tr>
-<td style="width: 70%;"><img src="/images/alp13.png"></td>
-<td style="width: 30%;">After 4 to 5 weeks, the vegetables were harvested and packed into bags. Students recorded the weight of their harvests.&nbsp; The edible harvest was consumed while the spoils were used as soil compost.</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Master Scientist (P5 Guided Inquiry)</strong></h4>
-<p>Primary 5 students were tasked to design a prototype that could save endangered animals. They identified the threats faced by the endangered animals. Using the Engineering Design Process, the students work in teams to brainstorm ideas and design their own unique prototype to counter the threat.</p>
-<p>To enrich the students&rsquo; learning experiences, the school partnered with external agencies. The experts from S.E.A. Aquarium engaged our students in an hour long zoom session. Students were thrilled to go on a virtual tour of the Aquarium and to interact with the keepers who cared for the animals. During the interactive session, the keepers spoke about a specific sea creature and the threats the animal faced in the wild.&nbsp;</p>
-<p>To make learning authentic, students were informed about conservation efforts done in the school. Students were encouraged to visit the turtle enclosure in the school garden to understand the constraints and vulnerability of animal habitats. Students were then tasked to reflect on their role in the conservation of biodiversity. Through these activities, students could better appreciate nature and understand the efforts in sustaining conservation.</p>
-<img src="/images/alp14.png"><br>
-<img src="/images/alp15.png">
+<p>Primary 2 students learnt about the role of the Sun in providing energy
+and supporting the growth of plants on Earth. They also learnt how solar
+energy can be harnessed for practical applications, such as solar panels
+and solar cars. Additionally, they engaged in a hands-on activity of building
+a solar car, enhancing their understanding of solar power.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_153452.jpg">
+</div>
+<h4><strong>I.N.S.P.I.R.E. The Scientist in Me</strong></h4>
+<p>(<strong>IN</strong>quiry&nbsp;<strong>S</strong>cience&nbsp;<strong>P</strong>rojects&nbsp;<strong>I</strong>nvolving&nbsp;<strong>R</strong>esearch
+and&nbsp;<strong>E</strong>xperiments)</p>
+<p>STEM Education is incorporated in Project Work which is carried out from
+Primary 3 to Primary 5. It engages students in understanding the science
+concepts and teaches them skills that is applicable in the future aside
+from immediately applying them to the relevant aspects of their lives now.</p>
+<p>Students use the Design Thinking Process to determine the data they need
+to gather and, using that data, create a prototype incorporating the use
+of Micro:bit. Throughout this process, scientific process skills such as
+controlling variables, interpreting data, and planning and designing investigations
+for problem solving are emphasised.</p>
+<h4><strong>P3 Junior Scientist</strong></h4>
+<p>In this project, Primary 3 students will explore the impact of climate
+change, with a specific focus on the threat of flooding. They will be tasked
+with designing and constructing a prototype that addresses this issue using
+recyclable materials such as straws. The students will then present their
+prototypes to the class, showcasing their creative solutions to mitigate
+the effects of climate change.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154509.jpg">
+</div>
+<h4><strong>P4 Apprentice Scientist</strong></h4>
+<p>Students are involved in a project focused on urban farming to address
+land scarcity. They design and construct a prototype of a green building
+that incorporates urban farming techniques. By presenting their prototypes
+to the class, students showcase their innovative solutions for sustainable
+agriculture in urban environments. This project nurtures problem-solving
+skills and promotes awareness of sustainable living practices.</p>
+<p>In addition, students have a hands-on learning experience by planting
+and harvesting seedlings using hydroponics. They investigate the diverse
+life cycles of plants by planting seeds in a greenhouse, The Bloom, fostering
+an understanding of plant growth. This experiential approach promotes scientific
+inquiry and practical knowledge of sustainable agriculture.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154605.jpg">
+</div>
+<p></p>
+<h4><strong>P5 Master Scientist&nbsp;</strong></h4>
+<p>Based on their research, students design their prototypes, demonstrating
+their innovative solutions to conserve endangered species. They are given
+the task of designing a prototype to help save endangered species, through
+which they research and develop an understanding of the impact of human
+actions on these species. Using the Design Thinking Process, the students
+work in teams to brainstorm ideas and design their own unique prototypes
+to address these threats.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154710.jpg">
+</div>
 <h4><strong>D.I.S.C.O.V.E.R Programme</strong></h4>
-<p style="text-align: center;">(<strong>D</strong>eveloping<strong>&nbsp;I</strong>nquirers of&nbsp;<strong>S</strong>cien<strong>C</strong>e, Inn<strong>OV</strong>ators of&nbsp;<strong>E</strong>xperimental&nbsp;<strong>R</strong>esearch in Keming Primary School)</p>
-<p>D.I.S.C.O.V.E.R. programme provides an opportunity for students to gain a deeper understanding of how Science and Technology can shape their intellectual and cultural environment. Students are equipped with skills to be reflective, ethical citizens and critical thinkers while engaging in environment-related issues.</p>
-<p>This programme provides an authentic learning experience which focusses on the impact of pollution in our natural environment. Under the guidance of experts, two scientists from A*STAR will mentor the Primary 5 students to study about the environmental issues that Singapore faces. Due to the current safe management measures, learning for the students took place online this year. Students collaborated well with their team members online and they came up with creative ways to gather data.</p>
-<img src="/images/alp16.png">
+<p>(<strong>D</strong>eveloping<strong>&nbsp;I</strong>nquirers of&nbsp;<strong>S</strong>cien<strong>C</strong>e,
+Inn<strong>OV</strong>ators of&nbsp;<strong>E</strong>xperimental&nbsp;<strong>R</strong>esearch
+in Keming Primary School)</p>
+<p>D.I.S.C.O.V.E.R. programme provides an opportunity for students to gain
+a deeper understanding of how Science and Technology can shape their intellectual
+and cultural environment. Students are equipped with skills to be reflective,
+ethical citizens and critical thinkers while engaging in environment-related
+issues.</p>
+<p>This programme provides an authentic learning experience that focuses
+on the impact of pollution on our natural environment. Under the guidance
+of two scientists from A*STAR, Primary 5 students are mentored to study
+the environmental issues that Singapore faces. Students collaborated effectively
+with their team members and came up with creative ways to gather data.
+Using the data, the students came up with creative solutions to counter
+environmental issues.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154735.jpg">
+</div>
+<p><strong>Partnership with Mandai Wildlife Reserve</strong>
+</p>
+<p>As part of our Applied Learning Programme (ALP), our students embarked
+on an 8-month <strong>Action for Wildlife</strong> journey in partnership
+with Mandai Wildlife Reserve. Through this authentic learning experience,
+students explored real-world wildlife issues, conducted their own research,
+and developed creative solutions to support wildlife conservation.</p>
+<p>Throughout the programme, students had the opportunity to learn from wildlife
+experts and take part in workshops that strengthened their research, problem-solving
+and communication skills. The journey culminated in a community outreach
+at Mandai, where students shared their research and solutions with members
+of the public.</p>
+<p>Through this partnership, our students not only deepened their understanding
+of wildlife and conservation, but also discovered how they can use their
+knowledge, ideas and voices to make a meaningful difference.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP4.jpg">
+</div>
+<p></p>
