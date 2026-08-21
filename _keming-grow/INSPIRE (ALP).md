@@ -75,7 +75,7 @@ the effects of climate change.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154509.jpg">
 </div>
-<h4><strong>P4 Apprentice Scientist </strong></h4>
+<h4><strong>P4 Apprentice Scientist</strong></h4>
 <p>Students are involved in a project focused on urban farming to address
 land scarcity. They design and construct a prototype of a green building
 that incorporates urban farming techniques. By presenting their prototypes
