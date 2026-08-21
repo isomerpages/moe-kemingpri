@@ -23,18 +23,6 @@ sections:
       background: /images/MAIN BANNERS/GIF_Timeline_2.gif
       variant: image
   - infobar:
-      title: Our Parent Volunteer (PV) Scheme
-      id: infobar
-      description: PV Registration Form 2026 for 2029 P1 Admission is now opened.
-      button: Find out more
-      url: https://www.kemingpri.moe.edu.sg/our-parent-volunteer-scheme/
-  - infobar:
-      title: Keming Keeping in Touch e-Newsletter June 2026
-      id: infobar
-      description: We are delighted to share our latest e-newsletter!
-      button: Find out more
-      url: https://kemingpri.moe.edu.sg/keming-glow/e-newsletter/
-  - infobar:
       title: Teachers’ Day Celebration
       subtitle: Add informational text
       id: infobar
@@ -42,4 +30,10 @@ sections:
         between 7.30 a.m. to 10.30 a.m.
       button: Find out more
       url: /kmps/announcements/
+  - infobar:
+      title: Keming Keeping in Touch e-Newsletter June 2026
+      id: infobar
+      description: We are delighted to share our latest e-newsletter!
+      button: Find out more
+      url: https://kemingpri.moe.edu.sg/keming-glow/e-newsletter/
 ---
