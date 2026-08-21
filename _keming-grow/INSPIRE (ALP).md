@@ -72,77 +72,37 @@ recyclable materials such as straws. The students will then present their
 prototypes to the class, showcasing their creative solutions to mitigate
 the effects of climate change.</p>
 <p></p>
-<h4><strong>Apprentice Scientist (P4 Guided inquiry)</strong></h4>
-<p>Students learnt the importance of producing sufficient food to be self-sustainable
-and in turn, contributing to food security in Singapore. The hydroponics
-project enable students to experience harvesting vegetables such as water
-spinach and kangkong, taking note of the ideal conditions for plant growth.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154509.jpg">
 </div>
-<p>A rewarding experience to grow plants from seeds.</p>
+<h4><strong>P4 Apprentice Scientist </strong></h4>
+<p>Students are involved in a project focused on urban farming to address
+land scarcity. They design and construct a prototype of a green building
+that incorporates urban farming techniques. By presenting their prototypes
+to the class, students showcase their innovative solutions for sustainable
+agriculture in urban environments. This project nurtures problem-solving
+skills and promotes awareness of sustainable living practices.</p>
+<p>In addition, students have a hands-on learning experience by planting
+and harvesting seedlings using hydroponics. They investigate the diverse
+life cycles of plants by planting seeds in a greenhouse, The Bloom, fostering
+an understanding of plant growth. This experiential approach promotes scientific
+inquiry and practical knowledge of sustainable agriculture.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154605.jpg">
 </div>
-<p><strong>To investigate the growth of the vegetables under different light conditions.</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong>P5 Master Scientist&nbsp;</strong></h4>
+<p>Based on their research, students design their prototypes, demonstrating
+their innovative solutions to conserve endangered species. They are given
+the task of designing a prototype to help save endangered species, through
+which they research and develop an understanding of the impact of human
+actions on these species. Using the Design Thinking Process, the students
+work in teams to brainstorm ideas and design their own unique prototypes
+to address these threats.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp12.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students grew the vegetables in grow-boxes. This activity reinforced the
-scientific concept learnt on how overcrowding can affect plant growth.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp13.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>After 4 to 5 weeks, the vegetables were harvested and packed into bags.
-Students recorded the weight of their harvests.&nbsp; The edible harvest
-was consumed while the spoils were used as soil compost.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Master Scientist (P5 Guided Inquiry)</strong></h4>
-<p>Primary 5 students were tasked to design a prototype that could save endangered
-animals. They identified the threats faced by the endangered animals. Using
-the Engineering Design Process, the students work in teams to brainstorm
-ideas and design their own unique prototype to counter the threat.</p>
-<p>To enrich the students’ learning experiences, the school partnered with
-external agencies. The experts from S.E.A. Aquarium engaged our students
-in an hour long zoom session. Students were thrilled to go on a virtual
-tour of the Aquarium and to interact with the keepers who cared for the
-animals. During the interactive session, the keepers spoke about a specific
-sea creature and the threats the animal faced in the wild.&nbsp;</p>
-<p>To make learning authentic, students were informed about conservation
-efforts done in the school. Students were encouraged to visit the turtle
-enclosure in the school garden to understand the constraints and vulnerability
-of animal habitats. Students were then tasked to reflect on their role
-in the conservation of biodiversity. Through these activities, students
-could better appreciate nature and understand the efforts in sustaining
-conservation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp14.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154710.jpg">
 </div>
 <h4><strong>D.I.S.C.O.V.E.R Programme</strong></h4>
 <p>(<strong>D</strong>eveloping<strong>&nbsp;I</strong>nquirers of&nbsp;<strong>S</strong>cien<strong>C</strong>e,
@@ -153,14 +113,30 @@ a deeper understanding of how Science and Technology can shape their intellectua
 and cultural environment. Students are equipped with skills to be reflective,
 ethical citizens and critical thinkers while engaging in environment-related
 issues.</p>
-<p>This programme provides an authentic learning experience which focusses
-on the impact of pollution in our natural environment. Under the guidance
-of experts, two scientists from A*STAR will mentor the Primary 5 students
-to study about the environmental issues that Singapore faces. Due to the
-current safe management measures, learning for the students took place
-online this year. Students collaborated well with their team members online
-and they came up with creative ways to gather data.</p>
+<p>This programme provides an authentic learning experience that focuses
+on the impact of pollution on our natural environment. Under the guidance
+of two scientists from A*STAR, Primary 5 students are mentored to study
+the environmental issues that Singapore faces. Students collaborated effectively
+with their team members and came up with creative ways to gather data.
+Using the data, the students came up with creative solutions to counter
+environmental issues.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/alp16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_21_154735.jpg">
 </div>
+<p><strong>Partnership with Mandai Wildlife Reserve</strong>
+</p>
+<p>As part of our Applied Learning Programme (ALP), our students embarked
+on an 8-month <strong>Action for Wildlife</strong> journey in partnership
+with Mandai Wildlife Reserve. Through this authentic learning experience,
+students explored real-world wildlife issues, conducted their own research,
+and developed creative solutions to support wildlife conservation.</p>
+<p>Throughout the programme, students had the opportunity to learn from wildlife
+experts and take part in workshops that strengthened their research, problem-solving
+and communication skills. The journey culminated in a community outreach
+at Mandai, where students shared their research and solutions with members
+of the public.</p>
+<p>Through this partnership, our students not only deepened their understanding
+of wildlife and conservation, but also discovered how they can use their
+knowledge, ideas and voices to make a meaningful difference.</p>
 <p></p>
