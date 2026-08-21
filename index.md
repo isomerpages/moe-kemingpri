@@ -23,11 +23,12 @@ sections:
       background: /images/MAIN BANNERS/GIF_Timeline_2.gif
       variant: image
   - infobar:
-      title: Our Parent Volunteer (PV) Scheme
+      title: Teachers’ Day Celebration
       id: infobar
-      description: PV Registration Form 2026 for 2029 P1 Admission is now opened.
+      description: We will be celebrating Teachers’ Day on Thursday, 3 September 2026
+        between 7.30 a.m. to 10.30 a.m.
       button: Find out more
-      url: https://www.kemingpri.moe.edu.sg/our-parent-volunteer-scheme/
+      url: /kmps/announcements/
   - infobar:
       title: Keming Keeping in Touch e-Newsletter June 2026
       id: infobar
