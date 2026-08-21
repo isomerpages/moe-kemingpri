@@ -38,6 +38,8 @@ sections:
       title: Teachers’ Day Celebration
       subtitle: Add informational text
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: We will be celebrating Teachers’ Day on Thursday, 3 September 2026
+        between 7.30 a.m. to 10.30 a.m.
+      button: Find out more
+      url: /kmps/announcements/
 ---
